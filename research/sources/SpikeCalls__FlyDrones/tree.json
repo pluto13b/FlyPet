@@ -1,0 +1,997 @@
+{
+  "sha": "3e269346b3882c291d2a977bc2c2c6a9c9213c21",
+  "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/3e269346b3882c291d2a977bc2c2c6a9c9213c21",
+  "tree": [
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b1d72ac750f6c701f567a4867386bd5ff315b64a",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/b1d72ac750f6c701f567a4867386bd5ff315b64a"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3452832edd074fe7217eb22a257f6993eb0cd1ee",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/3452832edd074fe7217eb22a257f6993eb0cd1ee"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "01d7921e71771a17bcb42694cfab19a686cfa4c6",
+      "size": 192,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/01d7921e71771a17bcb42694cfab19a686cfa4c6"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/flight_report.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72ffefeea75ae4e84ecf250dfa2871dad2ef61bd",
+      "size": 371,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/72ffefeea75ae4e84ecf250dfa2871dad2ef61bd"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/idea.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42d78135e1f1e8c0b77f2f7f3592f007c5661a38",
+      "size": 128,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/42d78135e1f1e8c0b77f2f7f3592f007c5661a38"
+    },
+    {
+      "path": ".github/pull_request_template.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65af284035091d769ed8577c524fb026e151a172",
+      "size": 227,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/65af284035091d769ed8577c524fb026e151a172"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3533c0cd70bc29385ffbd1332d158913429df45c",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/3533c0cd70bc29385ffbd1332d158913429df45c"
+    },
+    {
+      "path": ".github/workflows/ci.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "338fdce401603428a1be486336309beeebeed25f",
+      "size": 612,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/338fdce401603428a1be486336309beeebeed25f"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fcbd2ac6c43babfd4bdde84737ce31a832fecc14",
+      "size": 191,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/fcbd2ac6c43babfd4bdde84737ce31a832fecc14"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47feacef6d4ddba741a4567564775294409cca00",
+      "size": 686,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/47feacef6d4ddba741a4567564775294409cca00"
+    },
+    {
+      "path": "CITATION.cff",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11eebdd821937420a2752938b75ea679988d3b25",
+      "size": 874,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/11eebdd821937420a2752938b75ea679988d3b25"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0743cf2404f92da0af88514a09474c1dc23a3f9b",
+      "size": 947,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/0743cf2404f92da0af88514a09474c1dc23a3f9b"
+    },
+    {
+      "path": "CONTRIBUTORS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "244bcb19c500011afcfeb74f43183585d560ec72",
+      "size": 291,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/244bcb19c500011afcfeb74f43183585d560ec72"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "307840d6bf7c8d90c971c6e43d7989da7e97d7b9",
+      "size": 1094,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/307840d6bf7c8d90c971c6e43d7989da7e97d7b9"
+    },
+    {
+      "path": "Makefile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6da081d076b3f7d73b77ab668edfc79bc10bd6d",
+      "size": 365,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/c6da081d076b3f7d73b77ab668edfc79bc10bd6d"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "489fb11c9a96063808533f60a98a8c65b6cf7949",
+      "size": 17201,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/489fb11c9a96063808533f60a98a8c65b6cf7949"
+    },
+    {
+      "path": "ROADMAP.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4cfa5e1ebe2ffbe97fe63c3281a9b751fbe13c70",
+      "size": 1078,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/4cfa5e1ebe2ffbe97fe63c3281a9b751fbe13c70"
+    },
+    {
+      "path": "THIRD_PARTY.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72b855cc5809e1ae635b5d9d52f7aa27d9aea807",
+      "size": 1192,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/72b855cc5809e1ae635b5d9d52f7aa27d9aea807"
+    },
+    {
+      "path": "assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2b7e9c2ab9c4e6f118ec3673add6a0c779d8b73b",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/2b7e9c2ab9c4e6f118ec3673add6a0c779d8b73b"
+    },
+    {
+      "path": "assets/architecture.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "562515dea53759ebef65e03945205908f1297f3f",
+      "size": 5799,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/562515dea53759ebef65e03945205908f1297f3f"
+    },
+    {
+      "path": "assets/banner.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "00ece5f7c0a07c67319430e5470f2b7da53c1361",
+      "size": 268339,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/00ece5f7c0a07c67319430e5470f2b7da53c1361"
+    },
+    {
+      "path": "assets/demo.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9dd765b8d76cd07d4a2a78613a3d05dc15cf9131",
+      "size": 3365119,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/9dd765b8d76cd07d4a2a78613a3d05dc15cf9131"
+    },
+    {
+      "path": "assets/hero.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "afc63b4a5f6bc7599bfe3e6fcb85f3345a79283c",
+      "size": 7333438,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/afc63b4a5f6bc7599bfe3e6fcb85f3345a79283c"
+    },
+    {
+      "path": "assets/social.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e18ad29fe69d526560945702317d0dedfbaabff1",
+      "size": 528132,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/e18ad29fe69d526560945702317d0dedfbaabff1"
+    },
+    {
+      "path": "assets/swarm.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52a0eb560c6b25d619b5c6800bf6661eefc551e0",
+      "size": 2909795,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/52a0eb560c6b25d619b5c6800bf6661eefc551e0"
+    },
+    {
+      "path": "configs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bb43c15c84cdedc0f9fceb1c66ff09d7f80d794b",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/bb43c15c84cdedc0f9fceb1c66ff09d7f80d794b"
+    },
+    {
+      "path": "configs/crazyflie.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ccc4e28d21554a4e7812f5019da098557867307",
+      "size": 306,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/5ccc4e28d21554a4e7812f5019da098557867307"
+    },
+    {
+      "path": "configs/esp32_betaflight.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42edb4c404127dfe30df9fc01d0544a93ce97a73",
+      "size": 410,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/42edb4c404127dfe30df9fc01d0544a93ce97a73"
+    },
+    {
+      "path": "configs/malecns.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0e962c6b7ef75ef111bb3304352f42d9df6e069",
+      "size": 858,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/f0e962c6b7ef75ef111bb3304352f42d9df6e069"
+    },
+    {
+      "path": "configs/mavlink_sitl.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54d8c67cb3579b12d9b0df4663ff61419c579c8d",
+      "size": 393,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/54d8c67cb3579b12d9b0df4663ff61419c579c8d"
+    },
+    {
+      "path": "configs/tello.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b210b179b677b765027806a905ccce0bf98dea7a",
+      "size": 472,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/b210b179b677b765027806a905ccce0bf98dea7a"
+    },
+    {
+      "path": "docs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "68b25e111c45c0e2a94b0c5e20241119f6faec7d",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/68b25e111c45c0e2a94b0c5e20241119f6faec7d"
+    },
+    {
+      "path": "docs/.nojekyll",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cfd3b1147e29d6e9f56c5a0d1fce2216eaeebea9",
+      "size": 4435,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/cfd3b1147e29d6e9f56c5a0d1fce2216eaeebea9"
+    },
+    {
+      "path": "docs/CONNECTOME_DATA.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86a3af476f8eb0015fb5ee303c0f2974596d1581",
+      "size": 2469,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/86a3af476f8eb0015fb5ee303c0f2974596d1581"
+    },
+    {
+      "path": "docs/FAQ.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3f171598351ea7188f4f40d9b3b46bf7edaa9127",
+      "size": 1402,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/3f171598351ea7188f4f40d9b3b46bf7edaa9127"
+    },
+    {
+      "path": "docs/GUIDE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9329e6772cefbf4988f9d1c3f49338f75a1de6d",
+      "size": 7965,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/c9329e6772cefbf4988f9d1c3f49338f75a1de6d"
+    },
+    {
+      "path": "docs/HARDWARE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc83eaa87aae84b32be934fc364d95c93da21019",
+      "size": 5224,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/fc83eaa87aae84b32be934fc364d95c93da21019"
+    },
+    {
+      "path": "docs/SAFETY.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98ef5cbaddcdc702b768c49d7fe27507dbfa1da9",
+      "size": 1868,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/98ef5cbaddcdc702b768c49d7fe27507dbfa1da9"
+    },
+    {
+      "path": "docs/SCIENCE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca6719cf1bb0de84d268a9c6490bf6c8d8969e18",
+      "size": 7483,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/ca6719cf1bb0de84d268a9c6490bf6c8d8969e18"
+    },
+    {
+      "path": "docs/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db02d6d60ab3ea3c2f76440e6e840e6864ac55b4",
+      "size": 13456,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/db02d6d60ab3ea3c2f76440e6e840e6864ac55b4"
+    },
+    {
+      "path": "docs/live",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "27155c9323aa63623d543782137e0df9b55bda32",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/27155c9323aa63623d543782137e0df9b55bda32"
+    },
+    {
+      "path": "docs/live/app.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "432ab72fe806e703c181ee8721074ff80e9753ea",
+      "size": 45143,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/432ab72fe806e703c181ee8721074ff80e9753ea"
+    },
+    {
+      "path": "docs/live/engine.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29958196905da6adcd6f402144ee06f2e6d8f721",
+      "size": 26642,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/29958196905da6adcd6f402144ee06f2e6d8f721"
+    },
+    {
+      "path": "docs/live/minifly.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "13687933e8573175f386b6268f35d3082999ef9b",
+      "size": 41856,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/13687933e8573175f386b6268f35d3082999ef9b"
+    },
+    {
+      "path": "docs/live/models.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58980fdbd9b82635d6683cf3e203f2085f2e16b4",
+      "size": 22491,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/58980fdbd9b82635d6683cf3e203f2085f2e16b4"
+    },
+    {
+      "path": "docs/live/room.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "17b39e24055cb801a109f0c01a15baa87042d629",
+      "size": 17709,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/17b39e24055cb801a109f0c01a15baa87042d629"
+    },
+    {
+      "path": "docs/social.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e18ad29fe69d526560945702317d0dedfbaabff1",
+      "size": 528132,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/e18ad29fe69d526560945702317d0dedfbaabff1"
+    },
+    {
+      "path": "docs/vendor",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c943779160757fb72f6672b81d007709056e6c64",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/c943779160757fb72f6672b81d007709056e6c64"
+    },
+    {
+      "path": "docs/vendor/THREE_LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d33709fbf00f10b928bae20baf72a5c6da92d03a",
+      "size": 1081,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/d33709fbf00f10b928bae20baf72a5c6da92d03a"
+    },
+    {
+      "path": "docs/vendor/jsm",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b1b2f23a082b50266cd11a76d3a640258c8f1e79",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/b1b2f23a082b50266cd11a76d3a640258c8f1e79"
+    },
+    {
+      "path": "docs/vendor/jsm/controls",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4fe009a406222a32ee3d5646174494817976fe00",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/4fe009a406222a32ee3d5646174494817976fe00"
+    },
+    {
+      "path": "docs/vendor/jsm/controls/OrbitControls.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7360aab9b347eb677b0ea1a18655c5b86626d29d",
+      "size": 32134,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/7360aab9b347eb677b0ea1a18655c5b86626d29d"
+    },
+    {
+      "path": "docs/vendor/jsm/environments",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d93993eca62ca84075fa517bb1b863f5863d7783",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/d93993eca62ca84075fa517bb1b863f5863d7783"
+    },
+    {
+      "path": "docs/vendor/jsm/environments/RoomEnvironment.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9d6056621065748b3da2d516debaa3f6ec5d7125",
+      "size": 3606,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/9d6056621065748b3da2d516debaa3f6ec5d7125"
+    },
+    {
+      "path": "docs/vendor/jsm/geometries",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9d1d08573b69883a8ced0ab4b8a389a83d8eed7a",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/9d1d08573b69883a8ced0ab4b8a389a83d8eed7a"
+    },
+    {
+      "path": "docs/vendor/jsm/geometries/RoundedBoxGeometry.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8baa16822365c47ba55695ee439b4981e89d1c65",
+      "size": 4625,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/8baa16822365c47ba55695ee439b4981e89d1c65"
+    },
+    {
+      "path": "docs/vendor/jsm/postprocessing",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2ac59da76bb695ba60195a6c0d07e21627d204d5",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/2ac59da76bb695ba60195a6c0d07e21627d204d5"
+    },
+    {
+      "path": "docs/vendor/jsm/postprocessing/EffectComposer.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "110eabc8e6025e01cce12da0c99269a4c457d656",
+      "size": 4651,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/110eabc8e6025e01cce12da0c99269a4c457d656"
+    },
+    {
+      "path": "docs/vendor/jsm/postprocessing/MaskPass.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b30811c8d4ca86d4adaa1e8b9050e7d776e138d3",
+      "size": 2231,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/b30811c8d4ca86d4adaa1e8b9050e7d776e138d3"
+    },
+    {
+      "path": "docs/vendor/jsm/postprocessing/OutputPass.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63febaf1e78585d86391fc4aed1be5e34ce7948e",
+      "size": 2524,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/63febaf1e78585d86391fc4aed1be5e34ce7948e"
+    },
+    {
+      "path": "docs/vendor/jsm/postprocessing/Pass.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a81582d13de21a6b13216959396daf0d6f8dc294",
+      "size": 1706,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/a81582d13de21a6b13216959396daf0d6f8dc294"
+    },
+    {
+      "path": "docs/vendor/jsm/postprocessing/RenderPass.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c60e92d333501e09a44ccd7313e6be909d89bfb9",
+      "size": 1941,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/c60e92d333501e09a44ccd7313e6be909d89bfb9"
+    },
+    {
+      "path": "docs/vendor/jsm/postprocessing/ShaderPass.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "597016c9935e254a186ec810288ee8772dc2718a",
+      "size": 1576,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/597016c9935e254a186ec810288ee8772dc2718a"
+    },
+    {
+      "path": "docs/vendor/jsm/postprocessing/UnrealBloomPass.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48a244051df0ff0d392f3fabba708b39ad36a200",
+      "size": 12410,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/48a244051df0ff0d392f3fabba708b39ad36a200"
+    },
+    {
+      "path": "docs/vendor/jsm/shaders",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bf632a32de13e0c7c13c5ef9aa9b3bfd740591c4",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/bf632a32de13e0c7c13c5ef9aa9b3bfd740591c4"
+    },
+    {
+      "path": "docs/vendor/jsm/shaders/CopyShader.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c3f2cd443cd4c96edc9c2c04dc760f374d954c9",
+      "size": 571,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/8c3f2cd443cd4c96edc9c2c04dc760f374d954c9"
+    },
+    {
+      "path": "docs/vendor/jsm/shaders/LuminosityHighPassShader.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0df9f3e7b248280de1c53292337934ac8dffcdea",
+      "size": 1147,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/0df9f3e7b248280de1c53292337934ac8dffcdea"
+    },
+    {
+      "path": "docs/vendor/jsm/shaders/OutputShader.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "289ac10088f0924fe0d8507d5c74e7f349bc5308",
+      "size": 1490,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/289ac10088f0924fe0d8507d5c74e7f349bc5308"
+    },
+    {
+      "path": "docs/vendor/three.module.min.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "282d1087068fab752a7e59b65aaa61c8b0a4be8c",
+      "size": 691648,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/282d1087068fab752a7e59b65aaa61c8b0a4be8c"
+    },
+    {
+      "path": "examples",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "419ca30a042071324405d2a7b9e622a8a324ec78",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/419ca30a042071324405d2a7b9e622a8a324ec78"
+    },
+    {
+      "path": "examples/01_poke_neurons.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ee445aadaeedd4aaf68d880530379e9428fa7ef",
+      "size": 973,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/8ee445aadaeedd4aaf68d880530379e9428fa7ef"
+    },
+    {
+      "path": "examples/02_custom_decoder.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3eb96e4fbbcc4814efebf1eb3b435261af40954",
+      "size": 811,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/e3eb96e4fbbcc4814efebf1eb3b435261af40954"
+    },
+    {
+      "path": "examples/03_replay_video.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d10bdf28c9c38295d785631e0af7f70099d27f1",
+      "size": 1085,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/3d10bdf28c9c38295d785631e0af7f70099d27f1"
+    },
+    {
+      "path": "firmware",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "93c7ea2fc539f4c0f7bef189bd14a1e02896f4d0",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/93c7ea2fc539f4c0f7bef189bd14a1e02896f4d0"
+    },
+    {
+      "path": "firmware/esp32_msp_bridge",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9a03d94b582c12ad3689e1e8357a16c863c0feaa",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/9a03d94b582c12ad3689e1e8357a16c863c0feaa"
+    },
+    {
+      "path": "firmware/esp32_msp_bridge/esp32_msp_bridge.ino",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "878013c206b2dd3e90646b326129ab2517bf0e05",
+      "size": 4808,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/878013c206b2dd3e90646b326129ab2517bf0e05"
+    },
+    {
+      "path": "pyproject.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e752262afae15775bb36fc4a61678049bc579d06",
+      "size": 1745,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/e752262afae15775bb36fc4a61678049bc579d06"
+    },
+    {
+      "path": "src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f90ab4f15d3a6146c9269f8c8a22295a8ed7a84c",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/f90ab4f15d3a6146c9269f8c8a22295a8ed7a84c"
+    },
+    {
+      "path": "src/flydrones",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8931e4fcaeaa9ee0c5909c9a7d795607f68529f9",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/8931e4fcaeaa9ee0c5909c9a7d795607f68529f9"
+    },
+    {
+      "path": "src/flydrones/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c99ff46a395832dd300f44b18bd1d8a6c96da32",
+      "size": 81,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/5c99ff46a395832dd300f44b18bd1d8a6c96da32"
+    },
+    {
+      "path": "src/flydrones/__main__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb53e2f31b2f703ad32ef64b8a41faa3e7d18e08",
+      "size": 48,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/eb53e2f31b2f703ad32ef64b8a41faa3e7d18e08"
+    },
+    {
+      "path": "src/flydrones/brain",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "368ef96acf7ebf68a4bd8a83a82b6d8c1fce7d0c",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/368ef96acf7ebf68a4bd8a83a82b6d8c1fce7d0c"
+    },
+    {
+      "path": "src/flydrones/brain/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ce999d14053bea6f10ab51cbe07664861614494",
+      "size": 342,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/0ce999d14053bea6f10ab51cbe07664861614494"
+    },
+    {
+      "path": "src/flydrones/brain/brain.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63f9403b3edaa0b89e933fb9d2edc648b5b42644",
+      "size": 4809,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/63f9403b3edaa0b89e933fb9d2edc648b5b42644"
+    },
+    {
+      "path": "src/flydrones/brain/connectome.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0cd4731f615c15f09279868e79b9e6fa2f9493dd",
+      "size": 13319,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/0cd4731f615c15f09279868e79b9e6fa2f9493dd"
+    },
+    {
+      "path": "src/flydrones/brain/lif.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89cd7d0a0dc946644376f6ff42d7bd70906aa31c",
+      "size": 10446,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/89cd7d0a0dc946644376f6ff42d7bd70906aa31c"
+    },
+    {
+      "path": "src/flydrones/brain/synthetic.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "feb9ad5444f237017e29a021eef57f2425b1fa89",
+      "size": 6030,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/feb9ad5444f237017e29a021eef57f2425b1fa89"
+    },
+    {
+      "path": "src/flydrones/calibrate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "875b44950ada97bd8ab3b6397e9c3893bfe2496f",
+      "size": 3974,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/875b44950ada97bd8ab3b6397e9c3893bfe2496f"
+    },
+    {
+      "path": "src/flydrones/cli.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f5da69ffcb3da3e6994416e3575da0e914f2048",
+      "size": 13174,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/8f5da69ffcb3da3e6994416e3575da0e914f2048"
+    },
+    {
+      "path": "src/flydrones/config.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0756ed71be6724f1d8d8279a272600cf9f4b70a5",
+      "size": 995,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/0756ed71be6724f1d8d8279a272600cf9f4b70a5"
+    },
+    {
+      "path": "src/flydrones/data.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f1912dd2a40f616f627d92e5319a1db363f2f5c",
+      "size": 1852,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/5f1912dd2a40f616f627d92e5319a1db363f2f5c"
+    },
+    {
+      "path": "src/flydrones/defaults.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98a01106423dd8e0d65a1ce2121a6804cc521500",
+      "size": 5864,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/98a01106423dd8e0d65a1ce2121a6804cc521500"
+    },
+    {
+      "path": "src/flydrones/drones",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cde72ef47841b731c9ef60f867b4d71710dc31e2",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/cde72ef47841b731c9ef60f867b4d71710dc31e2"
+    },
+    {
+      "path": "src/flydrones/drones/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe991d6bb06e7a6f4bc0f2a0c3247a324cae6289",
+      "size": 767,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/fe991d6bb06e7a6f4bc0f2a0c3247a324cae6289"
+    },
+    {
+      "path": "src/flydrones/drones/base.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ad78e96b563fc678ca8f8199b52d859b7599b93",
+      "size": 1978,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/9ad78e96b563fc678ca8f8199b52d859b7599b93"
+    },
+    {
+      "path": "src/flydrones/drones/crazyflie.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f8bc052cab96f0e56dd04573a562d79bbc9aff6e",
+      "size": 4137,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/f8bc052cab96f0e56dd04573a562d79bbc9aff6e"
+    },
+    {
+      "path": "src/flydrones/drones/mavlink.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2a93c1f57c4f9d19b4442e31d4ce6aa04b33dc7",
+      "size": 5007,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/f2a93c1f57c4f9d19b4442e31d4ce6aa04b33dc7"
+    },
+    {
+      "path": "src/flydrones/drones/sim.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "169ea20dc1df24e94ad78c4c174f7815a43435a2",
+      "size": 8941,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/169ea20dc1df24e94ad78c4c174f7815a43435a2"
+    },
+    {
+      "path": "src/flydrones/drones/tello.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aea5b2fcbdb26031c7957cb24de47064e6b94a17",
+      "size": 2921,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/aea5b2fcbdb26031c7957cb24de47064e6b94a17"
+    },
+    {
+      "path": "src/flydrones/drones/udp_bridge.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6abea79a171bab7390829849d3a903d065b5c81b",
+      "size": 4398,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/6abea79a171bab7390829849d3a903d065b5c81b"
+    },
+    {
+      "path": "src/flydrones/motor",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "eb68c1f066085d84ca175effac674b9171207032",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/eb68c1f066085d84ca175effac674b9171207032"
+    },
+    {
+      "path": "src/flydrones/motor/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97eef0d2bb55c099b3f431a5107d5a86f4e598e5",
+      "size": 114,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/97eef0d2bb55c099b3f431a5107d5a86f4e598e5"
+    },
+    {
+      "path": "src/flydrones/motor/command.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "37b23f576fe870ded14d8fa3258ee901f37bd4b7",
+      "size": 921,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/37b23f576fe870ded14d8fa3258ee901f37bd4b7"
+    },
+    {
+      "path": "src/flydrones/motor/decoder.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "66361601faa624ded5d704f667d46a13f4939de5",
+      "size": 4432,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/66361601faa624ded5d704f667d46a13f4939de5"
+    },
+    {
+      "path": "src/flydrones/runtime.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95b1236d13ff3369b707c48384b9ae7873efc28e",
+      "size": 5704,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/95b1236d13ff3369b707c48384b9ae7873efc28e"
+    },
+    {
+      "path": "src/flydrones/safety.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e15d9098b1e8c129a8c1babb611439f78844bcf",
+      "size": 3916,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/6e15d9098b1e8c129a8c1babb611439f78844bcf"
+    },
+    {
+      "path": "src/flydrones/senses",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "973a7f19c7255f06b0db383184a1cd2de41b7350",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/973a7f19c7255f06b0db383184a1cd2de41b7350"
+    },
+    {
+      "path": "src/flydrones/senses/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a09278c532a888645882105c4b332d2ccae01068",
+      "size": 328,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/a09278c532a888645882105c4b332d2ccae01068"
+    },
+    {
+      "path": "src/flydrones/senses/encoder.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "972ffecd4a9f56fdcf26c749ba878aaffed9ce09",
+      "size": 2313,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/972ffecd4a9f56fdcf26c749ba878aaffed9ce09"
+    },
+    {
+      "path": "src/flydrones/senses/gestures.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "369a9e7a2c59e629c13967b002eab89d23018883",
+      "size": 9096,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/369a9e7a2c59e629c13967b002eab89d23018883"
+    },
+    {
+      "path": "src/flydrones/senses/retina.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "78192565945dbd6770d414fd08e5133997f0e860",
+      "size": 7704,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/78192565945dbd6770d414fd08e5133997f0e860"
+    },
+    {
+      "path": "src/flydrones/senses/webcam.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0eefac6d850f39778b1e482f521181ed3c26c6d",
+      "size": 974,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/e0eefac6d850f39778b1e482f521181ed3c26c6d"
+    },
+    {
+      "path": "src/flydrones/viz",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0a881bf69370e5f36be10017cccdde464159f85a",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/0a881bf69370e5f36be10017cccdde464159f85a"
+    },
+    {
+      "path": "src/flydrones/viz/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "facd6a1f0b0ba3862dafad003cb5401a5e41ed24",
+      "size": 106,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/facd6a1f0b0ba3862dafad003cb5401a5e41ed24"
+    },
+    {
+      "path": "src/flydrones/viz/dashboard.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "839d064e31c037c27908b24bbef9c913f6af2f2b",
+      "size": 9929,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/839d064e31c037c27908b24bbef9c913f6af2f2b"
+    },
+    {
+      "path": "tests",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "349aa1bd5891488b3ef798dd464dfcc38ab18dec",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/349aa1bd5891488b3ef798dd464dfcc38ab18dec"
+    },
+    {
+      "path": "tests/test_brain.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b6f529b19efb268f00522756c30c66a5152a433",
+      "size": 1676,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/0b6f529b19efb268f00522756c30c66a5152a433"
+    },
+    {
+      "path": "tests/test_control.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef45693aa12a32a49b81df2515ad344b433377d4",
+      "size": 3268,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/ef45693aa12a32a49b81df2515ad344b433377d4"
+    },
+    {
+      "path": "tests/test_lif.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7bb66531b7200a00fdc1a16412feb2e711813514",
+      "size": 2061,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/7bb66531b7200a00fdc1a16412feb2e711813514"
+    },
+    {
+      "path": "tests/test_malecns_loader.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6525970ca9ccdf904cbdf3076b3546b5da816e2f",
+      "size": 2099,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/6525970ca9ccdf904cbdf3076b3546b5da816e2f"
+    },
+    {
+      "path": "tests/test_senses.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "315561c7468d07cc078680506075c43ff72162ff",
+      "size": 2211,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/315561c7468d07cc078680506075c43ff72162ff"
+    },
+    {
+      "path": "tests/test_sim_and_cli.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da516a56907eb0b806b138c01e500cffd793b414",
+      "size": 1562,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/da516a56907eb0b806b138c01e500cffd793b414"
+    },
+    {
+      "path": "tests/test_web_export.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3bb898d91d4e081cf4dd5426227dc8a6fb617796",
+      "size": 454,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/3bb898d91d4e081cf4dd5426227dc8a6fb617796"
+    },
+    {
+      "path": "tools",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8311cc1b7ef42df1763299d84eba919e7de4b3b4",
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/trees/8311cc1b7ef42df1763299d84eba919e7de4b3b4"
+    },
+    {
+      "path": "tools/check_web_engine.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec5028c44cb907ae4e4044785b5ad6258267ecef",
+      "size": 1171,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/ec5028c44cb907ae4e4044785b5ad6258267ecef"
+    },
+    {
+      "path": "tools/export_web_brain.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8117f14dc69323500813bf0c22914dbeb366692d",
+      "size": 1630,
+      "url": "https://api.github.com/repos/SpikeCalls/FlyDrones/git/blobs/8117f14dc69323500813bf0c22914dbeb366692d"
+    }
+  ],
+  "truncated": false
+}

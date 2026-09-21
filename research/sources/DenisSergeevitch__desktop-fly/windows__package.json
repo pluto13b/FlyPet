@@ -1,0 +1,22 @@
+{
+  "name": "desktop-fly-windows",
+  "version": "1.1.0",
+  "description": "DesktopFly for Windows \u2014 a desktop fly with FlyWire and MaleCNS neural models",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "simtest": "node test/simtest.js",
+    "behaviortest": "node test/behaviortest.js",
+    "test": "node test/simtest.js && node test/behaviortest.js && node test/locomotortest.js",
+    "locomotortest": "node test/locomotortest.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "three": "^0.169.0",
+    "koffi": "^2.9.0"
+  },
+  "devDependencies": {
+    "electron": "^32.2.0"
+  }
+}

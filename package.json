@@ -1,0 +1,16 @@
+{
+  "name": "flypet",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "src/main/app.cjs",
+  "scripts": {
+    "start": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/start.ps1",
+    "test": "node --test tests/*.test.mjs",
+    "smoke": "powershell.exe -NoProfile -ExecutionPolicy Bypass -File scripts/start.ps1 --smoke"
+  },
+  "dependencies": {
+    "electron": "44.4.3",
+    "three": "0.186.0"
+  }
+}

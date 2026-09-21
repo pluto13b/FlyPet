@@ -1,0 +1,93 @@
+{
+  "retrieved_at": "2026-09-19T14:22:54.830521+00:00",
+  "repositories": [
+    {
+      "repo": "InsectRobotics/IncentiveCircuit",
+      "url": "https://github.com/InsectRobotics/IncentiveCircuit",
+      "stars": 1,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2023-12-02T19:57:24Z",
+      "sha": "1610c80072fe8bb59bd397e7a61f716393a509b9",
+      "tree_truncated": false
+    },
+    {
+      "repo": "BrainsOnBoard/paper_RPEs_in_drosophila_mb",
+      "url": "https://github.com/BrainsOnBoard/paper_RPEs_in_drosophila_mb",
+      "stars": 6,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2021-02-10T16:49:18Z",
+      "sha": "7ec52afb9bd7bb748d94d60dea9f483645a2ce8e",
+      "tree_truncated": false
+    },
+    {
+      "repo": "alitwinkumar/jiang_litwin-kumar_mb_rnn",
+      "url": "https://github.com/alitwinkumar/jiang_litwin-kumar_mb_rnn",
+      "stars": 4,
+      "license": "GPL-3.0",
+      "archived": false,
+      "pushed_at": "2021-06-22T20:06:41Z",
+      "sha": "a16f86a3e9e476eff6860c3c0e0e1bbe729d7f85",
+      "tree_truncated": false
+    },
+    {
+      "repo": "dtch1997/fly-api",
+      "url": "https://github.com/dtch1997/fly-api",
+      "stars": 7,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-09-08T15:04:40Z",
+      "sha": "a6ad07a810b1a43cd0356149c07b32105eb46d2a",
+      "tree_truncated": false
+    },
+    {
+      "repo": "nftechie/doomfly",
+      "url": "https://github.com/nftechie/doomfly",
+      "stars": 364,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-09-09T15:11:47Z",
+      "sha": "71ecf53d78eaffaf1a57ed7b0ccf5d458abc9f33",
+      "tree_truncated": false
+    },
+    {
+      "repo": "lixiang1076/fly-brain",
+      "url": "https://github.com/lixiang1076/fly-brain",
+      "stars": 23,
+      "license": "MIT",
+      "archived": false,
+      "pushed_at": "2026-04-02T09:58:40Z",
+      "sha": "f6d525ab10c7a3ed4853d3d8b4b5e73f24cfe52b",
+      "tree_truncated": false
+    },
+    {
+      "repo": "NeLy-EPFL/flygym",
+      "url": "https://github.com/NeLy-EPFL/flygym",
+      "stars": 360,
+      "license": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2026-08-24T11:57:38Z",
+      "sha": "38c8ec61034cd59bc5ba0de20688d4a3c0000d60",
+      "tree_truncated": false
+    },
+    {
+      "repo": "TuragaLab/flybody",
+      "url": "https://github.com/TuragaLab/flybody",
+      "stars": 921,
+      "license": "Apache-2.0",
+      "archived": false,
+      "pushed_at": "2026-02-07T03:55:45Z",
+      "sha": "d015e9bfe441bd90ae431bac24c55cb74bdbce26",
+      "tree_truncated": false
+    },
+    {
+      "repo": "philshiu/Drosophila_brain_model",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "repo": "TuragaLab/flyvis",
+      "error": "HTTP Error 403: rate limit exceeded"
+    }
+  ]
+}

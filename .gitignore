@@ -1,0 +1,38 @@
+node_modules/
+.cache/
+.runtime/
+output/
+.venv-brain/
+.venv-vision/
+data/flyvis/results/
+data/flyvis/connectome/
+data/flyvis/renderings/
+data/flyvis/*.zip
+data/whole-brain/raw/
+data/whole-brain/*.npz
+
+# Rebuildable downloads and local training screenshots
+data/brain-view/coordinates.csv.gz
+data/food-association-pilot/screenshots/
+data/food-association-pilot/covers/
+data/food-association-pilot/review/
+
+# Python / native caches, local credentials and editor files
+__pycache__/
+*.py[cod]
+*.nbc
+*.nbi
+.pytest_cache/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.part
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+research/local-environment.json
+# Upstream downloader embeds its service key; fetch the pinned copy into local cache instead.
+research/vision/flyvis_cli__download_pretrained_models.py

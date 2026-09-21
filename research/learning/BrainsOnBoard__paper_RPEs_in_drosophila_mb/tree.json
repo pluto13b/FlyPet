@@ -1,0 +1,175 @@
+{
+  "sha": "7ec52afb9bd7bb748d94d60dea9f483645a2ce8e",
+  "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/trees/7ec52afb9bd7bb748d94d60dea9f483645a2ce8e",
+  "tree": [
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "size": 35149,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7"
+    },
+    {
+      "path": "README",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f61ae83ff5dfc54c1f07bc36ca7658f11a862a1",
+      "size": 4531,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/6f61ae83ff5dfc54c1f07bc36ca7658f11a862a1"
+    },
+    {
+      "path": "associative_conditioning_data_for_MV_model_eq7.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb865a5a17ea902548d8aa4cd382efc4c4184f06",
+      "size": 19186794,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/fb865a5a17ea902548d8aa4cd382efc4c4184f06"
+    },
+    {
+      "path": "associative_conditioning_data_for_MV_model_eq8.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ee2c0a6bfe715e01ed6bab8256db3f3d40499a5",
+      "size": 19559470,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/9ee2c0a6bfe715e01ed6bab8256db3f3d40499a5"
+    },
+    {
+      "path": "associative_conditioning_data_for_VS_model.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1f34f26dcd80266aa200228c8e515b5350bd3c5",
+      "size": 17524965,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/d1f34f26dcd80266aa200228c8e515b5350bd3c5"
+    },
+    {
+      "path": "felsenberg_extinction_data_for_both_models.mat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f905e277963d8e1476d7c370b11f244ebeb0325c",
+      "size": 4115,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/f905e277963d8e1476d7c370b11f244ebeb0325c"
+    },
+    {
+      "path": "mb_mv_a.m",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "da9700f4ff0b234d4c7aba063051754ccbfe0887",
+      "size": 6488,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/da9700f4ff0b234d4c7aba063051754ccbfe0887"
+    },
+    {
+      "path": "mb_mv_b.m",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2ecfb7261870199983a01407f3ff2ed97f92b1a5",
+      "size": 2787,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/2ecfb7261870199983a01407f3ff2ed97f92b1a5"
+    },
+    {
+      "path": "mb_mv_blocking.m",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "074b54b7b3603d901c5fcc8f8e6ad293d30d2d59",
+      "size": 7740,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/074b54b7b3603d901c5fcc8f8e6ad293d30d2d59"
+    },
+    {
+      "path": "mb_mv_c.m",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d6402b02c338ddb3d1ac17b8af4827b35f5b1577",
+      "size": 4198,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/d6402b02c338ddb3d1ac17b8af4827b35f5b1577"
+    },
+    {
+      "path": "mb_mv_conditioning.m",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7dd5bbe2639b56dae7d18e8237add75cc7d95dbd",
+      "size": 8200,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/7dd5bbe2639b56dae7d18e8237add75cc7d95dbd"
+    },
+    {
+      "path": "mb_mv_conditioning_fels.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9323e7820b5a0e4b823d9ce2725d4fb391019a4a",
+      "size": 6761,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/9323e7820b5a0e4b823d9ce2725d4fb391019a4a"
+    },
+    {
+      "path": "mb_mv_d.m",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "aaca6c1324d5981f6bb0aae464f8cbd481ce3a6a",
+      "size": 5149,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/aaca6c1324d5981f6bb0aae464f8cbd481ce3a6a"
+    },
+    {
+      "path": "mb_reward_schedules.m",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0928ab428cac89bc3d423cd96e56d9b8ea260b8d",
+      "size": 5737,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/0928ab428cac89bc3d423cd96e56d9b8ea260b8d"
+    },
+    {
+      "path": "mb_vs.m",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "73e201d1f1f356ffd5b29ac099617c0700860e6c",
+      "size": 7644,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/73e201d1f1f356ffd5b29ac099617c0700860e6c"
+    },
+    {
+      "path": "mb_vs_conditioning.m",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4863dba80a6386c6050089e4538b171b63423345",
+      "size": 7247,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/4863dba80a6386c6050089e4538b171b63423345"
+    },
+    {
+      "path": "mb_vs_conditioning_fels.m",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d25e0fa8e3f51675f0cd9c02962c7db2096ace3b",
+      "size": 5812,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/d25e0fa8e3f51675f0cd9c02962c7db2096ace3b"
+    },
+    {
+      "path": "mb_vs_mv_analysis.m",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c1e2951c97922cbde38b06d5d5f30c53c639042f",
+      "size": 81125,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/c1e2951c97922cbde38b06d5d5f30c53c639042f"
+    },
+    {
+      "path": "source_data_1.xlsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49eb3a4a973a15c1417102b2d31f21b525c3cf6a",
+      "size": 44127,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/49eb3a4a973a15c1417102b2d31f21b525c3cf6a"
+    },
+    {
+      "path": "source_data_2.xlsx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ba8c5c244f09cf79d9aeda108c88a5590e760f6",
+      "size": 9976,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/3ba8c5c244f09cf79d9aeda108c88a5590e760f6"
+    },
+    {
+      "path": "zmy_utils.zip",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2b2637941f554415511d85546ab5ccb89fd8469",
+      "size": 81531,
+      "url": "https://api.github.com/repos/BrainsOnBoard/paper_RPEs_in_drosophila_mb/git/blobs/d2b2637941f554415511d85546ab5ccb89fd8469"
+    }
+  ],
+  "truncated": false
+}

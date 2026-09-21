@@ -1,0 +1,173 @@
+{
+  "sha": "91bdd1e7dcf193f3e7ca5a8933497fcef63b7960",
+  "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/trees/91bdd1e7dcf193f3e7ca5a8933497fcef63b7960",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed8ebf583f771da9150c35db3955987b7d757904",
+      "size": 11,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/ed8ebf583f771da9150c35db3955987b7d757904"
+    },
+    {
+      "path": "2023_03_23_completeness_630_final.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be745f0ce054308df21accc5c4b3883aa38498f9",
+      "size": 3057611,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/be745f0ce054308df21accc5c4b3883aa38498f9"
+    },
+    {
+      "path": "2023_03_23_connectivity_630_final.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b4d9531bc0acbda7c2074ae577e6ac9e2fca166",
+      "size": 86630944,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/8b4d9531bc0acbda7c2074ae577e6ac9e2fca166"
+    },
+    {
+      "path": "Completeness_783.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b5a26b82b69a3c2e7fd99cd6810c36fc8f0e492b",
+      "size": 3327347,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/b5a26b82b69a3c2e7fd99cd6810c36fc8f0e492b"
+    },
+    {
+      "path": "Connectivity_783.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d386555d1a5f40ebfa1380bcb05b1fab044855fd",
+      "size": 100804642,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/d386555d1a5f40ebfa1380bcb05b1fab044855fd"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "deca2d0f1e82e910d8248b0d27398eb9450976ee",
+      "size": 1085,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/deca2d0f1e82e910d8248b0d27398eb9450976ee"
+    },
+    {
+      "path": "Readme.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f7d66ec7fbcd849fcb4c99e2412b171d37a565f",
+      "size": 3617,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/2f7d66ec7fbcd849fcb4c99e2412b171d37a565f"
+    },
+    {
+      "path": "environment.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27599c545d10fc702777cb372ab4333e73c225b8",
+      "size": 174,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/27599c545d10fc702777cb372ab4333e73c225b8"
+    },
+    {
+      "path": "environment_full.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1428b314d40bf8b7dc2cb3991db213c12033fdfc",
+      "size": 3445,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/1428b314d40bf8b7dc2cb3991db213c12033fdfc"
+    },
+    {
+      "path": "example.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc479485c42c18ef50762d9ab50817bc96d65c8d",
+      "size": 10282,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/bc479485c42c18ef50762d9ab50817bc96d65c8d"
+    },
+    {
+      "path": "figures.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25db39b200f3175f575154408e722218b3761262",
+      "size": 33229,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/25db39b200f3175f575154408e722218b3761262"
+    },
+    {
+      "path": "model.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ba7083cf55bf6092967f8d9065e86cd677efed1",
+      "size": 11900,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/5ba7083cf55bf6092967f8d9065e86cd677efed1"
+    },
+    {
+      "path": "results",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9fd49e02eec16dd36298315260b1866e968ab9e6",
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/trees/9fd49e02eec16dd36298315260b1866e968ab9e6"
+    },
+    {
+      "path": "results/example",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "347ff1eb2701957b113c00fa4ce1a51c62e77701",
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/trees/347ff1eb2701957b113c00fa4ce1a51c62e77701"
+    },
+    {
+      "path": "results/example/sugarR-720575940617937543.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1cdeee4a3d4aa5b16602ac0a1e76f1db14e19f9b",
+      "size": 537629,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/1cdeee4a3d4aa5b16602ac0a1e76f1db14e19f9b"
+    },
+    {
+      "path": "results/example/sugarR-720575940621754367.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "17942838fe14639269fdff3636ebadbc13645436",
+      "size": 553968,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/17942838fe14639269fdff3636ebadbc13645436"
+    },
+    {
+      "path": "results/example/sugarR-720575940622695448.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4524c7d29476f0816b5162b8ebb4839d4e040fc",
+      "size": 578825,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/b4524c7d29476f0816b5162b8ebb4839d4e040fc"
+    },
+    {
+      "path": "results/example/sugarR.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1204cb3ed453ad03b0141028fa511d924f99d599",
+      "size": 948526,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/1204cb3ed453ad03b0141028fa511d924f99d599"
+    },
+    {
+      "path": "results/example/sugarR_100Hz.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd76730d5e991d64b756f354a749f94ffb874c64",
+      "size": 557849,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/bd76730d5e991d64b756f354a749f94ffb874c64"
+    },
+    {
+      "path": "sez_neurons.pickle",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fdfc5d9fe43789468d349d86d3f23df068962ed",
+      "size": 5114,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/7fdfc5d9fe43789468d349d86d3f23df068962ed"
+    },
+    {
+      "path": "utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7785ce7141a2f348b9e0c8beb0d3dd8e992d497",
+      "size": 2176,
+      "url": "https://api.github.com/repos/philshiu/Drosophila_brain_model/git/blobs/a7785ce7141a2f348b9e0c8beb0d3dd8e992d497"
+    }
+  ],
+  "truncated": false
+}

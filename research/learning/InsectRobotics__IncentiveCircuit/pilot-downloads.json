@@ -1,0 +1,21 @@
+{
+  "sha": "1610c80072fe8bb59bd397e7a61f716393a509b9",
+  "files": [
+    {
+      "path": "LICENSE",
+      "verified_git_blob": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7"
+    },
+    {
+      "path": "src/incentive/arena.py",
+      "verified_git_blob": "e655e011464dc6df1014998207fc37a5e8e99ef0"
+    },
+    {
+      "path": "src/incentive/models_base.py",
+      "verified_git_blob": "44080477c34c8fb7482846c41a4bdbbc0b17615c"
+    },
+    {
+      "path": "src/incentive/routines.py",
+      "verified_git_blob": "eba0e3005e8d1129b06387f01567716e36f70a36"
+    }
+  ]
+}

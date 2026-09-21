@@ -1,0 +1,15 @@
+{
+  "photoreceptors_in_paired_brain": 10616,
+  "photo_outgoing_positive_edges": 39245,
+  "photo_outgoing_negative_edges": 18048,
+  "positive_edge_fraction": 0.6849876948318294,
+  "positive_absolute_weight_fraction": 0.7211886719753403,
+  "eye_columns": {
+    "left": 785,
+    "right": 796
+  },
+  "color_type_labels": [
+    "R7",
+    "R8"
+  ]
+}

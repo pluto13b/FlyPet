@@ -1,0 +1,63 @@
+{
+  "sha": "a16f86a3e9e476eff6860c3c0e0e1bbe729d7f85",
+  "url": "https://api.github.com/repos/alitwinkumar/jiang_litwin-kumar_mb_rnn/git/trees/a16f86a3e9e476eff6860c3c0e0e1bbe729d7f85",
+  "tree": [
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "size": 35149,
+      "url": "https://api.github.com/repos/alitwinkumar/jiang_litwin-kumar_mb_rnn/git/blobs/f288702d2fa16d3cdf0035b15a9fcbc552cd88e7"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7bc4c53cdc21a3cf06ad96ccd54f04064bf42d6",
+      "size": 81,
+      "url": "https://api.github.com/repos/alitwinkumar/jiang_litwin-kumar_mb_rnn/git/blobs/d7bc4c53cdc21a3cf06ad96ccd54f04064bf42d6"
+    },
+    {
+      "path": "definemodel.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd2a2529f9dcae713bbcc57dd7677103a8285717",
+      "size": 2118,
+      "url": "https://api.github.com/repos/alitwinkumar/jiang_litwin-kumar_mb_rnn/git/blobs/fd2a2529f9dcae713bbcc57dd7677103a8285717"
+    },
+    {
+      "path": "gentrials.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8239b9a345c649a4f5ae296205eb83c57795a280",
+      "size": 7082,
+      "url": "https://api.github.com/repos/alitwinkumar/jiang_litwin-kumar_mb_rnn/git/blobs/8239b9a345c649a4f5ae296205eb83c57795a280"
+    },
+    {
+      "path": "plotutils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "44933c0e2aeec397e96afb65057a5e93404d5bb8",
+      "size": 3375,
+      "url": "https://api.github.com/repos/alitwinkumar/jiang_litwin-kumar_mb_rnn/git/blobs/44933c0e2aeec397e96afb65057a5e93404d5bb8"
+    },
+    {
+      "path": "runmodel.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2cf06aafef3b2ccc41237e9aab990bd19a46b516",
+      "size": 2104,
+      "url": "https://api.github.com/repos/alitwinkumar/jiang_litwin-kumar_mb_rnn/git/blobs/2cf06aafef3b2ccc41237e9aab990bd19a46b516"
+    },
+    {
+      "path": "train.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4dc78c2431db745d93001aea02c2bde59089ab91",
+      "size": 2408,
+      "url": "https://api.github.com/repos/alitwinkumar/jiang_litwin-kumar_mb_rnn/git/blobs/4dc78c2431db745d93001aea02c2bde59089ab91"
+    }
+  ],
+  "truncated": false
+}

@@ -1,0 +1,274 @@
+{
+  "sha": "f6d525ab10c7a3ed4853d3d8b4b5e73f24cfe52b",
+  "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/trees/f6d525ab10c7a3ed4853d3d8b4b5e73f24cfe52b",
+  "tree": [
+    {
+      "path": ".gitattributes",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2734575bedbf714795992094a61085f99f29575d",
+      "size": 232,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/2734575bedbf714795992094a61085f99f29575d"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "aa0d6b44277de91a098b9571a3f9faff463ba443",
+      "size": 376,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/aa0d6b44277de91a098b9571a3f9faff463ba443"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7316ee89bd1282e0c4b64e469d18cb39cf9fb59",
+      "size": 1065,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/a7316ee89bd1282e0c4b64e469d18cb39cf9fb59"
+    },
+    {
+      "path": "README.md",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "0416c24636b19a8ac60fbc43b105258d44fb2c0f",
+      "size": 8636,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/0416c24636b19a8ac60fbc43b105258d44fb2c0f"
+    },
+    {
+      "path": "chat_with_fly.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a554d79fc221eb15938d97ba33baef2703a1d5bb",
+      "size": 12131,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/a554d79fc221eb15938d97ba33baef2703a1d5bb"
+    },
+    {
+      "path": "code",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "398a016d57d68d6f428e4a15359e4216804ede48",
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/trees/398a016d57d68d6f428e4a15359e4216804ede48"
+    },
+    {
+      "path": "code/benchmark.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e9a0258943aee097000af4dd1515923537fab049",
+      "size": 10978,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/e9a0258943aee097000af4dd1515923537fab049"
+    },
+    {
+      "path": "code/paper-phil-drosophila",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5554895d8f080d34f02b99a0a23e21c6a4adc26f",
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/trees/5554895d8f080d34f02b99a0a23e21c6a4adc26f"
+    },
+    {
+      "path": "code/paper-phil-drosophila/example.ipynb",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "bd6dff1eb17bf8db59148f108455d75a0023abde",
+      "size": 24105,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/bd6dff1eb17bf8db59148f108455d75a0023abde"
+    },
+    {
+      "path": "code/paper-phil-drosophila/figures.ipynb",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d91e242efbda3d14ba923ee47629070f4b539fa5",
+      "size": 38892,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/d91e242efbda3d14ba923ee47629070f4b539fa5"
+    },
+    {
+      "path": "code/paper-phil-drosophila/model.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "84ad6eeb0abb8e14c2f0ab2caf05ca556cc84066",
+      "size": 11667,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/84ad6eeb0abb8e14c2f0ab2caf05ca556cc84066"
+    },
+    {
+      "path": "code/paper-phil-drosophila/utils.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "a7785ce7141a2f348b9e0c8beb0d3dd8e992d497",
+      "size": 2176,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/a7785ce7141a2f348b9e0c8beb0d3dd8e992d497"
+    },
+    {
+      "path": "code/run_brian2_cuda.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "c82be9a58fc11dcc3cbaac8af407afce2c1fd65d",
+      "size": 18322,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/c82be9a58fc11dcc3cbaac8af407afce2c1fd65d"
+    },
+    {
+      "path": "code/run_nestgpu.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "417324a39353ccdf5d01a714ac7abaab66c7f67d",
+      "size": 15399,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/417324a39353ccdf5d01a714ac7abaab66c7f67d"
+    },
+    {
+      "path": "code/run_pytorch.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3de9a3660ff093dae8de4d1303e5d83523ea19b0",
+      "size": 19180,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/3de9a3660ff093dae8de4d1303e5d83523ea19b0"
+    },
+    {
+      "path": "data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "556a6b3a3616f3fbb9eee151532dcabd299a6e84",
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/trees/556a6b3a3616f3fbb9eee151532dcabd299a6e84"
+    },
+    {
+      "path": "data/2025_Completeness_783.csv",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b5a26b82b69a3c2e7fd99cd6810c36fc8f0e492b",
+      "size": 3327347,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/b5a26b82b69a3c2e7fd99cd6810c36fc8f0e492b"
+    },
+    {
+      "path": "data/2025_Connectivity_783.parquet",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "f17cc8996013076c0f0b5ff758205d7fbb37e7f7",
+      "size": 134,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/f17cc8996013076c0f0b5ff758205d7fbb37e7f7"
+    },
+    {
+      "path": "data/archive",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d7853906849cebb96d54f107d6e7d0ca277515b7",
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/trees/d7853906849cebb96d54f107d6e7d0ca277515b7"
+    },
+    {
+      "path": "data/archive/2023_Completeness_630.csv",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "688280bf609c8192beb601f5c767e0ee21b0f375",
+      "size": 132,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/688280bf609c8192beb601f5c767e0ee21b0f375"
+    },
+    {
+      "path": "data/archive/2023_Connectivity_630.parquet",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "3dff2919798d723574e46c56aa7ad549b19cb0a2",
+      "size": 133,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/3dff2919798d723574e46c56aa7ad549b19cb0a2"
+    },
+    {
+      "path": "data/benchmark-results.csv",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "2cc89184dbd18007f0e5276d5eedcdd6bbf9f488",
+      "size": 206,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/2cc89184dbd18007f0e5276d5eedcdd6bbf9f488"
+    },
+    {
+      "path": "data/flywire_annotations.tsv",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "171b8afaa0e90e7f9347278e45877a201dd1e50f",
+      "size": 133,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/171b8afaa0e90e7f9347278e45877a201dd1e50f"
+    },
+    {
+      "path": "data/mushroom_body_neurons.json",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "b778639e0b6462373a390a150ba60c337bad86dd",
+      "size": 120063,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/b778639e0b6462373a390a150ba60c337bad86dd"
+    },
+    {
+      "path": "data/sez_neurons.pickle",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "7fdfc5d9fe43789468d349d86d3f23df068962ed",
+      "size": 5114,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/7fdfc5d9fe43789468d349d86d3f23df068962ed"
+    },
+    {
+      "path": "dopamine_learning.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "e13400e5ef70354b84055702e08b302ce9818914",
+      "size": 7742,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/e13400e5ef70354b84055702e08b302ce9818914"
+    },
+    {
+      "path": "environment.yml",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "676f9b82e37f8c3c194515288a6ccd21236acaf7",
+      "size": 314,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/676f9b82e37f8c3c194515288a6ccd21236acaf7"
+    },
+    {
+      "path": "fast_learning.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "5bd8d24a28e2630eb4a12ae51fac9ce249a25645",
+      "size": 8404,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/5bd8d24a28e2630eb4a12ae51fac9ce249a25645"
+    },
+    {
+      "path": "fly_chat.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "920c310a08cc25b22627a42c4ac6dc7891a39fcd",
+      "size": 27013,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/920c310a08cc25b22627a42c4ac6dc7891a39fcd"
+    },
+    {
+      "path": "main.py",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "64edc8e91dad8cce89641c8c296ad61d5eb6baad",
+      "size": 4570,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/64edc8e91dad8cce89641c8c296ad61d5eb6baad"
+    },
+    {
+      "path": "neuron_atlas.json",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "03b64c6f49a7dc4539de798b7d0a5cbc0d080c57",
+      "size": 13121,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/03b64c6f49a7dc4539de798b7d0a5cbc0d080c57"
+    },
+    {
+      "path": "scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0245cc5d1d9a3c007f62b0c8f8794fb9f2ca1cc1",
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/trees/0245cc5d1d9a3c007f62b0c8f8794fb9f2ca1cc1"
+    },
+    {
+      "path": "scripts/download_data.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89aedc8557d97c06969ebe7dd919d92fbcdc48e3",
+      "size": 1207,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/89aedc8557d97c06969ebe7dd919d92fbcdc48e3"
+    },
+    {
+      "path": "scripts/setup_WSL_CUDA.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "d236edc68c76a7181d28ef7c709a1d387589b136",
+      "size": 2615,
+      "url": "https://api.github.com/repos/lixiang1076/fly-brain/git/blobs/d236edc68c76a7181d28ef7c709a1d387589b136"
+    }
+  ],
+  "truncated": false
+}

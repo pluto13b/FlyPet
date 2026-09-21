@@ -1,0 +1,13 @@
+. "$PSScriptRoot/env.ps1"
+$env:PYTHONPYCACHEPREFIX = Join-Path $FlyPetRoot '.cache/pycache'
+$env:PYTHONIOENCODING = 'utf-8'
+$env:FLYVIS_ROOT_DIR = Join-Path $FlyPetRoot 'data/flyvis'
+$env:MPLCONFIGDIR = Join-Path $FlyPetRoot '.cache/matplotlib'
+$env:TORCH_HOME = Join-Path $FlyPetRoot '.cache/torch'
+$env:NUMBA_CACHE_DIR = Join-Path $FlyPetRoot '.cache/numba-vision'
+$env:CUDA_CACHE_PATH = Join-Path $FlyPetRoot '.cache/cuda'
+$env:TRITON_CACHE_DIR = Join-Path $FlyPetRoot '.cache/triton'
+$env:XDG_CACHE_HOME = Join-Path $FlyPetRoot '.cache/xdg'
+$env:HF_HOME = Join-Path $FlyPetRoot '.cache/huggingface'
+$env:OMP_NUM_THREADS = '4'
+$env:OPENBLAS_NUM_THREADS = '4'

@@ -1,0 +1,4312 @@
+{
+  "sha": "92b3845cc426dd309a1a0e1b3890156c42e14021",
+  "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/92b3845cc426dd309a1a0e1b3890156c42e14021",
+  "tree": [
+    {
+      "path": ".env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9ae3e265475ad0a15adfd67156a00a42a6d9d0ec",
+      "size": 423,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/9ae3e265475ad0a15adfd67156a00a42a6d9d0ec"
+    },
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f0fdc574014a5c9e13f19627f271462ac8b69832",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/f0fdc574014a5c9e13f19627f271462ac8b69832"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2b74fcb836be02048c2d67a3cc5ef8c83a04828f",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/2b74fcb836be02048c2d67a3cc5ef8c83a04828f"
+    },
+    {
+      "path": ".github/workflows/auto_test.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d0809c510d72f85662b9eba835de82f9b2ec83f",
+      "size": 1086,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/5d0809c510d72f85662b9eba835de82f9b2ec83f"
+    },
+    {
+      "path": ".github/workflows/docs.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c51339f69d9fd85d141a9be331f93df2b53722f3",
+      "size": 1767,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c51339f69d9fd85d141a9be331f93df2b53722f3"
+    },
+    {
+      "path": ".github/workflows/release.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c8b788a81cb2ec980d703297822080b7efc3e65",
+      "size": 4392,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/2c8b788a81cb2ec980d703297822080b7efc3e65"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f273e77d14a85180df484b02d9b7f3aa7a90b73b",
+      "size": 3441,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f273e77d14a85180df484b02d9b7f3aa7a90b73b"
+    },
+    {
+      "path": ".pre-commit-config.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d6469f4636e9f15cd4a7a3688de9cd4814a16ac",
+      "size": 518,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/3d6469f4636e9f15cd4a7a3688de9cd4814a16ac"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93012ba8a9ee8aba1e59f55fbadb38a7924fee46",
+      "size": 5302,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/93012ba8a9ee8aba1e59f55fbadb38a7924fee46"
+    },
+    {
+      "path": "docs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "71531d0c028a99da0cdc20e0eae93594f9006ede",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/71531d0c028a99da0cdc20e0eae93594f9006ede"
+    },
+    {
+      "path": "docs/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ea8b684f1001f5bcabda917bb5e5744d4986c12",
+      "size": 1484,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/8ea8b684f1001f5bcabda917bb5e5744d4986c12"
+    },
+    {
+      "path": "docs/build_docs.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "82772c429966f705b35735f47fb06c4843e9b5df",
+      "size": 4435,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/82772c429966f705b35735f47fb06c4843e9b5df"
+    },
+    {
+      "path": "docs/clean_examples.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f1a95ac13081392efe4ab5c9286d9633506c4bd",
+      "size": 1925,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/1f1a95ac13081392efe4ab5c9286d9633506c4bd"
+    },
+    {
+      "path": "docs/docs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6b1dd1cfab406d48d8db0cb28779a956f0564a89",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/6b1dd1cfab406d48d8db0cb28779a956f0564a89"
+    },
+    {
+      "path": "docs/docs/acknowledgements.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4af8b8f4a3ca13e812eef5611a2b3df85f29ffe0",
+      "size": 2552,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/4af8b8f4a3ca13e812eef5611a2b3df85f29ffe0"
+    },
+    {
+      "path": "docs/docs/contribute.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5d954d56f21aade8deeb6949dc6e96a1a7245b0",
+      "size": 3038,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c5d954d56f21aade8deeb6949dc6e96a1a7245b0"
+    },
+    {
+      "path": "docs/docs/custom.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09087b18a6aa2931bea3e9b54276d3841e7589c5",
+      "size": 5262,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/09087b18a6aa2931bea3e9b54276d3841e7589c5"
+    },
+    {
+      "path": "docs/docs/examples",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fa07e1a3f9b53a39acb2dc9353a6b6b5adb1687b",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/fa07e1a3f9b53a39acb2dc9353a6b6b5adb1687b"
+    },
+    {
+      "path": "docs/docs/examples/01_flyvision_connectome.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "841c40bb67a7da7bc2f3ee6893d99de810b8a9a6",
+      "size": 8771,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/841c40bb67a7da7bc2f3ee6893d99de810b8a9a6"
+    },
+    {
+      "path": "docs/docs/examples/01_flyvision_connectome_files",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d1dd5df4bad674f2c1cbe729dbd8793091b0385c",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/d1dd5df4bad674f2c1cbe729dbd8793091b0385c"
+    },
+    {
+      "path": "docs/docs/examples/01_flyvision_connectome_files/01_flyvision_connectome_10_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "403e65f386e4a971e1c0137dea9488db2efbdbb4",
+      "size": 504604,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/403e65f386e4a971e1c0137dea9488db2efbdbb4"
+    },
+    {
+      "path": "docs/docs/examples/01_flyvision_connectome_files/01_flyvision_connectome_11_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f0f60004d907079b3087e66465fe65da8b8950f",
+      "size": 118764,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/2f0f60004d907079b3087e66465fe65da8b8950f"
+    },
+    {
+      "path": "docs/docs/examples/01_flyvision_connectome_files/01_flyvision_connectome_12_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "257991726c5717a3955847e2d95f3589ee559dbf",
+      "size": 318400,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/257991726c5717a3955847e2d95f3589ee559dbf"
+    },
+    {
+      "path": "docs/docs/examples/01_flyvision_connectome_files/01_flyvision_connectome_13_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d973340d4b8792ed66a131ba6e51afae1f20a114",
+      "size": 502164,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d973340d4b8792ed66a131ba6e51afae1f20a114"
+    },
+    {
+      "path": "docs/docs/examples/01_flyvision_connectome_files/01_flyvision_connectome_15_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0ca8ae53c3ff078d6a2aea5ccbf1b3e76ecd8d7",
+      "size": 1227559,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e0ca8ae53c3ff078d6a2aea5ccbf1b3e76ecd8d7"
+    },
+    {
+      "path": "docs/docs/examples/01_flyvision_connectome_files/01_flyvision_connectome_18_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad729af488b095cad54310afd2b92bb6f66c6f0a",
+      "size": 1230758,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ad729af488b095cad54310afd2b92bb6f66c6f0a"
+    },
+    {
+      "path": "docs/docs/examples/01_flyvision_connectome_files/01_flyvision_connectome_8_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5fe65f84dc04d00f255b4dda027684ee4e86b97f",
+      "size": 130287,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/5fe65f84dc04d00f255b4dda027684ee4e86b97f"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a312ef2aaee755f032592282139cf60a8eda7cd8",
+      "size": 29690,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/a312ef2aaee755f032592282139cf60a8eda7cd8"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "390332f46f66b173466dd8bb7420e7766a31c7fb",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/390332f46f66b173466dd8bb7420e7766a31c7fb"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_101_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c89da5d38482dc697bb2560aa4c30ef51107fcb",
+      "size": 243144,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/7c89da5d38482dc697bb2560aa4c30ef51107fcb"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_103_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b59b4e69ea6c9fb91e1dcc8bafe01bbda373890",
+      "size": 12668,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/5b59b4e69ea6c9fb91e1dcc8bafe01bbda373890"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_105_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ba3b159726e641266261381907d6f9429a8543c",
+      "size": 12508,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/0ba3b159726e641266261381907d6f9429a8543c"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_108_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ba3b159726e641266261381907d6f9429a8543c",
+      "size": 12508,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/0ba3b159726e641266261381907d6f9429a8543c"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_11_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "afc9ff6b118f972693061f02930f42628b534267",
+      "size": 132493,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/afc9ff6b118f972693061f02930f42628b534267"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_13_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dadead5090e78ccfe2f676394012a4501594690e",
+      "size": 131881,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/dadead5090e78ccfe2f676394012a4501594690e"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_14_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73809e99ffd085d4ea57d32950fc24f52a3633aa",
+      "size": 68538,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/73809e99ffd085d4ea57d32950fc24f52a3633aa"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_16_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "100e4691c4b4d60f6f1b3cba41da39a0066c4ec5",
+      "size": 68375,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/100e4691c4b4d60f6f1b3cba41da39a0066c4ec5"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_17_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5dc13912be8a20237613bb6f99f623d46996be0",
+      "size": 88014,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e5dc13912be8a20237613bb6f99f623d46996be0"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_20_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ddbf0e8a08b32b4992cf4ff4f9da576dd93a248",
+      "size": 48719,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/0ddbf0e8a08b32b4992cf4ff4f9da576dd93a248"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_27_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb1f53717d8e7dbdcf29ec0f26d260ebb1b7ea21",
+      "size": 378154,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/bb1f53717d8e7dbdcf29ec0f26d260ebb1b7ea21"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_28_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff8e4bffb256bb9efc4b6e85be35ac7f699875ff",
+      "size": 178871,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ff8e4bffb256bb9efc4b6e85be35ac7f699875ff"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_29_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f10743575dbd93c6232341994320c88d5f1efc6",
+      "size": 377232,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/6f10743575dbd93c6232341994320c88d5f1efc6"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_30_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff8e4bffb256bb9efc4b6e85be35ac7f699875ff",
+      "size": 178871,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ff8e4bffb256bb9efc4b6e85be35ac7f699875ff"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_33_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33f52a1ed5e04265606be2c2cdb5c946a74bb025",
+      "size": 89665,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/33f52a1ed5e04265606be2c2cdb5c946a74bb025"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_34_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61b43353d269c0a5cd4ce65fb67ceaa2e012399b",
+      "size": 114582,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/61b43353d269c0a5cd4ce65fb67ceaa2e012399b"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_35_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "124d26727f7d48443fad2d47a1622c347b746589",
+      "size": 87226,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/124d26727f7d48443fad2d47a1622c347b746589"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_38_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c97d1a941476488168e73eebb7324524f2be738b",
+      "size": 83675,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c97d1a941476488168e73eebb7324524f2be738b"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_39_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "23c458bd9084736d235e5308abc700a563f2e805",
+      "size": 59135,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/23c458bd9084736d235e5308abc700a563f2e805"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_40_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09ade2411ff0aaf91e43216a62ba0741c9857419",
+      "size": 83420,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/09ade2411ff0aaf91e43216a62ba0741c9857419"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_41_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f4cfb11e8351ebc5e9a876d7ad299a601e7af77",
+      "size": 129859,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/5f4cfb11e8351ebc5e9a876d7ad299a601e7af77"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_43_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f040f74c7cf855e58d92276ecdf1350b5e29145f",
+      "size": 129829,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f040f74c7cf855e58d92276ecdf1350b5e29145f"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_44_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "035cfae76f66db1a7d86708115501a9043037fcb",
+      "size": 57365,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/035cfae76f66db1a7d86708115501a9043037fcb"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_46_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e048bf3bdaa3db93f6b2297675ea25c2ba5953f",
+      "size": 95260,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/4e048bf3bdaa3db93f6b2297675ea25c2ba5953f"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_47_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a11d773dbb75e0f664f62d5e5f7b5e9722f363b",
+      "size": 85413,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/4a11d773dbb75e0f664f62d5e5f7b5e9722f363b"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_48_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fcc8fa7507b2376a90af3bcd214fd541dc5b15be",
+      "size": 94810,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/fcc8fa7507b2376a90af3bcd214fd541dc5b15be"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_51_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4b34a5e72eba8250b3aba6a6e899448a83e9307",
+      "size": 130804,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/b4b34a5e72eba8250b3aba6a6e899448a83e9307"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_52_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05c18410f5902c10acaff4b464c993236c5d1141",
+      "size": 63196,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/05c18410f5902c10acaff4b464c993236c5d1141"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_53_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59535b0330d052bccf7d3a2a26cc9f7fd51394b2",
+      "size": 130304,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/59535b0330d052bccf7d3a2a26cc9f7fd51394b2"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_57_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7908b970a530fea95ba8a63278e7ffaee882270",
+      "size": 85532,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d7908b970a530fea95ba8a63278e7ffaee882270"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_59_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "737a15f66e2519a784e44e13c6624e0cca3df409",
+      "size": 52616,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/737a15f66e2519a784e44e13c6624e0cca3df409"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_61_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7923080f25f6d822b3b626afc29c04a3d1b7270",
+      "size": 50668,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c7923080f25f6d822b3b626afc29c04a3d1b7270"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_65_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95fb4f2ed87cd2daf0d5b009a0f70b3db7b30141",
+      "size": 31906,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/95fb4f2ed87cd2daf0d5b009a0f70b3db7b30141"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_68_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7038339843645fa025059cf68bd3180b8d7b577",
+      "size": 265199,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f7038339843645fa025059cf68bd3180b8d7b577"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_70_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1cb821403acfa391741b9962dbe00f4be6e99f16",
+      "size": 262638,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/1cb821403acfa391741b9962dbe00f4be6e99f16"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_74_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b67052dc82c67d50649325eb532049c627346a8b",
+      "size": 152148,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/b67052dc82c67d50649325eb532049c627346a8b"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_80_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "296540862d8f249c114fe699c43138fed963b889",
+      "size": 62660,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/296540862d8f249c114fe699c43138fed963b889"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_82_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7634ee7f3105aa214f843a71f729b06583e522b6",
+      "size": 61483,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/7634ee7f3105aa214f843a71f729b06583e522b6"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_84_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc1fd2e866cacb36b2003c53edd5d7b514d71747",
+      "size": 245639,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/bc1fd2e866cacb36b2003c53edd5d7b514d71747"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_86_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "782a4e7a607af9002f01bc654d5c86009db645f9",
+      "size": 247296,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/782a4e7a607af9002f01bc654d5c86009db645f9"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_86_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc488f7fe6265f1fa083226b48dac407cdc3a733",
+      "size": 60929,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/fc488f7fe6265f1fa083226b48dac407cdc3a733"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_90_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02f79a59262b67f21447c447157afb7d4b65d961",
+      "size": 264539,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/02f79a59262b67f21447c447157afb7d4b65d961"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_96_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "00eeeb5d52c83c82fa1238a33eab398343f583ff",
+      "size": 252392,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/00eeeb5d52c83c82fa1238a33eab398343f583ff"
+    },
+    {
+      "path": "docs/docs/examples/02_flyvision_optic_flow_task_files/02_flyvision_optic_flow_task_98_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5edc70dc11b7c8eeaa35dc68083a57d17235b535",
+      "size": 252450,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/5edc70dc11b7c8eeaa35dc68083a57d17235b535"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14835e938d6d266f45e547e4f5bae4d26ba445c3",
+      "size": 37264,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/14835e938d6d266f45e547e4f5bae4d26ba445c3"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2e8be5ec33fe11d7b7bd50bbff041bbd666db474",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/2e8be5ec33fe11d7b7bd50bbff041bbd666db474"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_12_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9eb076f4309f71b2d5a1d6cf01e0e1d9b171269",
+      "size": 9622,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d9eb076f4309f71b2d5a1d6cf01e0e1d9b171269"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_12_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec272ffe1d661718d75d529a058fb162931c5d67",
+      "size": 83811,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ec272ffe1d661718d75d529a058fb162931c5d67"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_16_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84dfb36fe11342adaa2aa5341f2883a6ae71e82a",
+      "size": 83810,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/84dfb36fe11342adaa2aa5341f2883a6ae71e82a"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_18_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d1e05266f798fb724e091376016ec86a7d18414",
+      "size": 21476,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/0d1e05266f798fb724e091376016ec86a7d18414"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_21_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9be95a31c20abc8fe2e19a3b49ac963a9a12a382",
+      "size": 21094,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/9be95a31c20abc8fe2e19a3b49ac963a9a12a382"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_25_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9be95a31c20abc8fe2e19a3b49ac963a9a12a382",
+      "size": 21094,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/9be95a31c20abc8fe2e19a3b49ac963a9a12a382"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_25_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15da0fd9b7774fab6a59d703cf15c1f015e6b355",
+      "size": 250016,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/15da0fd9b7774fab6a59d703cf15c1f015e6b355"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_28_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39b06689663ccdd34d4a3e9ed3042eaf2036ca8a",
+      "size": 250626,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/39b06689663ccdd34d4a3e9ed3042eaf2036ca8a"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_30_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49ebf73a1ee3c9e960e08d6ea168af99c219dfba",
+      "size": 152689,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/49ebf73a1ee3c9e960e08d6ea168af99c219dfba"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_30_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08bf2a20a24665802bf0a3e46be1d20fb509b07d",
+      "size": 149984,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/08bf2a20a24665802bf0a3e46be1d20fb509b07d"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_32_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec1b21518f67f91ed3ec94c5da2255d8523ccd29",
+      "size": 250661,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ec1b21518f67f91ed3ec94c5da2255d8523ccd29"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_33_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49ebf73a1ee3c9e960e08d6ea168af99c219dfba",
+      "size": 152689,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/49ebf73a1ee3c9e960e08d6ea168af99c219dfba"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_34_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b911d86948f5b8635b278144894ecd1319f6a9fd",
+      "size": 48692,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/b911d86948f5b8635b278144894ecd1319f6a9fd"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_37_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8918582b6a6f3d949bc9befe35c8cce56686066a",
+      "size": 48112,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/8918582b6a6f3d949bc9befe35c8cce56686066a"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_37_10.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d559fd2e8fb4cd5eee0056d249d24d366afc547d",
+      "size": 152688,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d559fd2e8fb4cd5eee0056d249d24d366afc547d"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_41_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4f820383bfa4819830b7d3c6ff6807bf4cc9a89",
+      "size": 47438,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d4f820383bfa4819830b7d3c6ff6807bf4cc9a89"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_5_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32fee6cc7f0c4b6b8179fde580e26e5c6028a061",
+      "size": 10725,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/32fee6cc7f0c4b6b8179fde580e26e5c6028a061"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_8_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "946d5ce07e2d01d3c828b97749309f645e63ad5c",
+      "size": 10466,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/946d5ce07e2d01d3c828b97749309f645e63ad5c"
+    },
+    {
+      "path": "docs/docs/examples/03_flyvision_flash_responses_files/03_flyvision_flash_responses_9_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4996718590f1edec6e75a0e6efdc269981adb628",
+      "size": 82394,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/4996718590f1edec6e75a0e6efdc269981adb628"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "271ef18fb37b2116f4e541fe35e39a317cf00dbc",
+      "size": 16488,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/271ef18fb37b2116f4e541fe35e39a317cf00dbc"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "77b93c6d63bdd4045a76f1034b987e50d2252f80",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/77b93c6d63bdd4045a76f1034b987e50d2252f80"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_11_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3dcca6acf23deabc7493400a0ac1c7ee254bcad7",
+      "size": 10360,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/3dcca6acf23deabc7493400a0ac1c7ee254bcad7"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_11_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63e7b41ee1f7ece7e8f1db0e6edb85817c97b04f",
+      "size": 194404,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/63e7b41ee1f7ece7e8f1db0e6edb85817c97b04f"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_13_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a6b28edc91146a4486458d8a7919fcc87e3a338",
+      "size": 194381,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/5a6b28edc91146a4486458d8a7919fcc87e3a338"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_17_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "296998b96262cc7d05e0bba5476d2bcbee75318d",
+      "size": 194401,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/296998b96262cc7d05e0bba5476d2bcbee75318d"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_21_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3c22ddb5d3614c1b2d5f3ee446d35e9cada2dd0",
+      "size": 23288,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/b3c22ddb5d3614c1b2d5f3ee446d35e9cada2dd0"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_23_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b7d2851833a2427cf6956304e0442aeca1b4c03",
+      "size": 23530,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/2b7d2851833a2427cf6956304e0442aeca1b4c03"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_27_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b7d2851833a2427cf6956304e0442aeca1b4c03",
+      "size": 23530,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/2b7d2851833a2427cf6956304e0442aeca1b4c03"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_41_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5badfdf38d452f6e6989b53282c2deb9d2967008",
+      "size": 173631,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/5badfdf38d452f6e6989b53282c2deb9d2967008"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_43_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f743d850bb104df986f63d2a4cc21847bf60effe",
+      "size": 189031,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f743d850bb104df986f63d2a4cc21847bf60effe"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_45_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b976aacde0874202ca76ad052d83139b6fdb6ba9",
+      "size": 33649,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/b976aacde0874202ca76ad052d83139b6fdb6ba9"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_47_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b2618073b8916c1febc67ad3908b2e9bd307b7e",
+      "size": 206630,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/4b2618073b8916c1febc67ad3908b2e9bd307b7e"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_47_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d32eae3920d99e8e413f0a50132298e78dd7cec",
+      "size": 33711,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/1d32eae3920d99e8e413f0a50132298e78dd7cec"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_49_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76684dec3ad03870572e34c770a05aea2f867443",
+      "size": 200756,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/76684dec3ad03870572e34c770a05aea2f867443"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_51_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1d32eae3920d99e8e413f0a50132298e78dd7cec",
+      "size": 33711,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/1d32eae3920d99e8e413f0a50132298e78dd7cec"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_53_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b59c2a2f299158b558435e2f9ec8bd1c20ee897",
+      "size": 32370,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/3b59c2a2f299158b558435e2f9ec8bd1c20ee897"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_55_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b718f2168b3d18122707abcc9084ea8fe9e81707",
+      "size": 32227,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/b718f2168b3d18122707abcc9084ea8fe9e81707"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_59_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "648137a3f2fbb6176df639e7386bbe2357f12b2d",
+      "size": 32138,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/648137a3f2fbb6176df639e7386bbe2357f12b2d"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_5_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c3d0efdb43797105e4ccb1ea438c076ffb0d287",
+      "size": 10616,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/5c3d0efdb43797105e4ccb1ea438c076ffb0d287"
+    },
+    {
+      "path": "docs/docs/examples/04_flyvision_moving_edge_responses_files/04_flyvision_moving_edge_responses_7_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3dcca6acf23deabc7493400a0ac1c7ee254bcad7",
+      "size": 10360,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/3dcca6acf23deabc7493400a0ac1c7ee254bcad7"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59cc699ef82ff4c6cc50c9ff49d83de105eba3d4",
+      "size": 28252,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/59cc699ef82ff4c6cc50c9ff49d83de105eba3d4"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ada79a490a2e7be0a5bede473ffbd52693c9bae2",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/ada79a490a2e7be0a5bede473ffbd52693c9bae2"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_13_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20fa4323e3a3766c5bfa65c2ae1bdc03d68eeb5e",
+      "size": 37368,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/20fa4323e3a3766c5bfa65c2ae1bdc03d68eeb5e"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_13_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef1e21b813818c00c574a22335b9f8ab30131c0b",
+      "size": 158365,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ef1e21b813818c00c574a22335b9f8ab30131c0b"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_15_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "44b58aca5b672f7b0e5b080813d4cd5ebf73b7f7",
+      "size": 422987,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/44b58aca5b672f7b0e5b080813d4cd5ebf73b7f7"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_21_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ffd99e56bc1c59bd8e023c706d658613a312929",
+      "size": 422930,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/3ffd99e56bc1c59bd8e023c706d658613a312929"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_22_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3d96b0de5871a40b6c6262e81c93609783f9bfe",
+      "size": 24054,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e3d96b0de5871a40b6c6262e81c93609783f9bfe"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_24_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ff70b0ace74add4981c1729f286b9642e57986c",
+      "size": 24192,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/0ff70b0ace74add4981c1729f286b9642e57986c"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_26_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75ed3eee9d67c82805797d38d1227ba1f5baba7e",
+      "size": 54692,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/75ed3eee9d67c82805797d38d1227ba1f5baba7e"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_28_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1c47265f7d2c70cd24442efeb39f04a0e23760f",
+      "size": 49670,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e1c47265f7d2c70cd24442efeb39f04a0e23760f"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_30_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d14ba3b05d787a31cc3270c5f554d66dd19f6d2a",
+      "size": 162369,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d14ba3b05d787a31cc3270c5f554d66dd19f6d2a"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_32_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4bd68b651ec10ff6492007c5ade42adbb539589",
+      "size": 213637,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e4bd68b651ec10ff6492007c5ade42adbb539589"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_34_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47b1c823fea798807173d70d956fca450a451aa5",
+      "size": 53045,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/47b1c823fea798807173d70d956fca450a451aa5"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_38_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "79d0288692b1bee52810b438c2712ed94b718a4d",
+      "size": 213631,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/79d0288692b1bee52810b438c2712ed94b718a4d"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_40_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "294c3360de995db157229e445e8649a33d3edf7d",
+      "size": 127425,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/294c3360de995db157229e445e8649a33d3edf7d"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_41_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da109174886eaa2c3450d1e8b1345394bb6db6fc",
+      "size": 47978,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/da109174886eaa2c3450d1e8b1345394bb6db6fc"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_42_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8552c485f7e58227fcb9d60ce0c1a75d6ad06c61",
+      "size": 45570,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/8552c485f7e58227fcb9d60ce0c1a75d6ad06c61"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_43_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f38eddb9bb8745891a07dbd095cc7729dcb46ac",
+      "size": 48348,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/8f38eddb9bb8745891a07dbd095cc7729dcb46ac"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_44_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d296200da1040c6ab8baa6cc8a4d54ff7382d6cc",
+      "size": 45351,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d296200da1040c6ab8baa6cc8a4d54ff7382d6cc"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_48_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0bf72dce2a21d3e511f402e6634fd307a49e738c",
+      "size": 47161,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/0bf72dce2a21d3e511f402e6634fd307a49e738c"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_49_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f38eddb9bb8745891a07dbd095cc7729dcb46ac",
+      "size": 48348,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/8f38eddb9bb8745891a07dbd095cc7729dcb46ac"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_50_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f90e9f7ea1711fecb057e0a5d3e9898317b156e4",
+      "size": 47001,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f90e9f7ea1711fecb057e0a5d3e9898317b156e4"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_56_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f90e9f7ea1711fecb057e0a5d3e9898317b156e4",
+      "size": 47001,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f90e9f7ea1711fecb057e0a5d3e9898317b156e4"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_7_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32b01658ba3aaf23b9005670f1c911c06c362c46",
+      "size": 37612,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/32b01658ba3aaf23b9005670f1c911c06c362c46"
+    },
+    {
+      "path": "docs/docs/examples/05_flyvision_umap_and_clustering_models_files/05_flyvision_umap_and_clustering_models_9_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20fa4323e3a3766c5bfa65c2ae1bdc03d68eeb5e",
+      "size": 37368,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/20fa4323e3a3766c5bfa65c2ae1bdc03d68eeb5e"
+    },
+    {
+      "path": "docs/docs/examples/06_flyvision_maximally_excitatory_stimuli.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e70784af6319f65f2fffea70e213a10b84434402",
+      "size": 5779,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e70784af6319f65f2fffea70e213a10b84434402"
+    },
+    {
+      "path": "docs/docs/examples/06_flyvision_maximally_excitatory_stimuli_files",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "65f9ca176a186613e249282f83b6990ab91f3531",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/65f9ca176a186613e249282f83b6990ab91f3531"
+    },
+    {
+      "path": "docs/docs/examples/06_flyvision_maximally_excitatory_stimuli_files/06_flyvision_maximally_excitatory_stimuli_10_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fef501de627b775afae6eb520dd342557b8a44df",
+      "size": 186751,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/fef501de627b775afae6eb520dd342557b8a44df"
+    },
+    {
+      "path": "docs/docs/examples/06_flyvision_maximally_excitatory_stimuli_files/06_flyvision_maximally_excitatory_stimuli_11_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "74f74887c82106a1c72e97c8be4bf2c91729debd",
+      "size": 109902,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/74f74887c82106a1c72e97c8be4bf2c91729debd"
+    },
+    {
+      "path": "docs/docs/examples/06_flyvision_maximally_excitatory_stimuli_files/06_flyvision_maximally_excitatory_stimuli_13_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "295033dbfc9f75425063f573b4d71118cdf364a5",
+      "size": 109260,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/295033dbfc9f75425063f573b4d71118cdf364a5"
+    },
+    {
+      "path": "docs/docs/examples/06_flyvision_maximally_excitatory_stimuli_files/06_flyvision_maximally_excitatory_stimuli_13_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef94855c7c9bc83c8ededea0be56bd94976ba482",
+      "size": 26570,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ef94855c7c9bc83c8ededea0be56bd94976ba482"
+    },
+    {
+      "path": "docs/docs/examples/06_flyvision_maximally_excitatory_stimuli_files/06_flyvision_maximally_excitatory_stimuli_14_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2a944ba6bf36a8869bfa8f4c8c1bb9baa86a9fc",
+      "size": 121578,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c2a944ba6bf36a8869bfa8f4c8c1bb9baa86a9fc"
+    },
+    {
+      "path": "docs/docs/examples/06_flyvision_maximally_excitatory_stimuli_files/06_flyvision_maximally_excitatory_stimuli_15_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2249f0aa692764be999d396e9e7daab5c6fda6cc",
+      "size": 26647,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/2249f0aa692764be999d396e9e7daab5c6fda6cc"
+    },
+    {
+      "path": "docs/docs/examples/06_flyvision_maximally_excitatory_stimuli_files/06_flyvision_maximally_excitatory_stimuli_17_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25d3886501f1c7c4410d462e6fd62d19fdfe45e8",
+      "size": 71332,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/25d3886501f1c7c4410d462e6fd62d19fdfe45e8"
+    },
+    {
+      "path": "docs/docs/examples/06_flyvision_maximally_excitatory_stimuli_files/06_flyvision_maximally_excitatory_stimuli_18_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fda02b34e306c5b34a19e5d3c5a3ec68ef155b65",
+      "size": 179873,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/fda02b34e306c5b34a19e5d3c5a3ec68ef155b65"
+    },
+    {
+      "path": "docs/docs/examples/06_flyvision_maximally_excitatory_stimuli_files/06_flyvision_maximally_excitatory_stimuli_19_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54a843f380365609008b89f8f15aea040af29b41",
+      "size": 17046,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/54a843f380365609008b89f8f15aea040af29b41"
+    },
+    {
+      "path": "docs/docs/examples/06_flyvision_maximally_excitatory_stimuli_files/06_flyvision_maximally_excitatory_stimuli_20_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "088f18dc4d94a8f71cc3b63ed6a4817e36949a5c",
+      "size": 179087,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/088f18dc4d94a8f71cc3b63ed6a4817e36949a5c"
+    },
+    {
+      "path": "docs/docs/examples/06_flyvision_maximally_excitatory_stimuli_files/06_flyvision_maximally_excitatory_stimuli_20_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4b8f65817022aa51c3df6f28c09e02fee22df4a",
+      "size": 32110,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d4b8f65817022aa51c3df6f28c09e02fee22df4a"
+    },
+    {
+      "path": "docs/docs/examples/06_flyvision_maximally_excitatory_stimuli_files/06_flyvision_maximally_excitatory_stimuli_22_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0378e55f9f41651cbe39ddcbfcfb808a1663174",
+      "size": 32177,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e0378e55f9f41651cbe39ddcbfcfb808a1663174"
+    },
+    {
+      "path": "docs/docs/examples/06_flyvision_maximally_excitatory_stimuli_files/06_flyvision_maximally_excitatory_stimuli_24_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b886141ec676828d4a5edd84b2d7808e0683cb9",
+      "size": 117398,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/2b886141ec676828d4a5edd84b2d7808e0683cb9"
+    },
+    {
+      "path": "docs/docs/examples/06_flyvision_maximally_excitatory_stimuli_files/06_flyvision_maximally_excitatory_stimuli_26_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae66994cb50d4bb5cdc7453887f5c51920a1f29f",
+      "size": 20193,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ae66994cb50d4bb5cdc7453887f5c51920a1f29f"
+    },
+    {
+      "path": "docs/docs/examples/06_flyvision_maximally_excitatory_stimuli_files/06_flyvision_maximally_excitatory_stimuli_8_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4a0c5178fc8a9091e8c4305bb97ea16a67ce766",
+      "size": 187386,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f4a0c5178fc8a9091e8c4305bb97ea16a67ce766"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2ea1cb74ea6951035c69fcfcaff06ecafe02b65c",
+      "size": 36104,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/2ea1cb74ea6951035c69fcfcaff06ecafe02b65c"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ec2caf89a04f59d78c4dc625b749ee1f2959e250",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/ec2caf89a04f59d78c4dc625b749ee1f2959e250"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_101_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7233a323a34a26e44b4ac504be380bb4d962e300",
+      "size": 41277,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/7233a323a34a26e44b4ac504be380bb4d962e300"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_101_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "70105c7ee295dd881a939b2e863e33c06596f403",
+      "size": 45335,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/70105c7ee295dd881a939b2e863e33c06596f403"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_101_2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "427f8f65e6121035abbe8f4ffcbeec9d491a54fd",
+      "size": 59035,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/427f8f65e6121035abbe8f4ffcbeec9d491a54fd"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_102_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd90272f9ecbb8cf5a09588c826375590c07c131",
+      "size": 69767,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/cd90272f9ecbb8cf5a09588c826375590c07c131"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_105_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "07f1fbb51ee70c682bb99e258b8d107f40639f09",
+      "size": 77956,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/07f1fbb51ee70c682bb99e258b8d107f40639f09"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_13_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd7cc64a741f0ce027a52301bf7ae067f9998bd1",
+      "size": 19027,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/cd7cc64a741f0ce027a52301bf7ae067f9998bd1"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_17_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6bce84ebe1faa307647ca43611401b2362b46746",
+      "size": 4046,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/6bce84ebe1faa307647ca43611401b2362b46746"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_21_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4916861aa218deae629582ce8a1018cc5273f4cc",
+      "size": 13707,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/4916861aa218deae629582ce8a1018cc5273f4cc"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_22_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a2e411904c2163c3470ed57ee601961648b2f99",
+      "size": 3976,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/3a2e411904c2163c3470ed57ee601961648b2f99"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_25_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48a4a9d938cb48415e67afd2e9a15450765cceaf",
+      "size": 13710,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/48a4a9d938cb48415e67afd2e9a15450765cceaf"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_28_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48a4a9d938cb48415e67afd2e9a15450765cceaf",
+      "size": 13710,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/48a4a9d938cb48415e67afd2e9a15450765cceaf"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_30_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09de1151a597cd8c88e9b461b828933e153265f1",
+      "size": 12734,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/09de1151a597cd8c88e9b461b828933e153265f1"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_34_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0138fe9df4d537f983fedee54491a9dab9006ac3",
+      "size": 12890,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/0138fe9df4d537f983fedee54491a9dab9006ac3"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_37_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fafb7ba4da4b08fcd5b59213174158ed58744bf3",
+      "size": 12953,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/fafb7ba4da4b08fcd5b59213174158ed58744bf3"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_39_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09de1151a597cd8c88e9b461b828933e153265f1",
+      "size": 12734,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/09de1151a597cd8c88e9b461b828933e153265f1"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_43_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0138fe9df4d537f983fedee54491a9dab9006ac3",
+      "size": 12890,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/0138fe9df4d537f983fedee54491a9dab9006ac3"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_46_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "907b68f5d006f8cf6031ade623175677c12b0aec",
+      "size": 12942,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/907b68f5d006f8cf6031ade623175677c12b0aec"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_5_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7a3c80b5cdfcd194100dab15626fbd6fecba3ce",
+      "size": 3015,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f7a3c80b5cdfcd194100dab15626fbd6fecba3ce"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_62_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26ae9677df713addfed6d29d164a4ca895701354",
+      "size": 43823,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/26ae9677df713addfed6d29d164a4ca895701354"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_65_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac8badbaf316770c3612dc4205fff25cc310cc4f",
+      "size": 21294,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ac8badbaf316770c3612dc4205fff25cc310cc4f"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_66_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f88ee0fbc83b90fb41d0df20f042adf5dd8666b4",
+      "size": 42563,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f88ee0fbc83b90fb41d0df20f042adf5dd8666b4"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_69_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "72297701de0fecac741e84dd350687878bf56d1f",
+      "size": 46032,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/72297701de0fecac741e84dd350687878bf56d1f"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_69_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76209ccc0d7b5c6c39a35dd1104da6b46074f193",
+      "size": 21345,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/76209ccc0d7b5c6c39a35dd1104da6b46074f193"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_72_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac500f27848faab09d1536da50045ab03c581804",
+      "size": 21354,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ac500f27848faab09d1536da50045ab03c581804"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_84_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26ae9677df713addfed6d29d164a4ca895701354",
+      "size": 43823,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/26ae9677df713addfed6d29d164a4ca895701354"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_86_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "235aa9a6682d3b13280950220324fc48fc5286a7",
+      "size": 134981,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/235aa9a6682d3b13280950220324fc48fc5286a7"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_88_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f88ee0fbc83b90fb41d0df20f042adf5dd8666b4",
+      "size": 42563,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f88ee0fbc83b90fb41d0df20f042adf5dd8666b4"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_90_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4a6ae88a30aa893cb6d5c546005036dc1f87c94",
+      "size": 127289,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/a4a6ae88a30aa893cb6d5c546005036dc1f87c94"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_91_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d831e1718e28945737b414eb070ec1a133028e6e",
+      "size": 51504,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d831e1718e28945737b414eb070ec1a133028e6e"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_91_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83d6be90887bc4f13539532f63ca3b04f98ce9bc",
+      "size": 69040,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/83d6be90887bc4f13539532f63ca3b04f98ce9bc"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_93_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "53689a0264ab02ea4b8d438c5486300afca3bbcf",
+      "size": 140799,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/53689a0264ab02ea4b8d438c5486300afca3bbcf"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_94_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d5116dc3a2f60a4cb98ca59fcaeebb63ff2e1c0",
+      "size": 50444,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/4d5116dc3a2f60a4cb98ca59fcaeebb63ff2e1c0"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_94_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0863e9934ef2a36f1a0424808ffd8a3bf4168ca9",
+      "size": 41099,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/0863e9934ef2a36f1a0424808ffd8a3bf4168ca9"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_94_2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40d1b115f7bf2b466c1dba907f63c75b910fb726",
+      "size": 46987,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/40d1b115f7bf2b466c1dba907f63c75b910fb726"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_95_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6c87c3367815e0615e9b5c62a1806e894eaf112",
+      "size": 64082,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/b6c87c3367815e0615e9b5c62a1806e894eaf112"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_98_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64827a679ed93428481af76d22fbe2e77e72b856",
+      "size": 71983,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/64827a679ed93428481af76d22fbe2e77e72b856"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_98_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51ab3fcae1892872bfc75c3ca5ab705d61e2e51f",
+      "size": 45341,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/51ab3fcae1892872bfc75c3ca5ab705d61e2e51f"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_98_2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a946d966342402b7fc94c14bc935c219765f85b",
+      "size": 59035,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/5a946d966342402b7fc94c14bc935c219765f85b"
+    },
+    {
+      "path": "docs/docs/examples/07_flyvision_providing_custom_stimuli_files/07_flyvision_providing_custom_stimuli_9_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "912389930f645535744bd21b5b857da2f516524d",
+      "size": 14517,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/912389930f645535744bd21b5b857da2f516524d"
+    },
+    {
+      "path": "docs/docs/examples/__main__.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65666a34502a03c65bca4577dea422469d2fe576",
+      "size": 36753,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/65666a34502a03c65bca4577dea422469d2fe576"
+    },
+    {
+      "path": "docs/docs/examples/__main___files",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ea58223a6447dd7f165b21e77fb250550301b76a",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/ea58223a6447dd7f165b21e77fb250550301b76a"
+    },
+    {
+      "path": "docs/docs/examples/__main___files/__main___10_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11ffb84a998d2e6dd383cd0ff8027d2c7541ae17",
+      "size": 10844,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/11ffb84a998d2e6dd383cd0ff8027d2c7541ae17"
+    },
+    {
+      "path": "docs/docs/examples/__main___files/__main___12_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4bdb04c59b6bce2ae8af920341f181ea25230d4a",
+      "size": 303212,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/4bdb04c59b6bce2ae8af920341f181ea25230d4a"
+    },
+    {
+      "path": "docs/docs/examples/__main___files/__main___13_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80465c2a765f932c9d6412c79483752a8574b3c0",
+      "size": 262103,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/80465c2a765f932c9d6412c79483752a8574b3c0"
+    },
+    {
+      "path": "docs/docs/examples/__main___files/__main___14_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08545ad62ebe6f18b30dfec41e0665b0d83cfb59",
+      "size": 1500533,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/08545ad62ebe6f18b30dfec41e0665b0d83cfb59"
+    },
+    {
+      "path": "docs/docs/examples/__main___files/__main___16_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4072aa3b2ce084ec5eb3cace38a8b5b434aa3db1",
+      "size": 78454,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/4072aa3b2ce084ec5eb3cace38a8b5b434aa3db1"
+    },
+    {
+      "path": "docs/docs/examples/__main___files/__main___16_50.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84746deb1e402abbfbb9eecda58ef1059bb812f2",
+      "size": 72490,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/84746deb1e402abbfbb9eecda58ef1059bb812f2"
+    },
+    {
+      "path": "docs/docs/examples/__main___files/__main___19_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe99d384480c61c72b1b4f2d7973a6056dcfdfc2",
+      "size": 151625,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/fe99d384480c61c72b1b4f2d7973a6056dcfdfc2"
+    },
+    {
+      "path": "docs/docs/examples/__main___files/__main___19_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4cb7fc120c38498be444ea19111277cb3a4236d",
+      "size": 151567,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d4cb7fc120c38498be444ea19111277cb3a4236d"
+    },
+    {
+      "path": "docs/docs/examples/__main___files/__main___21_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39dc53fd23cdea14bd9b1b51c392ce46397e7b58",
+      "size": 243678,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/39dc53fd23cdea14bd9b1b51c392ce46397e7b58"
+    },
+    {
+      "path": "docs/docs/examples/__main___files/__main___24_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95c4d97cb00a605388d36a18a1eb863d6208fdbe",
+      "size": 227711,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/95c4d97cb00a605388d36a18a1eb863d6208fdbe"
+    },
+    {
+      "path": "docs/docs/examples/__main___files/__main___24_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c1239616643d62af150f54167b50ca14eda870a2",
+      "size": 223558,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c1239616643d62af150f54167b50ca14eda870a2"
+    },
+    {
+      "path": "docs/docs/examples/__main___files/__main___26_2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99bea18bb9976714fcdace62b3db34619cac31f7",
+      "size": 366556,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/99bea18bb9976714fcdace62b3db34619cac31f7"
+    },
+    {
+      "path": "docs/docs/examples/__main___files/__main___26_3.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e593d260a299efac4ab30927f6e3b98924c4104e",
+      "size": 357187,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e593d260a299efac4ab30927f6e3b98924c4104e"
+    },
+    {
+      "path": "docs/docs/examples/__main___files/__main___29_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "962175f03abb63e0b689aad464e04a320acda050",
+      "size": 42714,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/962175f03abb63e0b689aad464e04a320acda050"
+    },
+    {
+      "path": "docs/docs/examples/__main___files/__main___29_2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "98de1e7b56e841b3e6ccddef6108d52ed887e491",
+      "size": 41708,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/98de1e7b56e841b3e6ccddef6108d52ed887e491"
+    },
+    {
+      "path": "docs/docs/examples/__main___files/__main___33_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6286d8f292e5e28e4fa4790319afdcbbf08b28ae",
+      "size": 46137,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/6286d8f292e5e28e4fa4790319afdcbbf08b28ae"
+    },
+    {
+      "path": "docs/docs/examples/__main___files/__main___8_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be0bb0d276399dcd75b2de34a524891bd6ccee09",
+      "size": 66013,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/be0bb0d276399dcd75b2de34a524891bd6ccee09"
+    },
+    {
+      "path": "docs/docs/examples/__main___files/__main___9_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85bf58378febbca434cffedf49535cb16e1cfb47",
+      "size": 67696,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/85bf58378febbca434cffedf49535cb16e1cfb47"
+    },
+    {
+      "path": "docs/docs/examples/__main_per_model__.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "684a55b19fd3ba11a87c601a5a5ee6c648c9b02f",
+      "size": 928,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/684a55b19fd3ba11a87c601a5a5ee6c648c9b02f"
+    },
+    {
+      "path": "docs/docs/examples/figure_01_fly_visual_system.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be933804fe97d1900796d6155d53966bd9fbf264",
+      "size": 4923,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/be933804fe97d1900796d6155d53966bd9fbf264"
+    },
+    {
+      "path": "docs/docs/examples/figure_01_fly_visual_system_files",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "078f08321cd2e08dd48b26e44e4dc01ded69d61a",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/078f08321cd2e08dd48b26e44e4dc01ded69d61a"
+    },
+    {
+      "path": "docs/docs/examples/figure_01_fly_visual_system_files/figure_01_fly_visual_system_11_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35dc1e6674722830fa2a524b5c9cf1f788c2ea55",
+      "size": 53664,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/35dc1e6674722830fa2a524b5c9cf1f788c2ea55"
+    },
+    {
+      "path": "docs/docs/examples/figure_01_fly_visual_system_files/figure_01_fly_visual_system_11_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd145b8f6ca8d0b1bde8129b995a5cc65dd42dbd",
+      "size": 53193,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/bd145b8f6ca8d0b1bde8129b995a5cc65dd42dbd"
+    },
+    {
+      "path": "docs/docs/examples/figure_01_fly_visual_system_files/figure_01_fly_visual_system_11_2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e29823697c5508113c6c2073a0ef96af6966d55",
+      "size": 57095,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/3e29823697c5508113c6c2073a0ef96af6966d55"
+    },
+    {
+      "path": "docs/docs/examples/figure_01_fly_visual_system_files/figure_01_fly_visual_system_15_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc4a2b7b3d500be500c766ae30e1b9263e7ddaab",
+      "size": 32686,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/fc4a2b7b3d500be500c766ae30e1b9263e7ddaab"
+    },
+    {
+      "path": "docs/docs/examples/figure_01_fly_visual_system_files/figure_01_fly_visual_system_15_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c8d818fc2e834ac4de306c3286067d81620c0764",
+      "size": 32967,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c8d818fc2e834ac4de306c3286067d81620c0764"
+    },
+    {
+      "path": "docs/docs/examples/figure_01_fly_visual_system_files/figure_01_fly_visual_system_15_2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6eaa2351954c8a298dcc8d22318864382738505",
+      "size": 35491,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e6eaa2351954c8a298dcc8d22318864382738505"
+    },
+    {
+      "path": "docs/docs/examples/figure_01_fly_visual_system_files/figure_01_fly_visual_system_22_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54b523b44b32923ed744f4dcf3c432818c21dc56",
+      "size": 735684,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/54b523b44b32923ed744f4dcf3c432818c21dc56"
+    },
+    {
+      "path": "docs/docs/examples/figure_01_fly_visual_system_files/figure_01_fly_visual_system_26_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc90f7129081c6beebb6c996b6f9b6fcc4cdfd1a",
+      "size": 66551,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/fc90f7129081c6beebb6c996b6f9b6fcc4cdfd1a"
+    },
+    {
+      "path": "docs/docs/examples/figure_01_fly_visual_system_files/figure_01_fly_visual_system_26_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab4e9e88415fccd00381955d9821ae0de9047f53",
+      "size": 66303,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ab4e9e88415fccd00381955d9821ae0de9047f53"
+    },
+    {
+      "path": "docs/docs/examples/figure_01_fly_visual_system_files/figure_01_fly_visual_system_26_2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26f55d575c53b80b63a4e33dc8e8cd5a6415bac0",
+      "size": 75996,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/26f55d575c53b80b63a4e33dc8e8cd5a6415bac0"
+    },
+    {
+      "path": "docs/docs/examples/figure_01_fly_visual_system_files/figure_01_fly_visual_system_4_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5fe65f84dc04d00f255b4dda027684ee4e86b97f",
+      "size": 130287,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/5fe65f84dc04d00f255b4dda027684ee4e86b97f"
+    },
+    {
+      "path": "docs/docs/examples/figure_01_fly_visual_system_files/figure_01_fly_visual_system_6_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4ce830f12b45a7023798cf0bbabbe7927126b2f",
+      "size": 45032,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f4ce830f12b45a7023798cf0bbabbe7927126b2f"
+    },
+    {
+      "path": "docs/docs/examples/figure_02_simple_stimuli_responses.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2547d7d1a7c2e76ccce8761b4a9a05e8289b6b18",
+      "size": 9793,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/2547d7d1a7c2e76ccce8761b4a9a05e8289b6b18"
+    },
+    {
+      "path": "docs/docs/examples/figure_02_simple_stimuli_responses_files",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7a946119e24e42dc4bb7f0ea5561af6f295e474f",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/7a946119e24e42dc4bb7f0ea5561af6f295e474f"
+    },
+    {
+      "path": "docs/docs/examples/figure_02_simple_stimuli_responses_files/figure_02_simple_stimuli_responses_12_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4eb808d604419af023389b24cf896fd4354d3715",
+      "size": 35837,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/4eb808d604419af023389b24cf896fd4354d3715"
+    },
+    {
+      "path": "docs/docs/examples/figure_02_simple_stimuli_responses_files/figure_02_simple_stimuli_responses_13_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1da0d8574795687d86f4472d370a45ad70b04490",
+      "size": 38121,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/1da0d8574795687d86f4472d370a45ad70b04490"
+    },
+    {
+      "path": "docs/docs/examples/figure_02_simple_stimuli_responses_files/figure_02_simple_stimuli_responses_4_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e9032c54a4ce63fef3327fdc2b394f4e8926ebb",
+      "size": 150628,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/4e9032c54a4ce63fef3327fdc2b394f4e8926ebb"
+    },
+    {
+      "path": "docs/docs/examples/figure_02_simple_stimuli_responses_files/figure_02_simple_stimuli_responses_4_11.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b85d7754f2e994e8183409850812258e3304ba47",
+      "size": 150628,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/b85d7754f2e994e8183409850812258e3304ba47"
+    },
+    {
+      "path": "docs/docs/examples/figure_02_simple_stimuli_responses_files/figure_02_simple_stimuli_responses_4_2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "878db9b948a08449ee65dace3758463118d75bed",
+      "size": 146242,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/878db9b948a08449ee65dace3758463118d75bed"
+    },
+    {
+      "path": "docs/docs/examples/figure_02_simple_stimuli_responses_files/figure_02_simple_stimuli_responses_6_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7adf6bdbe2279d82ab2e1a01cdc83c30b13018af",
+      "size": 210409,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/7adf6bdbe2279d82ab2e1a01cdc83c30b13018af"
+    },
+    {
+      "path": "docs/docs/examples/figure_02_simple_stimuli_responses_files/figure_02_simple_stimuli_responses_6_12.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cf9204079df555e84632e6eeff5ba653c9cceff",
+      "size": 188511,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/3cf9204079df555e84632e6eeff5ba653c9cceff"
+    },
+    {
+      "path": "docs/docs/examples/figure_02_simple_stimuli_responses_files/figure_02_simple_stimuli_responses_6_2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "30ede36b913cb60da8c9855168816eeffdbad937",
+      "size": 212850,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/30ede36b913cb60da8c9855168816eeffdbad937"
+    },
+    {
+      "path": "docs/docs/examples/figure_03_naturalistic_stimuli_responses.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ee7b280c9e8e93bb4ce1e1c0322c008d3704ba8c",
+      "size": 17236,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ee7b280c9e8e93bb4ce1e1c0322c008d3704ba8c"
+    },
+    {
+      "path": "docs/docs/examples/figure_03_naturalistic_stimuli_responses_files",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "55e87f0ce66ee6d8ad828dd225307db1e12c5e8d",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/55e87f0ce66ee6d8ad828dd225307db1e12c5e8d"
+    },
+    {
+      "path": "docs/docs/examples/figure_03_naturalistic_stimuli_responses_files/figure_03_naturalistic_stimuli_responses_13_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84633a229c4d274174618d1934bfb0e6027ae257",
+      "size": 54603,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/84633a229c4d274174618d1934bfb0e6027ae257"
+    },
+    {
+      "path": "docs/docs/examples/figure_03_naturalistic_stimuli_responses_files/figure_03_naturalistic_stimuli_responses_15_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0120b9759de206821ecd20f8173a3e238386422",
+      "size": 22747,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f0120b9759de206821ecd20f8173a3e238386422"
+    },
+    {
+      "path": "docs/docs/examples/figure_03_naturalistic_stimuli_responses_files/figure_03_naturalistic_stimuli_responses_15_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad0c08dceda9a08a8b38ad67bca43a8c9d83bc6e",
+      "size": 21777,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ad0c08dceda9a08a8b38ad67bca43a8c9d83bc6e"
+    },
+    {
+      "path": "docs/docs/examples/figure_03_naturalistic_stimuli_responses_files/figure_03_naturalistic_stimuli_responses_15_2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4425235af3a36ea907aa3f2d4d110aadcfaa10b3",
+      "size": 16474,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/4425235af3a36ea907aa3f2d4d110aadcfaa10b3"
+    },
+    {
+      "path": "docs/docs/examples/figure_03_naturalistic_stimuli_responses_files/figure_03_naturalistic_stimuli_responses_15_3.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c846a4fcb18f773f1739a0e82d91391c9600ff0c",
+      "size": 19322,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c846a4fcb18f773f1739a0e82d91391c9600ff0c"
+    },
+    {
+      "path": "docs/docs/examples/figure_03_naturalistic_stimuli_responses_files/figure_03_naturalistic_stimuli_responses_15_52.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0120b9759de206821ecd20f8173a3e238386422",
+      "size": 22747,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f0120b9759de206821ecd20f8173a3e238386422"
+    },
+    {
+      "path": "docs/docs/examples/figure_03_naturalistic_stimuli_responses_files/figure_03_naturalistic_stimuli_responses_15_53.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b232f221a177f8b244d0e41933abfe55c1b49594",
+      "size": 16982,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/b232f221a177f8b244d0e41933abfe55c1b49594"
+    },
+    {
+      "path": "docs/docs/examples/figure_03_naturalistic_stimuli_responses_files/figure_03_naturalistic_stimuli_responses_15_54.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8d29b33296b3edcf59ed6213a8145d8905496a6",
+      "size": 19976,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/b8d29b33296b3edcf59ed6213a8145d8905496a6"
+    },
+    {
+      "path": "docs/docs/examples/figure_03_naturalistic_stimuli_responses_files/figure_03_naturalistic_stimuli_responses_6_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0bf72dce2a21d3e511f402e6634fd307a49e738c",
+      "size": 47161,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/0bf72dce2a21d3e511f402e6634fd307a49e738c"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ad42090fcc4c21781239b0fb3414bbe97fec86e",
+      "size": 61284,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/6ad42090fcc4c21781239b0fb3414bbe97fec86e"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bf0853c26f9081b750a31cadc57c09ab6d3adbda",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/bf0853c26f9081b750a31cadc57c09ab6d3adbda"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_19_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7128e179cffcdf20f6b12195aa6e27aa4727c353",
+      "size": 18109,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/7128e179cffcdf20f6b12195aa6e27aa4727c353"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_20_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f196056ed395216bb7ea0a4d131d1255c5997d0",
+      "size": 34474,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/0f196056ed395216bb7ea0a4d131d1255c5997d0"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_20_2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1a34b6fa93d9d1e8ad84efe88e43c9fc2034177",
+      "size": 12652,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e1a34b6fa93d9d1e8ad84efe88e43c9fc2034177"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_21_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "088eaa426c82e2f615895c904786ea56e6497f33",
+      "size": 68430,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/088eaa426c82e2f615895c904786ea56e6497f33"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_25_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05195d378a9c617beebb1338bf68ce8bf0fb246a",
+      "size": 19831,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/05195d378a9c617beebb1338bf68ce8bf0fb246a"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_26_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2599ee88ab44ff754df030322c6011f233ed543f",
+      "size": 31079,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/2599ee88ab44ff754df030322c6011f233ed543f"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_26_2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "390dfd12f3482d8211bca775093eb09114706321",
+      "size": 8952,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/390dfd12f3482d8211bca775093eb09114706321"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_27_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e495bbdf6ac3db3a07f089f96d23fe0ab63d685",
+      "size": 65974,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/8e495bbdf6ac3db3a07f089f96d23fe0ab63d685"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_29_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db02a711ce7d86591140cb3e04b022a3870e2cd4",
+      "size": 62507,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/db02a711ce7d86591140cb3e04b022a3870e2cd4"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_36_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a756467021348d4bd3aa29f6e00580a857aecae7",
+      "size": 105266,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/a756467021348d4bd3aa29f6e00580a857aecae7"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_38_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef3bf97e73d38293195261cea7c68e3cbb6310f6",
+      "size": 2197,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ef3bf97e73d38293195261cea7c68e3cbb6310f6"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_43_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4d3900b3fe7fb53cac4fc2b7d79a11e887f8271",
+      "size": 53441,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c4d3900b3fe7fb53cac4fc2b7d79a11e887f8271"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_47_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2ae3cfe57607fe8f1a1935e414d8cdf310d0600",
+      "size": 57888,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/b2ae3cfe57607fe8f1a1935e414d8cdf310d0600"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_52_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "74f74887c82106a1c72e97c8be4bf2c91729debd",
+      "size": 109902,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/74f74887c82106a1c72e97c8be4bf2c91729debd"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_54_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f15ecae84ee18c158ee7f5a00c3c9bf68deda81",
+      "size": 111385,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/9f15ecae84ee18c158ee7f5a00c3c9bf68deda81"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_58_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca881fccb83fa982bca421b57e59d76859f10f6a",
+      "size": 105214,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ca881fccb83fa982bca421b57e59d76859f10f6a"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_62_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "70b1ac33450c268692a0d39b0eb12c9ad03b4ee1",
+      "size": 1122,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/70b1ac33450c268692a0d39b0eb12c9ad03b4ee1"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_63_1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56809e586092670da5ab4a8aaf92cbfae04602e2",
+      "size": 2228,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/56809e586092670da5ab4a8aaf92cbfae04602e2"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_68_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd9c0b095caf2d38224a589b114a72317e61613c",
+      "size": 51067,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/cd9c0b095caf2d38224a589b114a72317e61613c"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_72_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "febdca39f2d76d11eb4d9cd7a4ab638be747e4fe",
+      "size": 54916,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/febdca39f2d76d11eb4d9cd7a4ab638be747e4fe"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_78_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "295033dbfc9f75425063f573b4d71118cdf364a5",
+      "size": 109260,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/295033dbfc9f75425063f573b4d71118cdf364a5"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_7_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f69e67b6b5640abb9440e1741267834c4834aff",
+      "size": 47714,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/1f69e67b6b5640abb9440e1741267834c4834aff"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_80_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d835fe7ce919295d88ffcd93738379db74985dd5",
+      "size": 110754,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d835fe7ce919295d88ffcd93738379db74985dd5"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_8_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48530ffa05e8a2ef18e93d11ecf2352a0e67c5c2",
+      "size": 49296,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/48530ffa05e8a2ef18e93d11ecf2352a0e67c5c2"
+    },
+    {
+      "path": "docs/docs/examples/figure_04_mechanisms_files/figure_04_mechanisms_9_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55254dfa164a59cd689994ba1f55f54e02cbaae9",
+      "size": 48278,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/55254dfa164a59cd689994ba1f55f54e02cbaae9"
+    },
+    {
+      "path": "docs/docs/faq.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "696d70b9569f15f2e7885248ccee834d1deae594",
+      "size": 166,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/696d70b9569f15f2e7885248ccee834d1deae594"
+    },
+    {
+      "path": "docs/docs/images",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9b9b76a27747c31e0be23491593d7c7d7ca92549",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/9b9b76a27747c31e0be23491593d7c7d7ca92549"
+    },
+    {
+      "path": "docs/docs/images/black_no_text@150ppi.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25c0e6319835f3b25191efa145b9e9a79158c353",
+      "size": 549274,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/25c0e6319835f3b25191efa145b9e9a79158c353"
+    },
+    {
+      "path": "docs/docs/images/flyvis_logo_big_and_tall@150ppi.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91c475a00a4f91e8a81be8a1b805ab119d0aec5d",
+      "size": 416814,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/91c475a00a4f91e8a81be8a1b805ab119d0aec5d"
+    },
+    {
+      "path": "docs/docs/images/flyvis_logo_big_and_tall_night@150ppi.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c5267dc3c532ecf607ebace4c70c6d112dadfc2",
+      "size": 417398,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/2c5267dc3c532ecf607ebace4c70c6d112dadfc2"
+    },
+    {
+      "path": "docs/docs/images/flyvis_logo_dark@150ppi.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c8c4ee7cc5003c4fae2e749bf907f195f6000f2",
+      "size": 109752,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/8c8c4ee7cc5003c4fae2e749bf907f195f6000f2"
+    },
+    {
+      "path": "docs/docs/images/flyvis_logo_light@150ppi.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e8c971332cfa5858346556099c9d646dc467fac",
+      "size": 109372,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/3e8c971332cfa5858346556099c9d646dc467fac"
+    },
+    {
+      "path": "docs/docs/images/tweet_1_intro.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "765920cd1ecae809e3c866c7faee7eb7e77ace51",
+      "size": 353620,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/765920cd1ecae809e3c866c7faee7eb7e77ace51"
+    },
+    {
+      "path": "docs/docs/images/tweet_4_network.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d90b1b1a9895ac7898e5a51a99d4e1de977fd376",
+      "size": 689515,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d90b1b1a9895ac7898e5a51a99d4e1de977fd376"
+    },
+    {
+      "path": "docs/docs/images/tweet_4_network.webm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f5397d8258e159d7e9f7ac83574e3443bca277a",
+      "size": 204570,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/5f5397d8258e159d7e9f7ac83574e3443bca277a"
+    },
+    {
+      "path": "docs/docs/images/tweet_5_training_light.webm",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5f302a976ddbab8ca7064c5ada4f000c17fb5f6",
+      "size": 180895,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c5f302a976ddbab8ca7064c5ada4f000c17fb5f6"
+    },
+    {
+      "path": "docs/docs/images/white_no_text@150ppi.webp",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ebc1d812b50acf652f2c5c0cf60b6dc0b6261545",
+      "size": 478650,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ebc1d812b50acf652f2c5c0cf60b6dc0b6261545"
+    },
+    {
+      "path": "docs/docs/index.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ac0a5195431f763a56dfb9ab71087dbbea427ac",
+      "size": 5237,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/8ac0a5195431f763a56dfb9ab71087dbbea427ac"
+    },
+    {
+      "path": "docs/docs/install.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8e8a51b94aadcccc3022d7b59e6b0f0504d4a3e",
+      "size": 1933,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/b8e8a51b94aadcccc3022d7b59e6b0f0504d4a3e"
+    },
+    {
+      "path": "docs/docs/javascripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "10cdcd69262e0ecf3ec8aaa3548ee2ae83fd9ffa",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/10cdcd69262e0ecf3ec8aaa3548ee2ae83fd9ffa"
+    },
+    {
+      "path": "docs/docs/javascripts/mathjax.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b34852b5eee866d1d7d974464c591535a7a6ee4",
+      "size": 424,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/5b34852b5eee866d1d7d974464c591535a7a6ee4"
+    },
+    {
+      "path": "docs/docs/reference",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "07a3935f4db5dead650663d731f5b08dbbafd18b",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/07a3935f4db5dead650663d731f5b08dbbafd18b"
+    },
+    {
+      "path": "docs/docs/reference/animations.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7a0f656bbb88e7cf8bb68a419383e87ebc84dbe",
+      "size": 1437,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/b7a0f656bbb88e7cf8bb68a419383e87ebc84dbe"
+    },
+    {
+      "path": "docs/docs/reference/augmentation.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd9cf2773ed176fb5b579488c30557615e3c2b76",
+      "size": 592,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/bd9cf2773ed176fb5b579488c30557615e3c2b76"
+    },
+    {
+      "path": "docs/docs/reference/cli.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c92c830dfad5811154ff3ff2e42c038f680170a6",
+      "size": 5713,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c92c830dfad5811154ff3ff2e42c038f680170a6"
+    },
+    {
+      "path": "docs/docs/reference/connectome.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "145efdb17db7f1c7dbd8399501f1d7af2d931645",
+      "size": 595,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/145efdb17db7f1c7dbd8399501f1d7af2d931645"
+    },
+    {
+      "path": "docs/docs/reference/datasets.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c35387d4633846bf2c1e70341b6f07ad2f9094d4",
+      "size": 456,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c35387d4633846bf2c1e70341b6f07ad2f9094d4"
+    },
+    {
+      "path": "docs/docs/reference/decoder.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e43e75ab7e5d5c29b73fd31f63a7e366f62747d0",
+      "size": 248,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e43e75ab7e5d5c29b73fd31f63a7e366f62747d0"
+    },
+    {
+      "path": "docs/docs/reference/ensemble_clustering.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "312f93ef126d35d87cc4559acc76b9a4f9446164",
+      "size": 322,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/312f93ef126d35d87cc4559acc76b9a4f9446164"
+    },
+    {
+      "path": "docs/docs/reference/ensemble_view.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92582485743d78b2e8797fb48b881ee8144d5791",
+      "size": 105,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/92582485743d78b2e8797fb48b881ee8144d5791"
+    },
+    {
+      "path": "docs/docs/reference/flash_responses.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "423268e8b48ae9035d404071ddd5503c72549902",
+      "size": 334,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/423268e8b48ae9035d404071ddd5503c72549902"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "99f4927980713eb7efe32c0869e3ba811a83acfe",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/99f4927980713eb7efe32c0869e3ba811a83acfe"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli/analysis",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "460c5fe411cba386cabe5412c9b6be0fd3ae022f",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/460c5fe411cba386cabe5412c9b6be0fd3ae022f"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli/analysis/analysis.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5bb1b4c5dcc2aa1cbc25de7b1791b54cf7e1d496",
+      "size": 1289,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/5bb1b4c5dcc2aa1cbc25de7b1791b54cf7e1d496"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli/analysis/ensemble_analysis.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "168dc5f1caecd125c59e1d7b54ba1e50878a52d3",
+      "size": 1054,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/168dc5f1caecd125c59e1d7b54ba1e50878a52d3"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli/analysis/notebook.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d4b8419219c8556ef77a4da5fb0941ec2b60965",
+      "size": 3310,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/7d4b8419219c8556ef77a4da5fb0941ec2b60965"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli/analysis/notebook_per_ensemble.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8b4291ba69f8354443f57b1cce9030d33403969",
+      "size": 1081,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e8b4291ba69f8354443f57b1cce9030d33403969"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli/analysis/notebook_per_model.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19c59f784b4e37e601d6a375dc22451696632683",
+      "size": 1232,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/19c59f784b4e37e601d6a375dc22451696632683"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli/analysis/record.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa67f26ac888434b5511036a3e090d31eb6ddf3e",
+      "size": 1365,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/aa67f26ac888434b5511036a3e090d31eb6ddf3e"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli/analysis/responses_norm.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc698eea8b3aad5d61bbf478b9ab27c8cee1d4b9",
+      "size": 3306,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/bc698eea8b3aad5d61bbf478b9ab27c8cee1d4b9"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli/analysis/synthetic_recordings_single.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38af402ffe28afa9b86ee626dbce9778658bf4de",
+      "size": 1717,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/38af402ffe28afa9b86ee626dbce9778658bf4de"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli/download_pretrained_models.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c938ea196528ab771f7c5446350b873ac00fba02",
+      "size": 825,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c938ea196528ab771f7c5446350b873ac00fba02"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli/flyvis_cli.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7706a1fb96be1a38238a8d19278aa647d0e10ca",
+      "size": 112,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e7706a1fb96be1a38238a8d19278aa647d0e10ca"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli/init_config.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a515c7825cb3abf9ed1f9ca723eece78cef395b",
+      "size": 665,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/1a515c7825cb3abf9ed1f9ca723eece78cef395b"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli/training",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "06a37441273e33a4d0c2543baed8f261b0ef3da7",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/06a37441273e33a4d0c2543baed8f261b0ef3da7"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli/training/train.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d99ebf8fdff2dbfebe1bb62a2e42a04b28557fea",
+      "size": 1245,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d99ebf8fdff2dbfebe1bb62a2e42a04b28557fea"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli/training/train_single.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f3bc8336f33aaf2c5d9f3d752632ad18f030d03",
+      "size": 5176,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/4f3bc8336f33aaf2c5d9f3d752632ad18f030d03"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli/validation",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ffe3a927bb7f8791e39dc0f5522f8ad29b3ad3b4",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/ffe3a927bb7f8791e39dc0f5522f8ad29b3ad3b4"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli/validation/val_single.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e1e1fc11c458bf2a437435b8295ddc5baa0dd8a",
+      "size": 1135,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/6e1e1fc11c458bf2a437435b8295ddc5baa0dd8a"
+    },
+    {
+      "path": "docs/docs/reference/flyvis_cli/validation/validate.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "24c0afa5583ca779aaea2c1cee84427b0f0ae49b",
+      "size": 1245,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/24c0afa5583ca779aaea2c1cee84427b0f0ae49b"
+    },
+    {
+      "path": "docs/docs/reference/hydra_default_config.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7fe6736d1c69aea0b304d5afbcda81e67ef1d8f",
+      "size": 5763,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/b7fe6736d1c69aea0b304d5afbcda81e67ef1d8f"
+    },
+    {
+      "path": "docs/docs/reference/moving_stimulus_responses.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "087e4065a5b60a0c44c49598434bdd30e0a78757",
+      "size": 337,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/087e4065a5b60a0c44c49598434bdd30e0a78757"
+    },
+    {
+      "path": "docs/docs/reference/network.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97f08e1550e02e31e189b50121a591136984d2ac",
+      "size": 497,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/97f08e1550e02e31e189b50121a591136984d2ac"
+    },
+    {
+      "path": "docs/docs/reference/network_view.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "44042f1a4f360d53dd025bb04e94475bc5815ea3",
+      "size": 140,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/44042f1a4f360d53dd025bb04e94475bc5815ea3"
+    },
+    {
+      "path": "docs/docs/reference/optimal_stimuli.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f58cdb34373b5cc51d7e4d29f02d957493c74e97",
+      "size": 414,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f58cdb34373b5cc51d7e4d29f02d957493c74e97"
+    },
+    {
+      "path": "docs/docs/reference/rendering.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c7e32c72dd39e5f285d76dc2f5d283399500e6a",
+      "size": 167,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/4c7e32c72dd39e5f285d76dc2f5d283399500e6a"
+    },
+    {
+      "path": "docs/docs/reference/sintel.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0e325d5a4758269ab3c3266c189d1426616f852",
+      "size": 211,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f0e325d5a4758269ab3c3266c189d1426616f852"
+    },
+    {
+      "path": "docs/docs/reference/solver.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a54512a09cbc30087aac0f34f5480189fb23d4ce",
+      "size": 215,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/a54512a09cbc30087aac0f34f5480189fb23d4ce"
+    },
+    {
+      "path": "docs/docs/reference/tasks.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29fb466f6a82db5db9c6e293b48b1d7dcfd59c14",
+      "size": 50,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/29fb466f6a82db5db9c6e293b48b1d7dcfd59c14"
+    },
+    {
+      "path": "docs/docs/reference/utils.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2a0b6d9c6ebf6f4c89ff8d1ab549776962333bb",
+      "size": 9365,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e2a0b6d9c6ebf6f4c89ff8d1ab549776962333bb"
+    },
+    {
+      "path": "docs/docs/reference/visualization.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a9d4633b5500f4b43357aa6ef0cb57f1cdb00f3",
+      "size": 6855,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/9a9d4633b5500f4b43357aa6ef0cb57f1cdb00f3"
+    },
+    {
+      "path": "docs/docs/release.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e06229b856319c657907102749f4032618fe341",
+      "size": 6026,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/8e06229b856319c657907102749f4032618fe341"
+    },
+    {
+      "path": "docs/mkdocs.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1e1cbdb472bc1dcad40b39bc72f495161f1e7307",
+      "size": 6178,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/1e1cbdb472bc1dcad40b39bc72f495161f1e7307"
+    },
+    {
+      "path": "docs/overrides",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2109a7313a0a6a7fe5ad70900a1f4695ea649b0a",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/2109a7313a0a6a7fe5ad70900a1f4695ea649b0a"
+    },
+    {
+      "path": "docs/overrides/assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1a06e2b7170b5cb363f783708108c68b8be49caa",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/1a06e2b7170b5cb363f783708108c68b8be49caa"
+    },
+    {
+      "path": "docs/overrides/assets/images",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "67bfd038a22a2112bd86a09f43aa4edc6a9f2a36",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/67bfd038a22a2112bd86a09f43aa4edc6a9f2a36"
+    },
+    {
+      "path": "docs/overrides/assets/images/android-chrome-192x192.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "74c7a91db3c31f66381e954b39843594cde437c0",
+      "size": 68371,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/74c7a91db3c31f66381e954b39843594cde437c0"
+    },
+    {
+      "path": "docs/overrides/assets/images/android-chrome-512x512.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3ab0bc2fe50c871e2202ffc6f9e70b663cbc764",
+      "size": 287113,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e3ab0bc2fe50c871e2202ffc6f9e70b663cbc764"
+    },
+    {
+      "path": "docs/overrides/assets/images/apple-touch-icon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb9e0c64386d9e591e41550b6dc7e56289e26891",
+      "size": 61034,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/fb9e0c64386d9e591e41550b6dc7e56289e26891"
+    },
+    {
+      "path": "docs/overrides/assets/images/favicon-16x16.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7415a32f7fc40e7e30994e19fd555f646a26bccf",
+      "size": 943,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/7415a32f7fc40e7e30994e19fd555f646a26bccf"
+    },
+    {
+      "path": "docs/overrides/assets/images/favicon-32x32.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "774672f82c88d201f5bc2751796d8c13e3fd8a48",
+      "size": 2989,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/774672f82c88d201f5bc2751796d8c13e3fd8a48"
+    },
+    {
+      "path": "docs/overrides/assets/images/favicon.ico",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ccfc6d71f1f464b5b713bb80eeedb252404735ac",
+      "size": 15406,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ccfc6d71f1f464b5b713bb80eeedb252404735ac"
+    },
+    {
+      "path": "docs/overrides/assets/images/favicon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7415a32f7fc40e7e30994e19fd555f646a26bccf",
+      "size": 943,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/7415a32f7fc40e7e30994e19fd555f646a26bccf"
+    },
+    {
+      "path": "docs/overrides/partials",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d7d0184a96e068829498a80104eb98938a85a750",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/d7d0184a96e068829498a80104eb98938a85a750"
+    },
+    {
+      "path": "docs/overrides/partials/copyright.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40349a38117b11628b74548ecb90946c050a6215",
+      "size": 371,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/40349a38117b11628b74548ecb90946c050a6215"
+    },
+    {
+      "path": "docs/overrides/partials/footer.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac06aef0471d346be95a11f8ecc5cc5b4b1bb4af",
+      "size": 2146,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ac06aef0471d346be95a11f8ecc5cc5b4b1bb4af"
+    },
+    {
+      "path": "docs/overrides/partials/header.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a189a1903c342f306ac68b3b762a606a9af48f39",
+      "size": 2429,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/a189a1903c342f306ac68b3b762a606a9af48f39"
+    },
+    {
+      "path": "docs/overrides/partials/logo.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bde55091371f133ff65ba6e9c43f773380928e3c",
+      "size": 374,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/bde55091371f133ff65ba6e9c43f773380928e3c"
+    },
+    {
+      "path": "docs/overrides/partials/nav.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87e5cb0adef0061987d9c8b54f16fc4ca3aa7bbd",
+      "size": 1117,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/87e5cb0adef0061987d9c8b54f16fc4ca3aa7bbd"
+    },
+    {
+      "path": "docs/script_to_md.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c034070d595c39f910b82dbfbcc8ab19aeeb4e08",
+      "size": 2776,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c034070d595c39f910b82dbfbcc8ab19aeeb4e08"
+    },
+    {
+      "path": "examples",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "459fbd097c971901638e4fcb536441ca473af192",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/459fbd097c971901638e4fcb536441ca473af192"
+    },
+    {
+      "path": "examples/01_flyvision_connectome.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c971bf88886ad51d2fa8291fa89f2c87af687d25",
+      "size": 11769,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c971bf88886ad51d2fa8291fa89f2c87af687d25"
+    },
+    {
+      "path": "examples/02_flyvision_optic_flow_task.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "565a346a24f8f5cf520c97f8aa792988dca624b5",
+      "size": 76093,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/565a346a24f8f5cf520c97f8aa792988dca624b5"
+    },
+    {
+      "path": "examples/03_flyvision_flash_responses.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7364a6940aa2a9e9b8c229649ae0fe664174b6ae",
+      "size": 34432,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/7364a6940aa2a9e9b8c229649ae0fe664174b6ae"
+    },
+    {
+      "path": "examples/04_flyvision_moving_edge_responses.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8ea5e3f1b31a268cdcf1ae02470707d03f0aaea",
+      "size": 55110,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d8ea5e3f1b31a268cdcf1ae02470707d03f0aaea"
+    },
+    {
+      "path": "examples/05_flyvision_umap_and_clustering_models.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eac13a51e0a14b5daf3a632a8c6ebd49b78e07cd",
+      "size": 39375,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/eac13a51e0a14b5daf3a632a8c6ebd49b78e07cd"
+    },
+    {
+      "path": "examples/06_flyvision_maximally_excitatory_stimuli.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c14822b2e54a5ca99565896988a99612768196d7",
+      "size": 14254,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c14822b2e54a5ca99565896988a99612768196d7"
+    },
+    {
+      "path": "examples/07_flyvision_providing_custom_stimuli.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63c3a86f9ebdc4ef66802263022d0f9d3be7355e",
+      "size": 89176,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/63c3a86f9ebdc4ef66802263022d0f9d3be7355e"
+    },
+    {
+      "path": "examples/__main__.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a239df5f3ea4ee23d6cfc013138347c2091a2f8f",
+      "size": 25254,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/a239df5f3ea4ee23d6cfc013138347c2091a2f8f"
+    },
+    {
+      "path": "examples/__main_per_model__.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e650635743d63c13eccccdc34048b3ca02ce5ce2",
+      "size": 2555,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e650635743d63c13eccccdc34048b3ca02ce5ce2"
+    },
+    {
+      "path": "examples/figure_01_fly_visual_system.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2acafb9f0a7931cfcf00418237c5888095b7745f",
+      "size": 24855,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/2acafb9f0a7931cfcf00418237c5888095b7745f"
+    },
+    {
+      "path": "examples/figure_02_simple_stimuli_responses.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3f814f11d961c6127ea6a9d3f5b2e42dbcef4ab",
+      "size": 22617,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e3f814f11d961c6127ea6a9d3f5b2e42dbcef4ab"
+    },
+    {
+      "path": "examples/figure_03_naturalistic_stimuli_responses.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1ce0a940e515f65fbc0a3759070bf847a20c2ff",
+      "size": 20611,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f1ce0a940e515f65fbc0a3759070bf847a20c2ff"
+    },
+    {
+      "path": "examples/figure_04_mechanisms.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09e3142f739be4890904b0a19f08d37378fbac0e",
+      "size": 47274,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/09e3142f739be4890904b0a19f08d37378fbac0e"
+    },
+    {
+      "path": "examples/figure_04_top_models.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "00e6a146566c1adaec2371924be2a2a9575fef81",
+      "size": 12189,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/00e6a146566c1adaec2371924be2a2a9575fef81"
+    },
+    {
+      "path": "flyvis",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d427bd37e1c6d12e7f9b722e3fe7580e0196186b",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/d427bd37e1c6d12e7f9b722e3fe7580e0196186b"
+    },
+    {
+      "path": "flyvis/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54156e85a27d6aad0f8869bf419d0689f43ff0b4",
+      "size": 1801,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/54156e85a27d6aad0f8869bf419d0689f43ff0b4"
+    },
+    {
+      "path": "flyvis/analysis",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "93af9855491e4d71f72fb34c3b8e0606b6257fea",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/93af9855491e4d71f72fb34c3b8e0606b6257fea"
+    },
+    {
+      "path": "flyvis/analysis/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "flyvis/analysis/__main__.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7658f3133a23a476fdea9d8b95ce4f25c1030a0",
+      "size": 620837,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/a7658f3133a23a476fdea9d8b95ce4f25c1030a0"
+    },
+    {
+      "path": "flyvis/analysis/__main_per_model__.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a33836bf8380fa635977f8f89e8d8dbe3ba98af7",
+      "size": 2555,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/a33836bf8380fa635977f8f89e8d8dbe3ba98af7"
+    },
+    {
+      "path": "flyvis/analysis/animations",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bbcd526c62a53b0bf007639433eacaf8812f003f",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/bbcd526c62a53b0bf007639433eacaf8812f003f"
+    },
+    {
+      "path": "flyvis/analysis/animations/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "286f15e74c45c992533538f4646c7179cc2c9d2e",
+      "size": 210,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/286f15e74c45c992533538f4646c7179cc2c9d2e"
+    },
+    {
+      "path": "flyvis/analysis/animations/activations.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6805d74a5046c2ada7cc251be3b8d9660697b66b",
+      "size": 4357,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/6805d74a5046c2ada7cc251be3b8d9660697b66b"
+    },
+    {
+      "path": "flyvis/analysis/animations/animations.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0f031e080005e8d6794746ac800dfaf71ee6648",
+      "size": 12934,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d0f031e080005e8d6794746ac800dfaf71ee6648"
+    },
+    {
+      "path": "flyvis/analysis/animations/hexflow.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f9351ee464944ca891a8a77b34b77d82d1607ec2",
+      "size": 5353,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f9351ee464944ca891a8a77b34b77d82d1607ec2"
+    },
+    {
+      "path": "flyvis/analysis/animations/hexscatter.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64f4b9d3a7253986e5fab0bf836729dc8878ad3f",
+      "size": 8973,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/64f4b9d3a7253986e5fab0bf836729dc8878ad3f"
+    },
+    {
+      "path": "flyvis/analysis/animations/imshow.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43a7191075d4a63c82e02d3a515d2e3402e9d7d3",
+      "size": 2735,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/43a7191075d4a63c82e02d3a515d2e3402e9d7d3"
+    },
+    {
+      "path": "flyvis/analysis/animations/network.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f97d888cdfaf25620a63dbd8855bd36bd0868198",
+      "size": 6854,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f97d888cdfaf25620a63dbd8855bd36bd0868198"
+    },
+    {
+      "path": "flyvis/analysis/animations/sintel.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da55158231fb5b9c74848ee5fd804f37b0c0b3e0",
+      "size": 5543,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/da55158231fb5b9c74848ee5fd804f37b0c0b3e0"
+    },
+    {
+      "path": "flyvis/analysis/animations/traces.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dccfecf3c11d163b718f2387f7e69cb9c22a7caa",
+      "size": 12641,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/dccfecf3c11d163b718f2387f7e69cb9c22a7caa"
+    },
+    {
+      "path": "flyvis/analysis/clustering.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7fdcbea818228b3aed0913ee63a1982e42077f9",
+      "size": 27982,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c7fdcbea818228b3aed0913ee63a1982e42077f9"
+    },
+    {
+      "path": "flyvis/analysis/correlation.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e34745a71e947f328a9e5d8954ef13a64c1817e8",
+      "size": 1916,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e34745a71e947f328a9e5d8954ef13a64c1817e8"
+    },
+    {
+      "path": "flyvis/analysis/flash_responses.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2ee8e9f5be8686aec2fe9cca99b9d399ded7053",
+      "size": 10016,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d2ee8e9f5be8686aec2fe9cca99b9d399ded7053"
+    },
+    {
+      "path": "flyvis/analysis/moving_bar_responses.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba97f6f6f7aa8d2aef9c825a88411301e9bd2754",
+      "size": 28345,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ba97f6f6f7aa8d2aef9c825a88411301e9bd2754"
+    },
+    {
+      "path": "flyvis/analysis/moving_edge_currents.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bba162cfcee3f349008a591bb06809f689470d38",
+      "size": 87475,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/bba162cfcee3f349008a591bb06809f689470d38"
+    },
+    {
+      "path": "flyvis/analysis/optimal_stimuli.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2145d8efa9a351bcef142130a73fb9ba6584b484",
+      "size": 23782,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/2145d8efa9a351bcef142130a73fb9ba6584b484"
+    },
+    {
+      "path": "flyvis/analysis/response_norms.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aff03015e55ee47d02906d8a764eecc6942958fe",
+      "size": 19188,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/aff03015e55ee47d02906d8a764eecc6942958fe"
+    },
+    {
+      "path": "flyvis/analysis/stimulus_responses.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e14502ca1b175d1eebb2aa267e7144b26f0161c6",
+      "size": 15282,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e14502ca1b175d1eebb2aa267e7144b26f0161c6"
+    },
+    {
+      "path": "flyvis/analysis/stimulus_responses_currents.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fa06bd6b8ae1af62123bd61b16477cf09f0d90b8",
+      "size": 7372,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/fa06bd6b8ae1af62123bd61b16477cf09f0d90b8"
+    },
+    {
+      "path": "flyvis/analysis/validation.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7adb2b036db390a6227f160872760dc2d6dfd0d4",
+      "size": 4386,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/7adb2b036db390a6227f160872760dc2d6dfd0d4"
+    },
+    {
+      "path": "flyvis/analysis/visualization",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7b57855e16248bc764d001df240cc0ffb3cfa024",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/7b57855e16248bc764d001df240cc0ffb3cfa024"
+    },
+    {
+      "path": "flyvis/analysis/visualization/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88622e8dafa187d8a121ecb394328e37d9d71b6b",
+      "size": 336,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/88622e8dafa187d8a121ecb394328e37d9d71b6b"
+    },
+    {
+      "path": "flyvis/analysis/visualization/figsize_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "296ea23912105b46ba9898dbde14bdeb9e5491f0",
+      "size": 7911,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/296ea23912105b46ba9898dbde14bdeb9e5491f0"
+    },
+    {
+      "path": "flyvis/analysis/visualization/matplotlibrc",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "083c8292f6cdc9f10623611112dcb693b2157a1b",
+      "size": 1269,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/083c8292f6cdc9f10623611112dcb693b2157a1b"
+    },
+    {
+      "path": "flyvis/analysis/visualization/network_fig.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47e5ee009f56bfe0cc600ac772470e626c4b64f9",
+      "size": 41300,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/47e5ee009f56bfe0cc600ac772470e626c4b64f9"
+    },
+    {
+      "path": "flyvis/analysis/visualization/plots.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8d4956ebba5ace7845685538ce4bdfa79adc5a0d",
+      "size": 74394,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/8d4956ebba5ace7845685538ce4bdfa79adc5a0d"
+    },
+    {
+      "path": "flyvis/analysis/visualization/plt_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca450d3c51f117fbf46f125292b2a79069fc5ddc",
+      "size": 77943,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ca450d3c51f117fbf46f125292b2a79069fc5ddc"
+    },
+    {
+      "path": "flyvis/config",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fa697aac4e8cde27018cc834c9d9d9b211bf6ef5",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/fa697aac4e8cde27018cc834c9d9d9b211bf6ef5"
+    },
+    {
+      "path": "flyvis/config/network",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ceeb3f5d7d1c7d9f9b33857bfb38abad3c254d4f",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/ceeb3f5d7d1c7d9f9b33857bfb38abad3c254d4f"
+    },
+    {
+      "path": "flyvis/config/network/connectome",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "56152a5f39aa1a669a1cf599df599ca76d9ee0c2",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/56152a5f39aa1a669a1cf599df599ca76d9ee0c2"
+    },
+    {
+      "path": "flyvis/config/network/connectome/connectome.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5932e09369bbaaf6d51266bae0a5224ae4c831c",
+      "size": 84,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c5932e09369bbaaf6d51266bae0a5224ae4c831c"
+    },
+    {
+      "path": "flyvis/config/network/dynamics",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0c15e422f23e4ef18d20bfd3c32a28297efc2f63",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/0c15e422f23e4ef18d20bfd3c32a28297efc2f63"
+    },
+    {
+      "path": "flyvis/config/network/dynamics/dynamics.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b283a59f070719f1da6e6baab50464c62887367",
+      "size": 51,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/8b283a59f070719f1da6e6baab50464c62887367"
+    },
+    {
+      "path": "flyvis/config/network/edge_config",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "025677e2b385ef19eb2fc47d8f00c3ce25854f72",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/025677e2b385ef19eb2fc47d8f00c3ce25854f72"
+    },
+    {
+      "path": "flyvis/config/network/edge_config/edge_config.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5eecec241ddba12f7d168ded8fe6fa9924eead97",
+      "size": 92,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/5eecec241ddba12f7d168ded8fe6fa9924eead97"
+    },
+    {
+      "path": "flyvis/config/network/edge_config/sign",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c3b332c59e563d576166e71a84181e86cc82f4c2",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/c3b332c59e563d576166e71a84181e86cc82f4c2"
+    },
+    {
+      "path": "flyvis/config/network/edge_config/sign/sign.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b221e53496ff0cb5006f6e8a41d4c494911f2c9d",
+      "size": 112,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/b221e53496ff0cb5006f6e8a41d4c494911f2c9d"
+    },
+    {
+      "path": "flyvis/config/network/edge_config/syn_count",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5e4a20eaccc1c7611ace6c63406ecdf8cd27fa93",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/5e4a20eaccc1c7611ace6c63406ecdf8cd27fa93"
+    },
+    {
+      "path": "flyvis/config/network/edge_config/syn_count/syn_count.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3081f26a9aa881ee8f8ea575528093c6ab7f1c54",
+      "size": 198,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/3081f26a9aa881ee8f8ea575528093c6ab7f1c54"
+    },
+    {
+      "path": "flyvis/config/network/edge_config/syn_strength",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1c86454282587963f1b28dcf94968d7c62c44590",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/1c86454282587963f1b28dcf94968d7c62c44590"
+    },
+    {
+      "path": "flyvis/config/network/edge_config/syn_strength/syn_strength.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "00988c51a0d65da64308e8970637075d75f83b7a",
+      "size": 202,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/00988c51a0d65da64308e8970637075d75f83b7a"
+    },
+    {
+      "path": "flyvis/config/network/network.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7bffe816970be7820a038ece4d961315f9817c63",
+      "size": 166,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/7bffe816970be7820a038ece4d961315f9817c63"
+    },
+    {
+      "path": "flyvis/config/network/node_config",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "421b193c7f29198cd48181205a251d28f5b7074e",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/421b193c7f29198cd48181205a251d28f5b7074e"
+    },
+    {
+      "path": "flyvis/config/network/node_config/bias",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cd7b16cdc8f4e17b55b2a4d553ba9cac70a1ece6",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/cd7b16cdc8f4e17b55b2a4d553ba9cac70a1ece6"
+    },
+    {
+      "path": "flyvis/config/network/node_config/bias/bias.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0499f3f3aeaa3423e5628fe8e4aafb2675908bf3",
+      "size": 164,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/0499f3f3aeaa3423e5628fe8e4aafb2675908bf3"
+    },
+    {
+      "path": "flyvis/config/network/node_config/node_config.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7339707790904c5f32616b1ad21b84dabfa91e0",
+      "size": 63,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d7339707790904c5f32616b1ad21b84dabfa91e0"
+    },
+    {
+      "path": "flyvis/config/network/node_config/time_const",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6b21a319dc729e4588b68a47ddfb5bc5c9476e95",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/6b21a319dc729e4588b68a47ddfb5bc5c9476e95"
+    },
+    {
+      "path": "flyvis/config/network/node_config/time_const/time_const.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16c987e7c5a596b22a8f75b11f7f8d7b52724725",
+      "size": 89,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/16c987e7c5a596b22a8f75b11f7f8d7b52724725"
+    },
+    {
+      "path": "flyvis/config/network/stimulus_config",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "24d05b6b3129587ce81f7265a08630d9f4f2abae",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/24d05b6b3129587ce81f7265a08630d9f4f2abae"
+    },
+    {
+      "path": "flyvis/config/network/stimulus_config/stimulus_config.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c9459814f89513f6a8bebc0085a32f727390592",
+      "size": 34,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/0c9459814f89513f6a8bebc0085a32f727390592"
+    },
+    {
+      "path": "flyvis/config/optim",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3729295df16a8866c7642f9b7583c0aeafebebb4",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/3729295df16a8866c7642f9b7583c0aeafebebb4"
+    },
+    {
+      "path": "flyvis/config/optim/optim.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3fc3566b787ec981c46d7321ec2ea87e11e98930",
+      "size": 97,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/3fc3566b787ec981c46d7321ec2ea87e11e98930"
+    },
+    {
+      "path": "flyvis/config/penalizer",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2706fa203104d2f4f5ffa74b64f5099d92142f70",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/2706fa203104d2f4f5ffa74b64f5099d92142f70"
+    },
+    {
+      "path": "flyvis/config/penalizer/penalizer.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a89ecb8b52a8aa72f9c2fac2e7c4c1bcaf073e34",
+      "size": 172,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/a89ecb8b52a8aa72f9c2fac2e7c4c1bcaf073e34"
+    },
+    {
+      "path": "flyvis/config/scheduler",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9d28cdd59b8fa2196f233b980b0bddc537abbe1c",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/9d28cdd59b8fa2196f233b980b0bddc537abbe1c"
+    },
+    {
+      "path": "flyvis/config/scheduler/scheduler.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e509fb92726133b6f28895867a2dfd046f49635f",
+      "size": 344,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e509fb92726133b6f28895867a2dfd046f49635f"
+    },
+    {
+      "path": "flyvis/config/solver.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cf8d50b6f3b9e60ca97a1e84805167c727ec1b3",
+      "size": 1953,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/3cf8d50b6f3b9e60ca97a1e84805167c727ec1b3"
+    },
+    {
+      "path": "flyvis/config/task",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "559a7205bf89336107b1248028254d6c9380c123",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/559a7205bf89336107b1248028254d6c9380c123"
+    },
+    {
+      "path": "flyvis/config/task/task.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d34e1758ef252c72523138d3468dfd8b2b015555",
+      "size": 754,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d34e1758ef252c72523138d3468dfd8b2b015555"
+    },
+    {
+      "path": "flyvis/connectome",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c862e12e6ad754fe97d1616c587145ef51daacd3",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/c862e12e6ad754fe97d1616c587145ef51daacd3"
+    },
+    {
+      "path": "flyvis/connectome/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3f61ae7cde11a01e87576c6ea554e4f704c9e623",
+      "size": 26,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/3f61ae7cde11a01e87576c6ea554e4f704c9e623"
+    },
+    {
+      "path": "flyvis/connectome/connectome.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58914f30fed95ffe4d578e8ae7e5cfe3082136f4",
+      "size": 47953,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/58914f30fed95ffe4d578e8ae7e5cfe3082136f4"
+    },
+    {
+      "path": "flyvis/connectome/fib25-fib19_v2.2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e2bafee4b53c34ede54261c990f1c688d854ba6",
+      "size": 618148,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/3e2bafee4b53c34ede54261c990f1c688d854ba6"
+    },
+    {
+      "path": "flyvis/data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6ff4f24b75617909a1b87083eef2b40a6925c068",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/6ff4f24b75617909a1b87083eef2b40a6925c068"
+    },
+    {
+      "path": "flyvis/data/responses_norm.h5",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "272919f5201899bdca226d675e4a542f85e4a5f7",
+      "size": 57480,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/272919f5201899bdca226d675e4a542f85e4a5f7"
+    },
+    {
+      "path": "flyvis/datasets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c75165d4d23dcc3a00634395fda380187c5fb504",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/c75165d4d23dcc3a00634395fda380187c5fb504"
+    },
+    {
+      "path": "flyvis/datasets/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "389c2527951b3a006612ab2f2e0aa9cc641bfcb7",
+      "size": 115,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/389c2527951b3a006612ab2f2e0aa9cc641bfcb7"
+    },
+    {
+      "path": "flyvis/datasets/augmentation",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "063b782652dc1fc89f9eb132f11cf28225c77e20",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/063b782652dc1fc89f9eb132f11cf28225c77e20"
+    },
+    {
+      "path": "flyvis/datasets/augmentation/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "flyvis/datasets/augmentation/augmentation.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1805edcf2f5397d7d3d436011489b482b8e85e5b",
+      "size": 1854,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/1805edcf2f5397d7d3d436011489b482b8e85e5b"
+    },
+    {
+      "path": "flyvis/datasets/augmentation/hex.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec0c958bc1c459958fb274499dc62d0a83d88dec",
+      "size": 12039,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ec0c958bc1c459958fb274499dc62d0a83d88dec"
+    },
+    {
+      "path": "flyvis/datasets/augmentation/temporal.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59e0ef34dbbace7cdd2ea927731f87471c9b9c57",
+      "size": 6169,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/59e0ef34dbbace7cdd2ea927731f87471c9b9c57"
+    },
+    {
+      "path": "flyvis/datasets/augmentation/utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f1e6c6962603259ff2c7bf9dcb4c93d58441dcf",
+      "size": 3885,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/8f1e6c6962603259ff2c7bf9dcb4c93d58441dcf"
+    },
+    {
+      "path": "flyvis/datasets/datasets.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "591f3b5a04d2d72d7a2c42873031e37f2093fbce",
+      "size": 6478,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/591f3b5a04d2d72d7a2c42873031e37f2093fbce"
+    },
+    {
+      "path": "flyvis/datasets/dots.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2637f98df69b25f1d478a792cdcf4b62ed3f2d70",
+      "size": 14953,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/2637f98df69b25f1d478a792cdcf4b62ed3f2d70"
+    },
+    {
+      "path": "flyvis/datasets/flashes.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c8a134cbf47f2348186889b899ec702606c9e7a0",
+      "size": 6815,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c8a134cbf47f2348186889b899ec702606c9e7a0"
+    },
+    {
+      "path": "flyvis/datasets/moving_bar.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7895dd2eb71038e1a072de197ae27c291f6b68a7",
+      "size": 25925,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/7895dd2eb71038e1a072de197ae27c291f6b68a7"
+    },
+    {
+      "path": "flyvis/datasets/rendering",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "497df58592950f8751b27064e8bf9e53e565669b",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/497df58592950f8751b27064e8bf9e53e565669b"
+    },
+    {
+      "path": "flyvis/datasets/rendering/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a836bf2f47fc5831c0e27793dff1633d3b54780c",
+      "size": 57,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/a836bf2f47fc5831c0e27793dff1633d3b54780c"
+    },
+    {
+      "path": "flyvis/datasets/rendering/eye.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55c679a203dc6248e51d11932b146d4e6962910b",
+      "size": 25128,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/55c679a203dc6248e51d11932b146d4e6962910b"
+    },
+    {
+      "path": "flyvis/datasets/rendering/utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "472685d2a33a96c9375c4177beef8694f8e63309",
+      "size": 19371,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/472685d2a33a96c9375c4177beef8694f8e63309"
+    },
+    {
+      "path": "flyvis/datasets/sintel.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d70ecd0d37f0975239756c703651e2e2ae35276",
+      "size": 35593,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/4d70ecd0d37f0975239756c703651e2e2ae35276"
+    },
+    {
+      "path": "flyvis/datasets/sintel_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1cf3ba766ad9222896eeb7b7517addfb0bb292e5",
+      "size": 10678,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/1cf3ba766ad9222896eeb7b7517addfb0bb292e5"
+    },
+    {
+      "path": "flyvis/network",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c16cf1a6b274301e0ac106a21c7e9d0f9e9a8919",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/c16cf1a6b274301e0ac106a21c7e9d0f9e9a8919"
+    },
+    {
+      "path": "flyvis/network/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e33ed9180c2b53fb9ab5feaf8e85d1504ff19fab",
+      "size": 209,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e33ed9180c2b53fb9ab5feaf8e85d1504ff19fab"
+    },
+    {
+      "path": "flyvis/network/directories.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43d25702bcaee7871c696aa00636358d8a38a091",
+      "size": 1512,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/43d25702bcaee7871c696aa00636358d8a38a091"
+    },
+    {
+      "path": "flyvis/network/dynamics.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a41fbe54178a6a4f667c04b3b2bd0a252c812c3",
+      "size": 8291,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/7a41fbe54178a6a4f667c04b3b2bd0a252c812c3"
+    },
+    {
+      "path": "flyvis/network/ensemble.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b58f81370f7842da4bae10ad764633b25cd7d5ab",
+      "size": 34390,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/b58f81370f7842da4bae10ad764633b25cd7d5ab"
+    },
+    {
+      "path": "flyvis/network/ensemble_view.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16cf0e34386f56579ca7ec5d9969c5de89de0e46",
+      "size": 9632,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/16cf0e34386f56579ca7ec5d9969c5de89de0e46"
+    },
+    {
+      "path": "flyvis/network/initialization.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a20f7bf8c2a93cf2700df94fb9e23ce0c6fa2340",
+      "size": 21822,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/a20f7bf8c2a93cf2700df94fb9e23ce0c6fa2340"
+    },
+    {
+      "path": "flyvis/network/network.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db55efad88b7f67a44a36fde2f99f9637d1934a0",
+      "size": 32126,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/db55efad88b7f67a44a36fde2f99f9637d1934a0"
+    },
+    {
+      "path": "flyvis/network/network_view.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "01e7e1f22b658ef82a12751dd15d7b37dfd784c6",
+      "size": 18899,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/01e7e1f22b658ef82a12751dd15d7b37dfd784c6"
+    },
+    {
+      "path": "flyvis/network/stimulus.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ffc1efb871a690284fa029123f2dc5295a60a18",
+      "size": 8531,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/3ffc1efb871a690284fa029123f2dc5295a60a18"
+    },
+    {
+      "path": "flyvis/solver.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cccc40d43737beee38cb89eb713b1adab272e629",
+      "size": 44655,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/cccc40d43737beee38cb89eb713b1adab272e629"
+    },
+    {
+      "path": "flyvis/task",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "efccca89369f236a008c0f0612d5dcec2fd482bb",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/efccca89369f236a008c0f0612d5dcec2fd482bb"
+    },
+    {
+      "path": "flyvis/task/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48ce59d5b315c86c5179c628500f1cc39f9f7117",
+      "size": 70,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/48ce59d5b315c86c5179c628500f1cc39f9f7117"
+    },
+    {
+      "path": "flyvis/task/decoder.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb69d6954acae902c4b8a7fb5a9403883c857de6",
+      "size": 11352,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/cb69d6954acae902c4b8a7fb5a9403883c857de6"
+    },
+    {
+      "path": "flyvis/task/objectives.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e14897d70a3002c981abee876ee9c46f134d6f4",
+      "size": 1113,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/8e14897d70a3002c981abee876ee9c46f134d6f4"
+    },
+    {
+      "path": "flyvis/task/tasks.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83639cb2fc83ce85bd8c228747735eac013f34e3",
+      "size": 6897,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/83639cb2fc83ce85bd8c228747735eac013f34e3"
+    },
+    {
+      "path": "flyvis/utils",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "abbba749552ccbabe524987f91eac46eecdd2baf",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/abbba749552ccbabe524987f91eac46eecdd2baf"
+    },
+    {
+      "path": "flyvis/utils/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5dcd05580a2a1528ce1e4aab8669a7cc39aff934",
+      "size": 1829,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/5dcd05580a2a1528ce1e4aab8669a7cc39aff934"
+    },
+    {
+      "path": "flyvis/utils/activity_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f6d69e8454841a3387bda94672eaf13ace6a96bf",
+      "size": 11257,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f6d69e8454841a3387bda94672eaf13ace6a96bf"
+    },
+    {
+      "path": "flyvis/utils/cache_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5e5b2111ccc092835cc73af9c193aaac06717da",
+      "size": 3272,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/a5e5b2111ccc092835cc73af9c193aaac06717da"
+    },
+    {
+      "path": "flyvis/utils/chkpt_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1472e1cd411d1b2de84e7ab7500d8a7603bb8512",
+      "size": 7844,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/1472e1cd411d1b2de84e7ab7500d8a7603bb8512"
+    },
+    {
+      "path": "flyvis/utils/class_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "571a830c9d3c7ff01dbcb7119a33dbf6372e8c52",
+      "size": 2730,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/571a830c9d3c7ff01dbcb7119a33dbf6372e8c52"
+    },
+    {
+      "path": "flyvis/utils/color_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c1d8655064083305a93643c43f3b927f1fe017e0",
+      "size": 7483,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c1d8655064083305a93643c43f3b927f1fe017e0"
+    },
+    {
+      "path": "flyvis/utils/compute_cloud_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83ce34b4e4918f864242cc31d9ddd120fcc886c5",
+      "size": 15186,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/83ce34b4e4918f864242cc31d9ddd120fcc886c5"
+    },
+    {
+      "path": "flyvis/utils/config_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc4cec510177b742a3d2968abc27a67702f2fe39",
+      "size": 12785,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/bc4cec510177b742a3d2968abc27a67702f2fe39"
+    },
+    {
+      "path": "flyvis/utils/dataset_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e29e5704a5a14142a5c27fd477efe20e3e5b61d8",
+      "size": 7493,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e29e5704a5a14142a5c27fd477efe20e3e5b61d8"
+    },
+    {
+      "path": "flyvis/utils/df_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab7f5e81b013271e3735c375cea7c258fa4af26b",
+      "size": 2072,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/ab7f5e81b013271e3735c375cea7c258fa4af26b"
+    },
+    {
+      "path": "flyvis/utils/groundtruth_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "999012cea4bcf67a997d3ecd72bb5f11c7bb0b30",
+      "size": 10004,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/999012cea4bcf67a997d3ecd72bb5f11c7bb0b30"
+    },
+    {
+      "path": "flyvis/utils/hex_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "504db828a49efce193109e0466946a98e7406a1a",
+      "size": 26399,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/504db828a49efce193109e0466946a98e7406a1a"
+    },
+    {
+      "path": "flyvis/utils/log_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a9cf5b3ff4f1672d37ae518ccfb8d7e6c71e0c0",
+      "size": 12658,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/1a9cf5b3ff4f1672d37ae518ccfb8d7e6c71e0c0"
+    },
+    {
+      "path": "flyvis/utils/logging_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fe1a6f2f1c71262348757a26979a99c6023a0ca1",
+      "size": 1928,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/fe1a6f2f1c71262348757a26979a99c6023a0ca1"
+    },
+    {
+      "path": "flyvis/utils/nn_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15c7fe86bd52be0cc56c694e69dd947b8d588635",
+      "size": 2284,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/15c7fe86bd52be0cc56c694e69dd947b8d588635"
+    },
+    {
+      "path": "flyvis/utils/nodes_edges_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "50bb4311d1839155e7f323012d2c44b330a882e9",
+      "size": 13499,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/50bb4311d1839155e7f323012d2c44b330a882e9"
+    },
+    {
+      "path": "flyvis/utils/tensor_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af160532b8f43dadcc44cc709a1abd0a2f03a66f",
+      "size": 13802,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/af160532b8f43dadcc44cc709a1abd0a2f03a66f"
+    },
+    {
+      "path": "flyvis/utils/type_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b617be3ded61e7d41c0ca8c6e60a2c917bfc5b69",
+      "size": 1511,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/b617be3ded61e7d41c0ca8c6e60a2c917bfc5b69"
+    },
+    {
+      "path": "flyvis/utils/xarray_joblib_backend.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81a7419862e75f6cae3eeeab1a4fa0853a6b06ef",
+      "size": 4587,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/81a7419862e75f6cae3eeeab1a4fa0853a6b06ef"
+    },
+    {
+      "path": "flyvis/utils/xarray_utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c909f7f8f0ca0f700ef30a6b9d640329ef264dc",
+      "size": 11828,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/4c909f7f8f0ca0f700ef30a6b9d640329ef264dc"
+    },
+    {
+      "path": "flyvis_cli",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bc685d83ee82e7a0cac6854d5745465d86efd57a",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/bc685d83ee82e7a0cac6854d5745465d86efd57a"
+    },
+    {
+      "path": "flyvis_cli/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0237fb0569313a38573f072d065d4b7f128c62af",
+      "size": 38,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/0237fb0569313a38573f072d065d4b7f128c62af"
+    },
+    {
+      "path": "flyvis_cli/analysis",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "77111efa8664c8aa920c48443d436941ecf3843c",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/77111efa8664c8aa920c48443d436941ecf3843c"
+    },
+    {
+      "path": "flyvis_cli/analysis/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "flyvis_cli/analysis/analysis.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f28bd2feb7588ea7890e033ca06054c81f0d2cb9",
+      "size": 2805,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f28bd2feb7588ea7890e033ca06054c81f0d2cb9"
+    },
+    {
+      "path": "flyvis_cli/analysis/ensemble_analysis.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "acdcb39ab47c12e5d32055a00a2088f532aa8784",
+      "size": 3224,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/acdcb39ab47c12e5d32055a00a2088f532aa8784"
+    },
+    {
+      "path": "flyvis_cli/analysis/notebook.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7a21512d659ef8974308216f9640bada1c0322a",
+      "size": 5631,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/f7a21512d659ef8974308216f9640bada1c0322a"
+    },
+    {
+      "path": "flyvis_cli/analysis/notebook_per_ensemble.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4153e44806db4dcae838dc825c0873a8e4c5fd5",
+      "size": 2493,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/a4153e44806db4dcae838dc825c0873a8e4c5fd5"
+    },
+    {
+      "path": "flyvis_cli/analysis/notebook_per_model.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dac16b1a98a43789a70ed18e0c634857be7c7e4a",
+      "size": 3022,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/dac16b1a98a43789a70ed18e0c634857be7c7e4a"
+    },
+    {
+      "path": "flyvis_cli/analysis/record.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05e7f9a4de837aed445995ffe370eae552e14533",
+      "size": 2849,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/05e7f9a4de837aed445995ffe370eae552e14533"
+    },
+    {
+      "path": "flyvis_cli/analysis/responses_norm.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8b3383b62e46124428b4f3574c27765118eba0a",
+      "size": 3137,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e8b3383b62e46124428b4f3574c27765118eba0a"
+    },
+    {
+      "path": "flyvis_cli/analysis/synthetic_recordings_single.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1487f470ca2b9c1407c125b34ddcd75fca73b24e",
+      "size": 5317,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/1487f470ca2b9c1407c125b34ddcd75fca73b24e"
+    },
+    {
+      "path": "flyvis_cli/download_pretrained_models.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8fd62a6a573ec1a488b61c174b02eb0acee9dc4e",
+      "size": 4692,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/8fd62a6a573ec1a488b61c174b02eb0acee9dc4e"
+    },
+    {
+      "path": "flyvis_cli/flyvis_cli.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8dda4a7aaf1a3364f1896e0bf57060e16438b173",
+      "size": 4777,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/8dda4a7aaf1a3364f1896e0bf57060e16438b173"
+    },
+    {
+      "path": "flyvis_cli/init_config.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "387af91b7c3eb997576a4cc5ece403c2540b68ac",
+      "size": 4678,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/387af91b7c3eb997576a4cc5ece403c2540b68ac"
+    },
+    {
+      "path": "flyvis_cli/training",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "828aa70bb01b150d2a41ccb0fcf2d6d39e77e33b",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/828aa70bb01b150d2a41ccb0fcf2d6d39e77e33b"
+    },
+    {
+      "path": "flyvis_cli/training/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "flyvis_cli/training/train.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93fc14acdc9f2320d000cfaebc9ece50946b7be4",
+      "size": 3006,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/93fc14acdc9f2320d000cfaebc9ece50946b7be4"
+    },
+    {
+      "path": "flyvis_cli/training/train_single.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8461e9b8a368c7f1d6107f932bbdab5b14d5f0af",
+      "size": 3343,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/8461e9b8a368c7f1d6107f932bbdab5b14d5f0af"
+    },
+    {
+      "path": "flyvis_cli/validation",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0d48d0540ec02d0fe7203dc09a306cdbc9029402",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/0d48d0540ec02d0fe7203dc09a306cdbc9029402"
+    },
+    {
+      "path": "flyvis_cli/validation/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+    },
+    {
+      "path": "flyvis_cli/validation/val_single.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c970fdcbef1e4d7606a1f5fa2074ac5247b828ea",
+      "size": 1806,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/c970fdcbef1e4d7606a1f5fa2074ac5247b828ea"
+    },
+    {
+      "path": "flyvis_cli/validation/validate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eed9c710460a43471ab9ea7560a518140d2bb638",
+      "size": 2791,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/eed9c710460a43471ab9ea7560a518140d2bb638"
+    },
+    {
+      "path": "license",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "760e32010d9043cb1cf0162a16dde5dbfa7fab96",
+      "size": 1146,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/760e32010d9043cb1cf0162a16dde5dbfa7fab96"
+    },
+    {
+      "path": "pyproject.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6afb6d4254f24646fdc8e0cb974aaa72804f247c",
+      "size": 4492,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/6afb6d4254f24646fdc8e0cb974aaa72804f247c"
+    },
+    {
+      "path": "readme.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eeff576b81570f3b15c1b395a156315afb78d94a",
+      "size": 5026,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/eeff576b81570f3b15c1b395a156315afb78d94a"
+    },
+    {
+      "path": "tests",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ff5a61ba0e228664a278ccba268aee711cba7e87",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/ff5a61ba0e228664a278ccba268aee711cba7e87"
+    },
+    {
+      "path": "tests/conftest.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bff27aeff582491b85092628c157e51cb5c1e8cc",
+      "size": 3933,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/bff27aeff582491b85092628c157e51cb5c1e8cc"
+    },
+    {
+      "path": "tests/data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "95c7ec02f35e8c71ef826202d363b957cd2b0c4b",
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/trees/95c7ec02f35e8c71ef826202d363b957cd2b0c4b"
+    },
+    {
+      "path": "tests/data/_meta.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "091b8864e70fb988c3640811ac989d7cc131cb00",
+      "size": 167,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/091b8864e70fb988c3640811ac989d7cc131cb00"
+    },
+    {
+      "path": "tests/data/responses.h5",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be0a684800f92a27dc64a5d858b229bf2c94a6b5",
+      "size": 158048,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/be0a684800f92a27dc64a5d858b229bf2c94a6b5"
+    },
+    {
+      "path": "tests/test_augmentation.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "393dfe20794c9d9725ace48fea3fa1d7ae644623",
+      "size": 8109,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/393dfe20794c9d9725ace48fea3fa1d7ae644623"
+    },
+    {
+      "path": "tests/test_cli.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7115780a9b944bf66691dd1f34accbe7481df64",
+      "size": 4071,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e7115780a9b944bf66691dd1f34accbe7481df64"
+    },
+    {
+      "path": "tests/test_clustering.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "051b6d1bea060cf64aeef2f324a1d80706698893",
+      "size": 1486,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/051b6d1bea060cf64aeef2f324a1d80706698893"
+    },
+    {
+      "path": "tests/test_dynamics.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "354a08a4201c688981ad4fca75c5cae205932ba6",
+      "size": 1011,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/354a08a4201c688981ad4fca75c5cae205932ba6"
+    },
+    {
+      "path": "tests/test_ensemble.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "110f7b2d2cb9e677eaefe6331f013d13f8554184",
+      "size": 5931,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/110f7b2d2cb9e677eaefe6331f013d13f8554184"
+    },
+    {
+      "path": "tests/test_ensemble_view.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08c33868a391ff872039a7b82e94cf407724b215",
+      "size": 1864,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/08c33868a391ff872039a7b82e94cf407724b215"
+    },
+    {
+      "path": "tests/test_examples.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7dfb04fb8acfbcdecb025ca2d6aaabc2693cdcfe",
+      "size": 3761,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/7dfb04fb8acfbcdecb025ca2d6aaabc2693cdcfe"
+    },
+    {
+      "path": "tests/test_hybrid_argument_parser.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6c9d45c7d23da35d5cfdf92317c06756d8d6a932",
+      "size": 5576,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/6c9d45c7d23da35d5cfdf92317c06756d8d6a932"
+    },
+    {
+      "path": "tests/test_initialization.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d110bad4794a2b4a93d2af1108ce896c45212bc7",
+      "size": 4158,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d110bad4794a2b4a93d2af1108ce896c45212bc7"
+    },
+    {
+      "path": "tests/test_network.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c51c05f39c59eb7449aa919733c41af57fdb3b6",
+      "size": 7666,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/0c51c05f39c59eb7449aa919733c41af57fdb3b6"
+    },
+    {
+      "path": "tests/test_objectives.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fcf5a3db87527dccd42242c8a78bb61228593481",
+      "size": 315,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/fcf5a3db87527dccd42242c8a78bb61228593481"
+    },
+    {
+      "path": "tests/test_paths.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e041587d58f4bcc1595fef36ea391fadd8227301",
+      "size": 2179,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/e041587d58f4bcc1595fef36ea391fadd8227301"
+    },
+    {
+      "path": "tests/test_rendering.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c4e4e68f99f5a49dfca9e7722f2242c84ab93a1",
+      "size": 2027,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/2c4e4e68f99f5a49dfca9e7722f2242c84ab93a1"
+    },
+    {
+      "path": "tests/test_response_norms.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "907b6853c49c850679ea53ef44915d650aeda4e3",
+      "size": 6266,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/907b6853c49c850679ea53ef44915d650aeda4e3"
+    },
+    {
+      "path": "tests/test_sintel.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5009e3dbcebd2181cbac821aaff6518e45c8c8bf",
+      "size": 8939,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/5009e3dbcebd2181cbac821aaff6518e45c8c8bf"
+    },
+    {
+      "path": "tests/test_solver.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e0ad59f75a959595b14fdd62183d93a0b870a80",
+      "size": 1608,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/7e0ad59f75a959595b14fdd62183d93a0b870a80"
+    },
+    {
+      "path": "tests/test_stimulus.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb91bed72ba584d30c782aeb3d4cb0e1f5d3f08f",
+      "size": 4720,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/eb91bed72ba584d30c782aeb3d4cb0e1f5d3f08f"
+    },
+    {
+      "path": "tests/test_tasks.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1772f2fe9b60dd9cf79e48db18652dceac7378a",
+      "size": 1922,
+      "url": "https://api.github.com/repos/TuragaLab/flyvis/git/blobs/d1772f2fe9b60dd9cf79e48db18652dceac7378a"
+    }
+  ],
+  "truncated": false
+}

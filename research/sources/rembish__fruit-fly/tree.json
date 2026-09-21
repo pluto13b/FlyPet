@@ -1,0 +1,786 @@
+{
+  "sha": "5fd0166c2a6e121222c94a2e3653072b8024b1f3",
+  "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/5fd0166c2a6e121222c94a2e3653072b8024b1f3",
+  "tree": [
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "446649fa1c60c980ae6c94d002745c55b34e25da",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/446649fa1c60c980ae6c94d002745c55b34e25da"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fa4329377300d6d85308adeba3254414306d15e2",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/fa4329377300d6d85308adeba3254414306d15e2"
+    },
+    {
+      "path": ".github/workflows/checks.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6303c32f11933d7524ff543ad66cc531da140e71",
+      "size": 7584,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/6303c32f11933d7524ff543ad66cc531da140e71"
+    },
+    {
+      "path": ".github/workflows/deploy-web.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5de544e03d2de4a48095c6a998f75472a1372f9c",
+      "size": 6753,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/5de544e03d2de4a48095c6a998f75472a1372f9c"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4fa66b3d482c5a9a9d956c9cff4ee8ba43e1376d",
+      "size": 116,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/4fa66b3d482c5a9a9d956c9cff4ee8ba43e1376d"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ddb11a944adf4e67f956c3b34b555b758efa7d55",
+      "size": 1069,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/ddb11a944adf4e67f956c3b34b555b758efa7d55"
+    },
+    {
+      "path": "MANIFEST.in",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2791783ac641fd450f1ffefc8f54a84c7547ffdc",
+      "size": 254,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/2791783ac641fd450f1ffefc8f54a84c7547ffdc"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b69b1f506feb00e73cc1d6de55e4a5e00b16456",
+      "size": 20405,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/8b69b1f506feb00e73cc1d6de55e4a5e00b16456"
+    },
+    {
+      "path": "docs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4b661afa8649141b9d0ec10ab249337255d9e5ab",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/4b661afa8649141b9d0ec10ab249337255d9e5ab"
+    },
+    {
+      "path": "docs/demo.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b33fb50aa2b39c4689fb2d9b0de72d2ae6c84ea3",
+      "size": 1416334,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/b33fb50aa2b39c4689fb2d9b0de72d2ae6c84ea3"
+    },
+    {
+      "path": "docs/web-flappy.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8cdef1ef5349c554620503bffeb700bf6b1133f",
+      "size": 13366,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/e8cdef1ef5349c554620503bffeb700bf6b1133f"
+    },
+    {
+      "path": "docs/web-plan.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4832180e473623fe4bccd29172bd39212ed7973e",
+      "size": 45901,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/4832180e473623fe4bccd29172bd39212ed7973e"
+    },
+    {
+      "path": "fruitfly",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b37973b00c7c52c44b061ec0c0237b39a43ea4ac",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/b37973b00c7c52c44b061ec0c0237b39a43ea4ac"
+    },
+    {
+      "path": "fruitfly/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45ef0452ef07168d77c7d04872a2e701dd9f72da",
+      "size": 1277,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/45ef0452ef07168d77c7d04872a2e701dd9f72da"
+    },
+    {
+      "path": "fruitfly/__main__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd5b9c50b8311d74b3f91460dc0cbf2ead68cff6",
+      "size": 8630,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/fd5b9c50b8311d74b3f91460dc0cbf2ead68cff6"
+    },
+    {
+      "path": "fruitfly/app.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8add71d01b52eda80bf3c4bb77ae113f5b6bb1d",
+      "size": 4622,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/d8add71d01b52eda80bf3c4bb77ae113f5b6bb1d"
+    },
+    {
+      "path": "fruitfly/bench.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c928a69a540587146fcab674eba7ec6ff18f45f7",
+      "size": 9311,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/c928a69a540587146fcab674eba7ec6ff18f45f7"
+    },
+    {
+      "path": "fruitfly/brain.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5370187546f62427d60a211d148f77ffb1fd648e",
+      "size": 15568,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/5370187546f62427d60a211d148f77ffb1fd648e"
+    },
+    {
+      "path": "fruitfly/calibrate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd2d0db7754e9ca0b5d09202dc8c60f8901f8be4",
+      "size": 6113,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/bd2d0db7754e9ca0b5d09202dc8c60f8901f8be4"
+    },
+    {
+      "path": "fruitfly/core.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "016b3614c8113eab8158bd306ac2a17a2a4c9e94",
+      "size": 12412,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/016b3614c8113eab8158bd306ac2a17a2a4c9e94"
+    },
+    {
+      "path": "fruitfly/data.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6340dcf58ddf38761ce6e65cc5d87477c0f7e0ee",
+      "size": 14446,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/6340dcf58ddf38761ce6e65cc5d87477c0f7e0ee"
+    },
+    {
+      "path": "fruitfly/experiments.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9974836d9c96891e054883ab4ac0ebf217a7d02",
+      "size": 43980,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/a9974836d9c96891e054883ab4ac0ebf217a7d02"
+    },
+    {
+      "path": "fruitfly/export_web.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f967030ac141069414b5663b0c4671409968c5b0",
+      "size": 14682,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/f967030ac141069414b5663b0c4671409968c5b0"
+    },
+    {
+      "path": "fruitfly/motor.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97bece6e9b0e021f3962b274d2ca4984f3b930c6",
+      "size": 12454,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/97bece6e9b0e021f3962b274d2ca4984f3b930c6"
+    },
+    {
+      "path": "fruitfly/senses.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d6b75048431e3adfaf50fb932335b82459cdff0",
+      "size": 8353,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/2d6b75048431e3adfaf50fb932335b82459cdff0"
+    },
+    {
+      "path": "fruitfly/sprite.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c026ed3e2a8216bccd7e2e189bef842d82d463e",
+      "size": 5750,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/5c026ed3e2a8216bccd7e2e189bef842d82d463e"
+    },
+    {
+      "path": "fruitfly/ui",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9864468c338bde6ee3fba30eaa268653947d15db",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/9864468c338bde6ee3fba30eaa268653947d15db"
+    },
+    {
+      "path": "fruitfly/ui/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c4f0af11a0dc8d19f3249a64fb40718a82bb051",
+      "size": 2284,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/8c4f0af11a0dc8d19f3249a64fb40718a82bb051"
+    },
+    {
+      "path": "fruitfly/ui/base.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a5858a3f521f53b067cd210194693e14f85a596",
+      "size": 4500,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/1a5858a3f521f53b067cd210194693e14f85a596"
+    },
+    {
+      "path": "fruitfly/ui/cocoa.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "921b1aab38345d6a1d70462bfb8c23fb907837a8",
+      "size": 14139,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/921b1aab38345d6a1d70462bfb8c23fb907837a8"
+    },
+    {
+      "path": "fruitfly/ui/gtk.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dae3a8ce48a2e8567e1ecc97eb0819731b209580",
+      "size": 8473,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/dae3a8ce48a2e8567e1ecc97eb0819731b209580"
+    },
+    {
+      "path": "fruitfly/ui/win32.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e8effd69ee75e0a340eb492168882c9f004d167",
+      "size": 18516,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/3e8effd69ee75e0a340eb492168882c9f004d167"
+    },
+    {
+      "path": "pyproject.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93870e96853d8ca3b066965bb379bbcd35e0c0f5",
+      "size": 4215,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/93870e96853d8ca3b066965bb379bbcd35e0c0f5"
+    },
+    {
+      "path": "requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "966c6a367e7840ebb0881b4dffdc6ba9802e3b2f",
+      "size": 589,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/966c6a367e7840ebb0881b4dffdc6ba9802e3b2f"
+    },
+    {
+      "path": "tests",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "af980606fd3496256cb754b5c0b1017aa7bfb45c",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/af980606fd3496256cb754b5c0b1017aa7bfb45c"
+    },
+    {
+      "path": "tests/conftest.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d57154ee1abde1c87f9d6ef5592d0f606210b336",
+      "size": 2307,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/d57154ee1abde1c87f9d6ef5592d0f606210b336"
+    },
+    {
+      "path": "tests/test_backends.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e53b21396a55954959e254b4de9dcbd869a7b5e",
+      "size": 13083,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/5e53b21396a55954959e254b4de9dcbd869a7b5e"
+    },
+    {
+      "path": "tests/test_behavior.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "277264519a8daeb1c31bf4f3d56df8956692f4ea",
+      "size": 3636,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/277264519a8daeb1c31bf4f3d56df8956692f4ea"
+    },
+    {
+      "path": "tests/test_brain.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a904440e8967c5113ac3a668ced399eb9c2ba546",
+      "size": 5222,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/a904440e8967c5113ac3a668ced399eb9c2ba546"
+    },
+    {
+      "path": "tests/test_experiments.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fa14e62623a6ceeb563151d7b6c781986440548d",
+      "size": 20851,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/fa14e62623a6ceeb563151d7b6c781986440548d"
+    },
+    {
+      "path": "tests/test_export_web.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eaae1a8c39bdd668c15d441f98ab8ab09a25b38a",
+      "size": 5885,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/eaae1a8c39bdd668c15d441f98ab8ab09a25b38a"
+    },
+    {
+      "path": "tests/test_retina.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77f23cd0b93a37b7b7138164ed31b27722dfbf02",
+      "size": 4422,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/77f23cd0b93a37b7b7138164ed31b27722dfbf02"
+    },
+    {
+      "path": "tests/test_tuning.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e924a7d8062ce782f05628066a6247b5b52d25b6",
+      "size": 3957,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/e924a7d8062ce782f05628066a6247b5b52d25b6"
+    },
+    {
+      "path": "web",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a0b1251c76279d5e9b5e15192bd00dcbefc799f3",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/a0b1251c76279d5e9b5e15192bd00dcbefc799f3"
+    },
+    {
+      "path": "web/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ff49569cee8afe0cabb74109d6476bccd8920cd",
+      "size": 556,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/7ff49569cee8afe0cabb74109d6476bccd8920cd"
+    },
+    {
+      "path": "web/Dockerfile",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c1fde449fca54628b85b86788adf92795fe4be6c",
+      "size": 1560,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/c1fde449fca54628b85b86788adf92795fe4be6c"
+    },
+    {
+      "path": "web/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a6939511b6d31720b114d0790d350567f11ec5f",
+      "size": 3638,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/9a6939511b6d31720b114d0790d350567f11ec5f"
+    },
+    {
+      "path": "web/bench",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d0bd48abb06417b61e549192f3c401ddc4fc4eaa",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/d0bd48abb06417b61e549192f3c401ddc4fc4eaa"
+    },
+    {
+      "path": "web/bench/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7f55bccbb23fbd5d0efa9e839fe11053ddb7258",
+      "size": 3383,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/e7f55bccbb23fbd5d0efa9e839fe11053ddb7258"
+    },
+    {
+      "path": "web/fff",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "652e9907c3f42a4012e89d7de1ad211a9937524f",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/652e9907c3f42a4012e89d7de1ad211a9937524f"
+    },
+    {
+      "path": "web/fff/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e6aca174b3751bfc259f336b47805d571448124",
+      "size": 4311,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/7e6aca174b3751bfc259f336b47805d571448124"
+    },
+    {
+      "path": "web/harness",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e5b6c322ed2b52e16417ebe7102149931c8c4562",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/e5b6c322ed2b52e16417ebe7102149931c8c4562"
+    },
+    {
+      "path": "web/harness/fff-bench.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02b61b7214df69740fe035913fb4d7e7ed9562de",
+      "size": 19939,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/02b61b7214df69740fe035913fb4d7e7ed9562de"
+    },
+    {
+      "path": "web/harness/parity.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "576a7f0d8eb2cbf7a3ec0dd0b7f9a1df68217d49",
+      "size": 8093,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/576a7f0d8eb2cbf7a3ec0dd0b7f9a1df68217d49"
+    },
+    {
+      "path": "web/harness/sense-parity.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7bbcf146076a3d2a3787dd9cc93891abf106a08a",
+      "size": 5359,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/7bbcf146076a3d2a3787dd9cc93891abf106a08a"
+    },
+    {
+      "path": "web/harness/smoke.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9ce06ffdbcdbe18129d4f59c631e7dc7f30fe7d",
+      "size": 6234,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/a9ce06ffdbcdbe18129d4f59c631e7dc7f30fe7d"
+    },
+    {
+      "path": "web/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "23dc1b5a05d89fcb001d3fd8626817237bb54c39",
+      "size": 5220,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/23dc1b5a05d89fcb001d3fd8626817237bb54c39"
+    },
+    {
+      "path": "web/nginx.conf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5cd9020587bb00fbf88f96c9b16e2b6b831d914d",
+      "size": 2887,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/5cd9020587bb00fbf88f96c9b16e2b6b831d914d"
+    },
+    {
+      "path": "web/package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a35f81ec11b8c4d4d93e3c934d75e2b69b941ca3",
+      "size": 79384,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/a35f81ec11b8c4d4d93e3c934d75e2b69b941ca3"
+    },
+    {
+      "path": "web/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f4cb38a3ccddc1eb3a7c6068799e23e02b35969",
+      "size": 744,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/4f4cb38a3ccddc1eb3a7c6068799e23e02b35969"
+    },
+    {
+      "path": "web/public",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d9c8a22ef741f31519d0c1e49229f5107d127a8d",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/d9c8a22ef741f31519d0c1e49229f5107d127a8d"
+    },
+    {
+      "path": "web/public/brain",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5968e24449c1d10dba7b30af31f1187e456d1c05",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/5968e24449c1d10dba7b30af31f1187e456d1c05"
+    },
+    {
+      "path": "web/public/brain/bench.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68917c5b098d0501b1e3f8aa7f99c4c14bb9be02",
+      "size": 1070,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/68917c5b098d0501b1e3f8aa7f99c4c14bb9be02"
+    },
+    {
+      "path": "web/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "064c2b30da48345e2a64ad5f6033519bcb8e87dc",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/064c2b30da48345e2a64ad5f6033519bcb8e87dc"
+    },
+    {
+      "path": "web/src/brain",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e4ae38b45d721f0d247eff7ed0a2d7d2b7738df6",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/e4ae38b45d721f0d247eff7ed0a2d7d2b7738df6"
+    },
+    {
+      "path": "web/src/brain/brain.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "138bb4352143070dcc3984fdae1948f19fbf21d7",
+      "size": 14784,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/138bb4352143070dcc3984fdae1948f19fbf21d7"
+    },
+    {
+      "path": "web/src/brain/loader.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bdf29759461805bc538766081e02db3219a30fe5",
+      "size": 3523,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/bdf29759461805bc538766081e02db3219a30fe5"
+    },
+    {
+      "path": "web/src/brain/params.test.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "967b24c35e87b9944ab3336c7fe3e566a5f6d498",
+      "size": 2658,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/967b24c35e87b9944ab3336c7fe3e566a5f6d498"
+    },
+    {
+      "path": "web/src/brain/params.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61f53831270cf3ecced7dac5837a689d9521a5b0",
+      "size": 2705,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/61f53831270cf3ecced7dac5837a689d9521a5b0"
+    },
+    {
+      "path": "web/src/brain/rng.test.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0fcac3b198d4e7c0d49a7332a3d07d1362a4847f",
+      "size": 3580,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/0fcac3b198d4e7c0d49a7332a3d07d1362a4847f"
+    },
+    {
+      "path": "web/src/brain/rng.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a254536582119c7bf3d9c36e55b7af2f51101da2",
+      "size": 3666,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/a254536582119c7bf3d9c36e55b7af2f51101da2"
+    },
+    {
+      "path": "web/src/games",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c5570f52b6cf9b7e5093a7043c03c0e8d41c19fd",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/c5570f52b6cf9b7e5093a7043c03c0e8d41c19fd"
+    },
+    {
+      "path": "web/src/games/api.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8007ddc9f6c05bfe301ab32e61be65f00c7b9e40",
+      "size": 3172,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/8007ddc9f6c05bfe301ab32e61be65f00c7b9e40"
+    },
+    {
+      "path": "web/src/games/fff",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "340346d203c51b8198b2fd70256b18b161d3593f",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/340346d203c51b8198b2fd70256b18b161d3593f"
+    },
+    {
+      "path": "web/src/games/fff/fff.test.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dcaba56b467bce09ad1fa1f67c12959ac1a400ac",
+      "size": 10979,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/dcaba56b467bce09ad1fa1f67c12959ac1a400ac"
+    },
+    {
+      "path": "web/src/games/fff/fff.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e77beb9fddecc53b12f8cedb32e57e7eb8069ac",
+      "size": 17533,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/6e77beb9fddecc53b12f8cedb32e57e7eb8069ac"
+    },
+    {
+      "path": "web/src/games/fff/pipes.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3c95818c863563d24eec954338f4cff47f88049",
+      "size": 5276,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/f3c95818c863563d24eec954338f4cff47f88049"
+    },
+    {
+      "path": "web/src/motor",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ce33f59db8fefb7021b6263cf5f9a1494bab85c1",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/ce33f59db8fefb7021b6263cf5f9a1494bab85c1"
+    },
+    {
+      "path": "web/src/motor/motor.test.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "206aea16e611782ffb30bab1fb3e24aa9f4cbf69",
+      "size": 7453,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/206aea16e611782ffb30bab1fb3e24aa9f4cbf69"
+    },
+    {
+      "path": "web/src/motor/motor.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49173f91b4fd1a02a8eb7293f727700b7e5fdc45",
+      "size": 13103,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/49173f91b4fd1a02a8eb7293f727700b7e5fdc45"
+    },
+    {
+      "path": "web/src/motor/pads.test.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2447998bcfdf4ee31ed04915324967e4bc68768c",
+      "size": 3619,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/2447998bcfdf4ee31ed04915324967e4bc68768c"
+    },
+    {
+      "path": "web/src/motor/pads.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "229b28016103cad5c1f8ca45f28b2e956ab0afef",
+      "size": 5600,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/229b28016103cad5c1f8ca45f28b2e956ab0afef"
+    },
+    {
+      "path": "web/src/pages",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "dc5a152bf0824b88c17c5af23c64a46ee9378c26",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/dc5a152bf0824b88c17c5af23c64a46ee9378c26"
+    },
+    {
+      "path": "web/src/pages/bench-line.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de4c8916377c9303a94bc8d0a58618ca9594a6a7",
+      "size": 2144,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/de4c8916377c9303a94bc8d0a58618ca9594a6a7"
+    },
+    {
+      "path": "web/src/pages/bench.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5916ee7eedbf904b8bddcb880f0dfb95fdb93e52",
+      "size": 5717,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/5916ee7eedbf904b8bddcb880f0dfb95fdb93e52"
+    },
+    {
+      "path": "web/src/pages/fff.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "742674692ebc3b03e3a4e2409f0fbedeb5fea2c5",
+      "size": 7410,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/742674692ebc3b03e3a4e2409f0fbedeb5fea2c5"
+    },
+    {
+      "path": "web/src/pages/hub.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af3028ca569aea522c9101570c5588b022f09892",
+      "size": 130,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/af3028ca569aea522c9101570c5588b022f09892"
+    },
+    {
+      "path": "web/src/runtime",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c564df12f9a234310730f8b934960ee57bcc0ac2",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/c564df12f9a234310730f8b934960ee57bcc0ac2"
+    },
+    {
+      "path": "web/src/runtime/controller.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb9ed9dd548e74bc5158da899c6cb97dc01593a3",
+      "size": 11668,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/bb9ed9dd548e74bc5158da899c6cb97dc01593a3"
+    },
+    {
+      "path": "web/src/runtime/protocol.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d5b3fcb4f0f0e80d4bb1407103779f7b16c430c",
+      "size": 3002,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/6d5b3fcb4f0f0e80d4bb1407103779f7b16c430c"
+    },
+    {
+      "path": "web/src/runtime/simclock.test.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80570570a8ccae20497f148168c10ff6356b6f31",
+      "size": 2718,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/80570570a8ccae20497f148168c10ff6356b6f31"
+    },
+    {
+      "path": "web/src/runtime/simclock.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "611c1014c9de02806ab0f7e3da46c0b8ac32a4c4",
+      "size": 3216,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/611c1014c9de02806ab0f7e3da46c0b8ac32a4c4"
+    },
+    {
+      "path": "web/src/runtime/worker.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c5c372f9e61dc603660723aa559d63a7e300104",
+      "size": 7490,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/1c5c372f9e61dc603660723aa559d63a7e300104"
+    },
+    {
+      "path": "web/src/senses",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f03e3414d874fdb46e779214f66fd0fbe3c328e5",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/f03e3414d874fdb46e779214f66fd0fbe3c328e5"
+    },
+    {
+      "path": "web/src/senses/retina.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19b6c45464befdbb1af1b9c8010d607e7963fe41",
+      "size": 6641,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/19b6c45464befdbb1af1b9c8010d607e7963fe41"
+    },
+    {
+      "path": "web/src/senses/senses.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b002f1a744d8228ad39f3eb1082ba890761bf90",
+      "size": 5901,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/3b002f1a744d8228ad39f3eb1082ba890761bf90"
+    },
+    {
+      "path": "web/src/ui",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "87b90813d24cb8d285feedf04c1a498adadf455c",
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/trees/87b90813d24cb8d285feedf04c1a498adadf455c"
+    },
+    {
+      "path": "web/src/ui/sprite.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48819b98d6c8561e2fd89c70535aa449c7cb4a9e",
+      "size": 3332,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/48819b98d6c8561e2fd89c70535aa449c7cb4a9e"
+    },
+    {
+      "path": "web/tsconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3598aa8d14e997ed0cd136c77fd029fb16030c82",
+      "size": 542,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/3598aa8d14e997ed0cd136c77fd029fb16030c82"
+    },
+    {
+      "path": "web/vite.config.ts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec9b58549245adc1b6e0cfad72f50c1c66cfad32",
+      "size": 1642,
+      "url": "https://api.github.com/repos/rembish/fruit-fly/git/blobs/ec9b58549245adc1b6e0cfad72f50c1c66cfad32"
+    }
+  ],
+  "truncated": false
+}

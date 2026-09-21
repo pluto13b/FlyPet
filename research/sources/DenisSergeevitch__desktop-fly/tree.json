@@ -1,0 +1,456 @@
+{
+  "sha": "32b00011e83c3dc85fa3ea0b3934155b04f1635d",
+  "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/trees/32b00011e83c3dc85fa3ea0b3934155b04f1635d",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb2b080a662723dca3f43c30c6e02b8996805184",
+      "size": 44,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/cb2b080a662723dca3f43c30c6e02b8996805184"
+    },
+    {
+      "path": "BeetleModel.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e817c2eb47b194bb7e6aae5675e5e878619ed93b",
+      "size": 11132,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/e817c2eb47b194bb7e6aae5675e5e878619ed93b"
+    },
+    {
+      "path": "BrainView.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45418ba3f1d0dc4101f495b0739766deef16d999",
+      "size": 23563,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/45418ba3f1d0dc4101f495b0739766deef16d999"
+    },
+    {
+      "path": "CLAUDE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5cbeb8c139c1347ba53d0a9473b42244da166fed",
+      "size": 13809,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/5cbeb8c139c1347ba53d0a9473b42244da166fed"
+    },
+    {
+      "path": "EVALUATION.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "473bc890d7ec59023e78a10f53d99d4eea1ec780",
+      "size": 11589,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/473bc890d7ec59023e78a10f53d99d4eea1ec780"
+    },
+    {
+      "path": "Environment.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b129ea99a730831f0ecbc45b140dfb2312442e43",
+      "size": 4376,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/b129ea99a730831f0ecbc45b140dfb2312442e43"
+    },
+    {
+      "path": "FlyModel.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8577ea2bcb5029d7363f3a18e1aa591eabd9f01f",
+      "size": 42223,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/8577ea2bcb5029d7363f3a18e1aa591eabd9f01f"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "53116758404d0d90ef363616342d00613e62479f",
+      "size": 1277,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/53116758404d0d90ef363616342d00613e62479f"
+    },
+    {
+      "path": "LegDynamics.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8843361d9ce0ad4c5b1f4e99861b887eab478fb6",
+      "size": 11840,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/8843361d9ce0ad4c5b1f4e99861b887eab478fb6"
+    },
+    {
+      "path": "Locomotor.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "119daccc2c36566c95fccd6b07a4f8af1c85afb6",
+      "size": 9781,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/119daccc2c36566c95fccd6b07a4f8af1c85afb6"
+    },
+    {
+      "path": "LocomotorTests.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cf939e481a94d67fad5053298615a44089fdc1b",
+      "size": 17795,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/3cf939e481a94d67fad5053298615a44089fdc1b"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d9410b34a125258a5d57091d4095312033b66ac",
+      "size": 13111,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/7d9410b34a125258a5d57091d4095312033b66ac"
+    },
+    {
+      "path": "Sim.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f586e6e058ba5404293341160c8bd28adf3a13ee",
+      "size": 19704,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/f586e6e058ba5404293341160c8bd28adf3a13ee"
+    },
+    {
+      "path": "assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f8ec7c99dc7f13eb53f01feee5325e4a0ddb67fa",
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/trees/f8ec7c99dc7f13eb53f01feee5325e4a0ddb67fa"
+    },
+    {
+      "path": "assets/beetle.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c89f3e00a50b5193264a51bad1db36ba1a62b87d",
+      "size": 50145,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/c89f3e00a50b5193264a51bad1db36ba1a62b87d"
+    },
+    {
+      "path": "assets/brain.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4ff54128196e70821c24439359721a2ed7ea8dd",
+      "size": 147351,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/f4ff54128196e70821c24439359721a2ed7ea8dd"
+    },
+    {
+      "path": "assets/fly.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5cdde6a3c915bcd5e550fce7d832bb8700b8fc10",
+      "size": 76095,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/5cdde6a3c915bcd5e550fce7d832bb8700b8fc10"
+    },
+    {
+      "path": "build.sh",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "07891f951e8c37975289b3a5a57d1f509ae70154",
+      "size": 372,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/07891f951e8c37975289b3a5a57d1f509ae70154"
+    },
+    {
+      "path": "data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a6bec1e84251770f530803dbacd02edd7b36afae",
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/trees/a6bec1e84251770f530803dbacd02edd7b36afae"
+    },
+    {
+      "path": "data/DATA_LICENSE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c0df9a4384e2ab6eab27af50adeb61e4c04a5ecd",
+      "size": 1563,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/c0df9a4384e2ab6eab27af50adeb61e4c04a5ecd"
+    },
+    {
+      "path": "data/LOCOMOTOR_PROVENANCE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fe4362a9e9e708f227e88a40dbb5fbb26f13036",
+      "size": 5475,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/7fe4362a9e9e708f227e88a40dbb5fbb26f13036"
+    },
+    {
+      "path": "data/brain_points.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "601a18b08793f760835888bf2aa031b4c4a0c817",
+      "size": 636590,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/601a18b08793f760835888bf2aa031b4c4a0c817"
+    },
+    {
+      "path": "data/circuit.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10a7d0726571881e77e93e33bd7a23d900025e49",
+      "size": 408374,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/10a7d0726571881e77e93e33bd7a23d900025e49"
+    },
+    {
+      "path": "data/locomotor_circuit.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b48900d2bac49bf2b58820f29e3491fd3dd4691",
+      "size": 1076374,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/2b48900d2bac49bf2b58820f29e3491fd3dd4691"
+    },
+    {
+      "path": "data/locomotor_report.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ee8cb1d099e38f727a8f87387d70919f4d70973",
+      "size": 24146,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/4ee8cb1d099e38f727a8f87387d70919f4d70973"
+    },
+    {
+      "path": "etl.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c579b9312a10c7e5dc70b14c4513d0b1998b5f4",
+      "size": 8277,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/8c579b9312a10c7e5dc70b14c4513d0b1998b5f4"
+    },
+    {
+      "path": "etl_malecns.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b5be96576ee8ffbb13fc77fe71986c080f60c786",
+      "size": 22871,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/b5be96576ee8ffbb13fc77fe71986c080f60c786"
+    },
+    {
+      "path": "main.swift",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f643fbce0957be0253ae9b9212b48593d1b7004",
+      "size": 52135,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/1f643fbce0957be0253ae9b9212b48593d1b7004"
+    },
+    {
+      "path": "windows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "13e28686c62f765b417a183761b5fe70b44a860d",
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/trees/13e28686c62f765b417a183761b5fe70b44a860d"
+    },
+    {
+      "path": "windows/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "429e4b2499602423a93e5496de06a26b7aa079ea",
+      "size": 36,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/429e4b2499602423a93e5496de06a26b7aa079ea"
+    },
+    {
+      "path": "windows/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb4195611a8eee17ac7973fe20f9770d38b7c1a5",
+      "size": 5989,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/eb4195611a8eee17ac7973fe20f9770d38b7c1a5"
+    },
+    {
+      "path": "windows/assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "69b30074c7da51c72e8533df2bb7a23cf1a9da3b",
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/trees/69b30074c7da51c72e8533df2bb7a23cf1a9da3b"
+    },
+    {
+      "path": "windows/assets/tray.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25a36a240b092babd3dc20c3b2bc49bc85b34d53",
+      "size": 485,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/25a36a240b092babd3dc20c3b2bc49bc85b34d53"
+    },
+    {
+      "path": "windows/main.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3d452b3651441703c4c12adcf7edb0c960f4ab9",
+      "size": 13500,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/d3d452b3651441703c4c12adcf7edb0c960f4ab9"
+    },
+    {
+      "path": "windows/package-lock.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba45116c50c156d1e36659ec5d75846ffc3f16c8",
+      "size": 31535,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/ba45116c50c156d1e36659ec5d75846ffc3f16c8"
+    },
+    {
+      "path": "windows/package.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c8ee675310834cb70a19df96a6a8b8ee891fb6d5",
+      "size": 628,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/c8ee675310834cb70a19df96a6a8b8ee891fb6d5"
+    },
+    {
+      "path": "windows/preload.mjs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "04a79b7e31deb59e418fa0f75539bfa28ce3d724",
+      "size": 757,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/04a79b7e31deb59e418fa0f75539bfa28ce3d724"
+    },
+    {
+      "path": "windows/renderer",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "dcb51952902ed41995dcea33281a229717c7951b",
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/trees/dcb51952902ed41995dcea33281a229717c7951b"
+    },
+    {
+      "path": "windows/renderer/brain.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e6f107c9d88bc9f38cb349eca2b3b2c1a30c1a7",
+      "size": 854,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/9e6f107c9d88bc9f38cb349eca2b3b2c1a30c1a7"
+    },
+    {
+      "path": "windows/renderer/brain.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aebe469719825c10d76449305cadc5f8ca94b0dd",
+      "size": 12592,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/aebe469719825c10d76449305cadc5f8ca94b0dd"
+    },
+    {
+      "path": "windows/renderer/overlay.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "276545085bf50d988139f50fd86b20c62a823b87",
+      "size": 440,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/276545085bf50d988139f50fd86b20c62a823b87"
+    },
+    {
+      "path": "windows/renderer/overlay.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "decedd6b9005bd02e81468202784214a4146946c",
+      "size": 13534,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/decedd6b9005bd02e81468202784214a4146946c"
+    },
+    {
+      "path": "windows/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "edeebafb6883c345ee8f425c8f1f3e4718f39a0c",
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/trees/edeebafb6883c345ee8f425c8f1f3e4718f39a0c"
+    },
+    {
+      "path": "windows/src/data.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68b0a4e3526785c4b77d7b02caa44f81677cce81",
+      "size": 1671,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/68b0a4e3526785c4b77d7b02caa44f81677cce81"
+    },
+    {
+      "path": "windows/src/environment.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b36ff65a186119fcb6d5490bd958821388d4b733",
+      "size": 2216,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/b36ff65a186119fcb6d5490bd958821388d4b733"
+    },
+    {
+      "path": "windows/src/flymodel.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99656392807a7657ef808bbd6cee7d4c0ef3377c",
+      "size": 37442,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/99656392807a7657ef808bbd6cee7d4c0ef3377c"
+    },
+    {
+      "path": "windows/src/legdynamics.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed5e615109849f58662cacc103cd7cd826f048da",
+      "size": 7683,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/ed5e615109849f58662cacc103cd7cd826f048da"
+    },
+    {
+      "path": "windows/src/locomotor.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0a5723d3510fc719333ae97c2c2080d175071ba",
+      "size": 7059,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/e0a5723d3510fc719333ae97c2c2080d175071ba"
+    },
+    {
+      "path": "windows/src/signals.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb1a3a63392b4a813fd70a7b79b1b109e798d743",
+      "size": 1198,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/fb1a3a63392b4a813fd70a7b79b1b109e798d743"
+    },
+    {
+      "path": "windows/src/sim.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d14576cd3e444a83f8dcf0c866c8fa2f89dba34",
+      "size": 15239,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/3d14576cd3e444a83f8dcf0c866c8fa2f89dba34"
+    },
+    {
+      "path": "windows/src/util.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7bfd56b16160fdc81b1169b78f30b906e2f4e0e",
+      "size": 1749,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/e7bfd56b16160fdc81b1169b78f30b906e2f4e0e"
+    },
+    {
+      "path": "windows/src/win32.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71719a099fdc0ded101f7ad830e9a1656e5560f8",
+      "size": 5401,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/71719a099fdc0ded101f7ad830e9a1656e5560f8"
+    },
+    {
+      "path": "windows/test",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5bb2c8882e70a3c4534bcf0e94a5fdf1e547190d",
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/trees/5bb2c8882e70a3c4534bcf0e94a5fdf1e547190d"
+    },
+    {
+      "path": "windows/test/behaviortest.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be3a3ed419087ee5cf6f00ca9cb87ae86b39f425",
+      "size": 11287,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/be3a3ed419087ee5cf6f00ca9cb87ae86b39f425"
+    },
+    {
+      "path": "windows/test/locomotortest.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d74b64a0075e1e074a85df8cc675f36cc32fae4",
+      "size": 17855,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/5d74b64a0075e1e074a85df8cc675f36cc32fae4"
+    },
+    {
+      "path": "windows/test/random.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3862fc4ee2880ab7ca2c88a7bdc1c982313cb210",
+      "size": 460,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/3862fc4ee2880ab7ca2c88a7bdc1c982313cb210"
+    },
+    {
+      "path": "windows/test/simtest.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1328b2026b2f474f4e3e59f9af467c22c273c519",
+      "size": 4252,
+      "url": "https://api.github.com/repos/DenisSergeevitch/desktop-fly/git/blobs/1328b2026b2f474f4e3e59f9af467c22c273c519"
+    }
+  ],
+  "truncated": false
+}

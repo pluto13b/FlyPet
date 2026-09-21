@@ -1,0 +1,28 @@
+{
+  "count": 139255,
+  "source": "FlyWire Codex FAFB v783 coordinates.csv + classification.csv",
+  "coordinate_kind": "first supplied representative position per root ID; not neurite/synapse morphology",
+  "classes_source": "data/whole-brain/raw/classification.csv.gz",
+  "probe_count": 668,
+  "mapped_probes": 668,
+  "max_probe_coordinate_error": 0.0004996926859250905,
+  "upstream_transform": "DenisSergeevitch/desktop-fly etl.py @ 32b00011e83c3dc85fa3ea0b3934155b04f1635d",
+  "center_nm": [
+    494374.0,
+    247124.0,
+    139880.0
+  ],
+  "scale": 2.4585125998770742e-05,
+  "bounds": [
+    [
+      -10.0,
+      -4.812882606023356,
+      -3.4232329440688383
+    ],
+    [
+      10.0,
+      4.812882606023356,
+      3.4232329440688383
+    ]
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "sha": "e1ae3fb6ccae986820f7a0468e5b254c1307f983",
+  "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/trees/e1ae3fb6ccae986820f7a0468e5b254c1307f983",
+  "tree": [
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b4c4b27507b4d3f7011aeec5288bed9969459431",
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/trees/b4c4b27507b4d3f7011aeec5288bed9969459431"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "414e30f9a256ad0b1afe2c390506d0e621316ecc",
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/trees/414e30f9a256ad0b1afe2c390506d0e621316ecc"
+    },
+    {
+      "path": ".github/workflows/ci.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4dadce6462586ef888eafcaa1aefee5f929a0e8",
+      "size": 7161,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/c4dadce6462586ef888eafcaa1aefee5f929a0e8"
+    },
+    {
+      "path": ".github/workflows/data.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "960907f945fb7a93f339ad7e7394a3cad758bd1b",
+      "size": 890,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/960907f945fb7a93f339ad7e7394a3cad758bd1b"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35a9c3fd92f37d3343c5a22d5d643f4d8df32bca",
+      "size": 55,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/35a9c3fd92f37d3343c5a22d5d643f4d8df32bca"
+    },
+    {
+      "path": "LICENSE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "360b422f36c6abd63ee22911086d4da8fc3be40f",
+      "size": 1058,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/360b422f36c6abd63ee22911086d4da8fc3be40f"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "06770b4ff5aabd96dcd72e0ddd5683d944f96a68",
+      "size": 2584,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/06770b4ff5aabd96dcd72e0ddd5683d944f96a68"
+    },
+    {
+      "path": "body.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d49562354e75c648cea70d99051b1ef4cee07e25",
+      "size": 1940,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/d49562354e75c648cea70d99051b1ef4cee07e25"
+    },
+    {
+      "path": "brain.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02c843e16d7fcf7a113acc2687e001d0fc734efd",
+      "size": 2989,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/02c843e16d7fcf7a113acc2687e001d0fc734efd"
+    },
+    {
+      "path": "brain_test.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8571f148f3209dc0916b30a136d6a6ffc22fb019",
+      "size": 962,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/8571f148f3209dc0916b30a136d6a6ffc22fb019"
+    },
+    {
+      "path": "fly.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9fdc9d5380d866fb3a0c51cee325faf842b38dc7",
+      "size": 4872,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/9fdc9d5380d866fb3a0c51cee325faf842b38dc7"
+    },
+    {
+      "path": "fly_test.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83c30dc120f5a4fde3b830dd2134a33277be25f0",
+      "size": 732,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/83c30dc120f5a4fde3b830dd2134a33277be25f0"
+    },
+    {
+      "path": "go.mod",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0092dfcbe5e24de8af608d42e288be05f7e98671",
+      "size": 198,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/0092dfcbe5e24de8af608d42e288be05f7e98671"
+    },
+    {
+      "path": "go.sum",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2088b43c5b2480915fa1f116899c13ac82a688ba",
+      "size": 615,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/2088b43c5b2480915fa1f116899c13ac82a688ba"
+    },
+    {
+      "path": "loader.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef9d1cb45bf52375ea73b242eb47c96bebdb71c8",
+      "size": 8331,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/ef9d1cb45bf52375ea73b242eb47c96bebdb71c8"
+    },
+    {
+      "path": "loader_skeletons.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "142f2fbbb0c580cb1abcd9cbd9956a940c7868b4",
+      "size": 4777,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/142f2fbbb0c580cb1abcd9cbd9956a940c7868b4"
+    },
+    {
+      "path": "loader_skeletons_test.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f14f24a3026bdff83d0f91b0caf08130f7817518",
+      "size": 691,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/f14f24a3026bdff83d0f91b0caf08130f7817518"
+    },
+    {
+      "path": "loader_test.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c0d4fda53664e306e9aa7237b000f605f95c476d",
+      "size": 734,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/c0d4fda53664e306e9aa7237b000f605f95c476d"
+    },
+    {
+      "path": "main.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c0348e6f9c0ff641169cb064d4443a24d7438ce",
+      "size": 5127,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/8c0348e6f9c0ff641169cb064d4443a24d7438ce"
+    },
+    {
+      "path": "main_test.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b29715da682c2f8883220f2b9e21c00d7c22bc4f",
+      "size": 144,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/b29715da682c2f8883220f2b9e21c00d7c22bc4f"
+    },
+    {
+      "path": "neuron.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76e417f7b3013615868295d54374678eb1fbb73c",
+      "size": 219,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/76e417f7b3013615868295d54374678eb1fbb73c"
+    },
+    {
+      "path": "neuron_test.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7bc67f590c961e332a905a0b56c21fe495b9f351",
+      "size": 244,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/7bc67f590c961e332a905a0b56c21fe495b9f351"
+    },
+    {
+      "path": "plot.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68d64aa43dce9aa94e46bee803c253c0d4329341",
+      "size": 631,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/68d64aa43dce9aa94e46bee803c253c0d4329341"
+    },
+    {
+      "path": "plot_gl.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b95674a4b0541e5d5aa890705af51d34e9d695ec",
+      "size": 8689,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/b95674a4b0541e5d5aa890705af51d34e9d695ec"
+    },
+    {
+      "path": "plot_gl_test.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd98129eaba4fc076f61070ac6e458d3ae21c922",
+      "size": 357,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/fd98129eaba4fc076f61070ac6e458d3ae21c922"
+    },
+    {
+      "path": "plot_test.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6fb422df951fc252fcf37afdd3de5b0548722cdf",
+      "size": 212,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/6fb422df951fc252fcf37afdd3de5b0548722cdf"
+    },
+    {
+      "path": "scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2e8dfb061f48b58a1e2845af9f460d359f5eb943",
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/trees/2e8dfb061f48b58a1e2845af9f460d359f5eb943"
+    },
+    {
+      "path": "scripts/get_neurons.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb0ce61256fe900b48f131396a4df4e945a98c33",
+      "size": 4200,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/cb0ce61256fe900b48f131396a4df4e945a98c33"
+    },
+    {
+      "path": "scripts/get_neurons_hirarchy.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d8841fd816e8a14e607bc095200fe996c4bc086",
+      "size": 10266,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/3d8841fd816e8a14e607bc095200fe996c4bc086"
+    },
+    {
+      "path": "scripts/requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "395b72fb19c05e39532f3f1b9895c52751bcf5a0",
+      "size": 48,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/395b72fb19c05e39532f3f1b9895c52751bcf5a0"
+    },
+    {
+      "path": "settings.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "abc3048ba5be9e68273b27d2bcb1e9cfd313ef27",
+      "size": 858,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/abc3048ba5be9e68273b27d2bcb1e9cfd313ef27"
+    },
+    {
+      "path": "settings_test.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dba8e50f80c56c71c771456549e49cc3a4905d2d",
+      "size": 352,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/dba8e50f80c56c71c771456549e49cc3a4905d2d"
+    },
+    {
+      "path": "window.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d06b4dd582f8cfb998f6d9d59c5c3f188a57ee2",
+      "size": 7224,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/2d06b4dd582f8cfb998f6d9d59c5c3f188a57ee2"
+    },
+    {
+      "path": "window_test.go",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d85c3d009429ab25ef515e34851ee5080fd3e8d",
+      "size": 385,
+      "url": "https://api.github.com/repos/freaker2k7/desktop-fly/git/blobs/6d85c3d009429ab25ef515e34851ee5080fd3e8d"
+    }
+  ],
+  "truncated": false
+}

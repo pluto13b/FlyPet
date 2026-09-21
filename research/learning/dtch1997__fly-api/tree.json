@@ -1,0 +1,691 @@
+{
+  "sha": "a6ad07a810b1a43cd0356149c07b32105eb46d2a",
+  "url": "https://api.github.com/repos/dtch1997/fly-api/git/trees/a6ad07a810b1a43cd0356149c07b32105eb46d2a",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1e7a7d69a517cf8cbee6f3b933f8fd423aa8e58",
+      "size": 39,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/e1e7a7d69a517cf8cbee6f3b933f8fd423aa8e58"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf3e299dc479f89828ccbfff1e9b33bd9ac0674f",
+      "size": 1067,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/cf3e299dc479f89828ccbfff1e9b33bd9ac0674f"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99d1ba4ec3f8fb06b17160d57557aaf7773adef1",
+      "size": 7668,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/99d1ba4ec3f8fb06b17160d57557aaf7773adef1"
+    },
+    {
+      "path": "demo",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c2ee04aae551d6d0a0933816855990d87c876419",
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/trees/c2ee04aae551d6d0a0933816855990d87c876419"
+    },
+    {
+      "path": "demo/figures_a.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "afa2d5d3e0e9d9643cae35d7bd2a6f525d38aaf1",
+      "size": 1847,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/afa2d5d3e0e9d9643cae35d7bd2a6f525d38aaf1"
+    },
+    {
+      "path": "demo/setup_env.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5880411dfd9d8af1a1a26db3dd9fe3835623b378",
+      "size": 462,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/5880411dfd9d8af1a1a26db3dd9fe3835623b378"
+    },
+    {
+      "path": "demo/svt_arena.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c61a09b1d44bd45cc4c3d9c03912aead4a970a6",
+      "size": 18956,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/5c61a09b1d44bd45cc4c3d9c03912aead4a970a6"
+    },
+    {
+      "path": "demo/svt_taxis.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3ed89430eec93da4678d6da1678c4b9c7d712d0",
+      "size": 7258,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/b3ed89430eec93da4678d6da1678c4b9c7d712d0"
+    },
+    {
+      "path": "demo/track_a_lif.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7e87f33be1fd5a8f89815fe48fddb2f5ac15d5e",
+      "size": 4810,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/f7e87f33be1fd5a8f89815fe48fddb2f5ac15d5e"
+    },
+    {
+      "path": "demo/track_b_embodied.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "944c027e45aa01bf6c3f51b3677e6f3e6c45811f",
+      "size": 5631,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/944c027e45aa01bf6c3f51b3677e6f3e6c45811f"
+    },
+    {
+      "path": "docs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c0939701d0ee4c78181e6ddb55b34db3ade44656",
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/trees/c0939701d0ee4c78181e6ddb55b34db3ade44656"
+    },
+    {
+      "path": "docs/assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b42c11f0a5782a1bc0b84576850307d539155203",
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/trees/b42c11f0a5782a1bc0b84576850307d539155203"
+    },
+    {
+      "path": "docs/assets/a2_specificity.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de68afbd035e0626bccab106f1306666bebefb68",
+      "size": 31278,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/de68afbd035e0626bccab106f1306666bebefb68"
+    },
+    {
+      "path": "docs/assets/a3_dose_response.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a99cae695836aef15758fa0998b4b28aa2d06eb8",
+      "size": 36909,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/a99cae695836aef15758fa0998b4b28aa2d06eb8"
+    },
+    {
+      "path": "docs/assets/b1_frame.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f02e8a8d531ab1322ae4f74657151869c418d900",
+      "size": 71814,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/f02e8a8d531ab1322ae4f74657151869c418d900"
+    },
+    {
+      "path": "docs/assets/b1_walking.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ddc5d3b26940e131ce4e5a07daba1dcf6bfdb3f5",
+      "size": 565446,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/ddc5d3b26940e131ce4e5a07daba1dcf6bfdb3f5"
+    },
+    {
+      "path": "docs/assets/b2_frame.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4760cafbf3cd962e97cc346194d5a12f607784c",
+      "size": 53078,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/c4760cafbf3cd962e97cc346194d5a12f607784c"
+    },
+    {
+      "path": "docs/assets/b2_taxis_with_retina.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80beb5cb2cc12410a5f0557fb74db76023f78187",
+      "size": 284506,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/80beb5cb2cc12410a5f0557fb74db76023f78187"
+    },
+    {
+      "path": "docs/assets/m1_acquisition.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2a5e63105d1261582a3bbbb65df94519342540a",
+      "size": 99983,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/c2a5e63105d1261582a3bbbb65df94519342540a"
+    },
+    {
+      "path": "docs/assets/m3_generalization_trace.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99835371bc2236603a0976b12a25f36536a86dd7",
+      "size": 103751,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/99835371bc2236603a0976b12a25f36536a86dd7"
+    },
+    {
+      "path": "docs/assets/n1_trajectories.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8833caf688689a230de735952a3c7bcdbcd2258",
+      "size": 53957,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/d8833caf688689a230de735952a3c7bcdbcd2258"
+    },
+    {
+      "path": "docs/assets/nav_side_by_side.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ae390d058852b04b5027c3c60f299dc49930535",
+      "size": 54451,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/8ae390d058852b04b5027c3c60f299dc49930535"
+    },
+    {
+      "path": "docs/demo-report.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3465ee22f585b3bd07d179c18a468678a2cf685b",
+      "size": 5367,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/3465ee22f585b3bd07d179c18a468678a2cf685b"
+    },
+    {
+      "path": "docs/demo-spec.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e91a44cba3ba238088368e8d0b7f9f9888200bc8",
+      "size": 2002,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/e91a44cba3ba238088368e8d0b7f9f9888200bc8"
+    },
+    {
+      "path": "docs/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d8407545db7f5846c08642357260554ed7ccc9f",
+      "size": 16386,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/4d8407545db7f5846c08642357260554ed7ccc9f"
+    },
+    {
+      "path": "docs/learning.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5cd5e38de9f85efacc17b48d34e95af4a74b2300",
+      "size": 47304,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/5cd5e38de9f85efacc17b48d34e95af4a74b2300"
+    },
+    {
+      "path": "docs/prior-art.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9783df805e5c78310dd5040cf2d96d56e67a7d6c",
+      "size": 3476,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/9783df805e5c78310dd5040cf2d96d56e67a7d6c"
+    },
+    {
+      "path": "docs/spec-learning.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "47f5452daf8cfd5e884a3b28f9f5b2ca4417cea5",
+      "size": 3493,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/47f5452daf8cfd5e884a3b28f9f5b2ca4417cea5"
+    },
+    {
+      "path": "experiments",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7305c89763486666f00820d079e7d7ff5e543c13",
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/trees/7305c89763486666f00820d079e7d7ff5e543c13"
+    },
+    {
+      "path": "experiments/learning",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bc7157e174e12bcc8254f81b2ee9b4e6c8896b93",
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/trees/bc7157e174e12bcc8254f81b2ee9b4e6c8896b93"
+    },
+    {
+      "path": "experiments/learning/calibrate_adaptation.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15193de29f5ef12ab90a82aac4b7e25e43c25724",
+      "size": 3126,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/15193de29f5ef12ab90a82aac4b7e25e43c25724"
+    },
+    {
+      "path": "experiments/learning/calibrate_balance.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1ccfd37873b6bc2ca8b0618f2d7f7963fc27d44",
+      "size": 2433,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/f1ccfd37873b6bc2ca8b0618f2d7f7963fc27d44"
+    },
+    {
+      "path": "experiments/learning/calibrate_std.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3092dc9c5bede4d6ca2def9ace7fd1025d2a6d9a",
+      "size": 2319,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/3092dc9c5bede4d6ca2def9ace7fd1025d2a6d9a"
+    },
+    {
+      "path": "experiments/learning/circuit_ids.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1be3f842b691662c49f104fdc1b553646977831",
+      "size": 123244,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/d1be3f842b691662c49f104fdc1b553646977831"
+    },
+    {
+      "path": "experiments/learning/diagnose_ignition.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d088b10463753267adb940369b9d54f124ea19d1",
+      "size": 1786,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/d088b10463753267adb940369b9d54f124ea19d1"
+    },
+    {
+      "path": "experiments/learning/figures",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4fff0bf0951ef107046d44db315f12740c20f217",
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/trees/4fff0bf0951ef107046d44db315f12740c20f217"
+    },
+    {
+      "path": "experiments/learning/figures/m1_acquisition.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c2a5e63105d1261582a3bbbb65df94519342540a",
+      "size": 99983,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/c2a5e63105d1261582a3bbbb65df94519342540a"
+    },
+    {
+      "path": "experiments/learning/figures/m2_generalization_mbon.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5ad111d1c168ab4a60cfd2b5e04360c02e01b03",
+      "size": 82196,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/a5ad111d1c168ab4a60cfd2b5e04360c02e01b03"
+    },
+    {
+      "path": "experiments/learning/figures/m3_generalization_trace.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99835371bc2236603a0976b12a25f36536a86dd7",
+      "size": 103751,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/99835371bc2236603a0976b12a25f36536a86dd7"
+    },
+    {
+      "path": "experiments/learning/figures_learning.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a17aafb35ce43ddd6fbe51a09f68b067201565d",
+      "size": 2149,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/6a17aafb35ce43ddd6fbe51a09f68b067201565d"
+    },
+    {
+      "path": "experiments/learning/figures_mb.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c94e50d334f439568a147cc7efb474ae398f5cb4",
+      "size": 4091,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/c94e50d334f439568a147cc7efb474ae398f5cb4"
+    },
+    {
+      "path": "experiments/learning/learning_driver.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4783c6462e63355a96f1306c5a6024074e215c6",
+      "size": 9205,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/d4783c6462e63355a96f1306c5a6024074e215c6"
+    },
+    {
+      "path": "experiments/learning/learning_driver_mb.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "590cb1bfb0649106ce594fa9bcf8f802a3f0d3d3",
+      "size": 9249,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/590cb1bfb0649106ce594fa9bcf8f802a3f0d3d3"
+    },
+    {
+      "path": "experiments/learning/mb_subnet_ids.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b0b022bf6c8b52be933a37a6a00b5685f21982d",
+      "size": 117341,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/7b0b022bf6c8b52be933a37a6a00b5685f21982d"
+    },
+    {
+      "path": "experiments/learning/model_ext.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c8154bf8839ab4ec79c82c8d6b7c3d16d48fd8d0",
+      "size": 4305,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/c8154bf8839ab4ec79c82c8d6b7c3d16d48fd8d0"
+    },
+    {
+      "path": "experiments/learning/notes.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c68c4635ca260185f8e5716a32c38732f99f41d",
+      "size": 4497,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/7c68c4635ca260185f8e5716a32c38732f99f41d"
+    },
+    {
+      "path": "experiments/learning/probe_latency.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1acc9cc4e16fbbe2c6b3ed4594feccac2ffdcabb",
+      "size": 1698,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/1acc9cc4e16fbbe2c6b3ed4594feccac2ffdcabb"
+    },
+    {
+      "path": "experiments/learning/probe_mb.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e0189f49892bc97df02816ed45dc216d4a09da32",
+      "size": 3588,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/e0189f49892bc97df02816ed45dc216d4a09da32"
+    },
+    {
+      "path": "experiments/learning/probe_mb2.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87b26add7fd6414269523944b6564b8eed820325",
+      "size": 4114,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/87b26add7fd6414269523944b6564b8eed820325"
+    },
+    {
+      "path": "experiments/learning/probe_mb3.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65d3d6c18537fc1515c4bfd85735801cb1e77dc4",
+      "size": 4076,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/65d3d6c18537fc1515c4bfd85735801cb1e77dc4"
+    },
+    {
+      "path": "experiments/learning/probe_mb4.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "961fa7fda0ce13baf1b82ba4f0d630ed95757436",
+      "size": 4222,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/961fa7fda0ce13baf1b82ba4f0d630ed95757436"
+    },
+    {
+      "path": "experiments/learning/probe_orn.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91a2c0330b89f6bcdbb1bb57256a2b4add2d31f7",
+      "size": 2991,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/91a2c0330b89f6bcdbb1bb57256a2b4add2d31f7"
+    },
+    {
+      "path": "experiments/learning/probe_slot11.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e558b75876f0fdc7a58b667121abe6b532ca6df2",
+      "size": 3866,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/e558b75876f0fdc7a58b667121abe6b532ca6df2"
+    },
+    {
+      "path": "experiments/learning/probe_titration.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d826c9c9dcc6e0d12b450796ac36170b39f96eb3",
+      "size": 2701,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/d826c9c9dcc6e0d12b450796ac36170b39f96eb3"
+    },
+    {
+      "path": "experiments/learning/probe_wsyn.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f17641a4fefaeb9b3086805db5fe75bc937a4520",
+      "size": 2621,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/f17641a4fefaeb9b3086805db5fe75bc937a4520"
+    },
+    {
+      "path": "experiments/learning/report.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "714b3066e2cc6c30aa30765d687dd24f4b16860e",
+      "size": 5461,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/714b3066e2cc6c30aa30765d687dd24f4b16860e"
+    },
+    {
+      "path": "experiments/learning/scan_drive.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec5156c45ec2f999cf3610610703475ad614b5e4",
+      "size": 2692,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/ec5156c45ec2f999cf3610610703475ad614b5e4"
+    },
+    {
+      "path": "experiments/learning/sugar_ids_783.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "698ddefb31ca07c4714dbd3973d90b439032594a",
+      "size": 400,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/698ddefb31ca07c4714dbd3973d90b439032594a"
+    },
+    {
+      "path": "experiments/navigation",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c19eae60d8429b4213ec1f03262cb34412f5fec8",
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/trees/c19eae60d8429b4213ec1f03262cb34412f5fec8"
+    },
+    {
+      "path": "experiments/navigation/figures",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fcd9d30c1598ef430a06160d300f1c96895f6e71",
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/trees/fcd9d30c1598ef430a06160d300f1c96895f6e71"
+    },
+    {
+      "path": "experiments/navigation/figures/n1_trajectories.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d8833caf688689a230de735952a3c7bcdbcd2258",
+      "size": 53957,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/d8833caf688689a230de735952a3c7bcdbcd2258"
+    },
+    {
+      "path": "experiments/navigation/figures/qa_composite.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "edf699c26c0f8f254c9039a4b93fd60bb0e2705a",
+      "size": 58028,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/edf699c26c0f8f254c9039a4b93fd60bb0e2705a"
+    },
+    {
+      "path": "experiments/navigation/figures/qa_composite2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8bd8e97b6e3e6dea01e405f7b8b0269085944f85",
+      "size": 58128,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/8bd8e97b6e3e6dea01e405f7b8b0269085944f85"
+    },
+    {
+      "path": "experiments/navigation/figures/qa_trained.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36728d4a4f81ce5993ed43ea00cd01b5aa098e83",
+      "size": 28733,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/36728d4a4f81ce5993ed43ea00cd01b5aa098e83"
+    },
+    {
+      "path": "experiments/navigation/nav_demo.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6a7fe1d75dce3d29729782e77617fc17652cdab",
+      "size": 12230,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/b6a7fe1d75dce3d29729782e77617fc17652cdab"
+    },
+    {
+      "path": "experiments/navigation/report.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25b86f156a0f22ac0e2048a18dd35a85a0506e51",
+      "size": 2220,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/25b86f156a0f22ac0e2048a18dd35a85a0506e51"
+    },
+    {
+      "path": "experiments/navigation/runs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d88d97d734b2b78f2a7ba2797a993dc4d12bb531",
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/trees/d88d97d734b2b78f2a7ba2797a993dc4d12bb531"
+    },
+    {
+      "path": "experiments/navigation/runs/film",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1e114860691509f67cb690b5387bdb7e67cec614",
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/trees/1e114860691509f67cb690b5387bdb7e67cec614"
+    },
+    {
+      "path": "experiments/navigation/runs/film/naive_log.jsonl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "55bbeb4153c7505d4ce2ce62de2eedec3974e7d1",
+      "size": 3683,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/55bbeb4153c7505d4ce2ce62de2eedec3974e7d1"
+    },
+    {
+      "path": "experiments/navigation/runs/film/naive_traj.npy",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88fd2155e203aec85c0f1cae9687a4b30e66cd09",
+      "size": 592,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/88fd2155e203aec85c0f1cae9687a4b30e66cd09"
+    },
+    {
+      "path": "experiments/navigation/runs/film/summary.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "50ec2999ab011d073927ae3b217ded50924c2e7a",
+      "size": 74,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/50ec2999ab011d073927ae3b217ded50924c2e7a"
+    },
+    {
+      "path": "experiments/navigation/runs/film/trained_log.jsonl",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49d1aba6a0cfd5c84a170ff4522e29e2503c0338",
+      "size": 1117,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/49d1aba6a0cfd5c84a170ff4522e29e2503c0338"
+    },
+    {
+      "path": "experiments/navigation/runs/film/trained_traj.npy",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9b32ee7fd79f476013866a0490849702658dfd7c",
+      "size": 272,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/9b32ee7fd79f476013866a0490849702658dfd7c"
+    },
+    {
+      "path": "experiments/navigation/traj_figure.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc4b3fce3002b2f2273a5ae9c69fb02712972dca",
+      "size": 1202,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/bc4b3fce3002b2f2273a5ae9c69fb02712972dca"
+    },
+    {
+      "path": "figures",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1e4707d87c162908d8f116e4067f44200a946a9d",
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/trees/1e4707d87c162908d8f116e4067f44200a946a9d"
+    },
+    {
+      "path": "figures/a2_specificity.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de68afbd035e0626bccab106f1306666bebefb68",
+      "size": 31278,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/de68afbd035e0626bccab106f1306666bebefb68"
+    },
+    {
+      "path": "figures/a3_dose_response.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a99cae695836aef15758fa0998b4b28aa2d06eb8",
+      "size": 36909,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/a99cae695836aef15758fa0998b4b28aa2d06eb8"
+    },
+    {
+      "path": "figures/b1_frame.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f02e8a8d531ab1322ae4f74657151869c418d900",
+      "size": 71814,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/f02e8a8d531ab1322ae4f74657151869c418d900"
+    },
+    {
+      "path": "figures/b2_frame.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4760cafbf3cd962e97cc346194d5a12f607784c",
+      "size": 53078,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/c4760cafbf3cd962e97cc346194d5a12f607784c"
+    },
+    {
+      "path": "media",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "52d790fd159bc5fee582a4fec7c96488e82ce442",
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/trees/52d790fd159bc5fee582a4fec7c96488e82ce442"
+    },
+    {
+      "path": "media/b1_walking.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c50e14462d1f21ca9452eb4273bb2ba9b5f2fd7",
+      "size": 3292952,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/5c50e14462d1f21ca9452eb4273bb2ba9b5f2fd7"
+    },
+    {
+      "path": "media/b1_walking.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ddc5d3b26940e131ce4e5a07daba1dcf6bfdb3f5",
+      "size": 565446,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/ddc5d3b26940e131ce4e5a07daba1dcf6bfdb3f5"
+    },
+    {
+      "path": "media/b2_taxis.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a093bec8c94b9bbcdf23da17d94176311d1a9a0",
+      "size": 1162753,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/9a093bec8c94b9bbcdf23da17d94176311d1a9a0"
+    },
+    {
+      "path": "media/b2_taxis.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f532d50ac29da5451af9ea09f5ca3a48e2fa65b",
+      "size": 93962,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/8f532d50ac29da5451af9ea09f5ca3a48e2fa65b"
+    },
+    {
+      "path": "media/b2_taxis_with_retina.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80beb5cb2cc12410a5f0557fb74db76023f78187",
+      "size": 284506,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/80beb5cb2cc12410a5f0557fb74db76023f78187"
+    },
+    {
+      "path": "media/nav_demo.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8025991fdcfbe2db5690f30cc487c3479855cc58",
+      "size": 157207,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/8025991fdcfbe2db5690f30cc487c3479855cc58"
+    },
+    {
+      "path": "media/nav_side_by_side.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ae390d058852b04b5027c3c60f299dc49930535",
+      "size": 54451,
+      "url": "https://api.github.com/repos/dtch1997/fly-api/git/blobs/8ae390d058852b04b5027c3c60f299dc49930535"
+    }
+  ],
+  "truncated": false
+}

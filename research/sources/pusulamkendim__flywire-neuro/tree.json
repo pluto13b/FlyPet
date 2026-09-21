@@ -1,0 +1,2589 @@
+{
+  "sha": "9bafdeb0a04635a79a2581a017fa506585860d02",
+  "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/9bafdeb0a04635a79a2581a017fa506585860d02",
+  "tree": [
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7335224a1cf4a8f4b6cbe89806311cc35c936fce",
+      "size": 186,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/7335224a1cf4a8f4b6cbe89806311cc35c936fce"
+    },
+    {
+      "path": "00_setup_token.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d25a1f4f28e32c7f312b161d7793260f5e1f2bdc",
+      "size": 1121,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/d25a1f4f28e32c7f312b161d7793260f5e1f2bdc"
+    },
+    {
+      "path": "01_explore.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ccd1484d2ebe2abdf09b78348934aa620ef5da8",
+      "size": 1018,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/8ccd1484d2ebe2abdf09b78348934aa620ef5da8"
+    },
+    {
+      "path": "02_nt_distribution.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "615a9b613e3dc5077a55f0176861ae1f41e50d2c",
+      "size": 1905,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/615a9b613e3dc5077a55f0176861ae1f41e50d2c"
+    },
+    {
+      "path": "03_dopamine_serotonin.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2f27aea407aa3a62fc9864b8667477be7bf1fb9",
+      "size": 4370,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/d2f27aea407aa3a62fc9864b8667477be7bf1fb9"
+    },
+    {
+      "path": "04_visualize.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb476d4788f3a160ac81443d17476dcce70d2476",
+      "size": 9182,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/eb476d4788f3a160ac81443d17476dcce70d2476"
+    },
+    {
+      "path": "05_da_ser_interaction.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21a0d1c77f048beb0f8ca5f74e25a232ef3c8161",
+      "size": 14313,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/21a0d1c77f048beb0f8ca5f74e25a232ef3c8161"
+    },
+    {
+      "path": "06_reward_vs_punishment.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35c951564d0bd5e1afe00db2e0937d58ab6f3b88",
+      "size": 7969,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/35c951564d0bd5e1afe00db2e0937d58ab6f3b88"
+    },
+    {
+      "path": "07_serotonin_role.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4633ea75c794b7e86be8c2922f4119ba198d837",
+      "size": 6090,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/e4633ea75c794b7e86be8c2922f4119ba198d837"
+    },
+    {
+      "path": "08_octopamine.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0da54c38a85ae71487bfc754b06d3c6bc70293bd",
+      "size": 4575,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/0da54c38a85ae71487bfc754b06d3c6bc70293bd"
+    },
+    {
+      "path": "09_gaba_inhibition.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b136ff83149c130797bbe5c58e2044785c2f1d3",
+      "size": 8746,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/8b136ff83149c130797bbe5c58e2044785c2f1d3"
+    },
+    {
+      "path": "10_acetylcholine.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3157ec9370354d8947327db44d39952fe95c8d4",
+      "size": 5819,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/c3157ec9370354d8947327db44d39952fe95c8d4"
+    },
+    {
+      "path": "11_glutamate.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46cccf0cdd23afc68cb5948b41110cd86277dd5d",
+      "size": 6829,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/46cccf0cdd23afc68cb5948b41110cd86277dd5d"
+    },
+    {
+      "path": "12_signal_propagation.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f9d973ade2811b750e0eaf09ca7250a5a9bffc4",
+      "size": 11539,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/6f9d973ade2811b750e0eaf09ca7250a5a9bffc4"
+    },
+    {
+      "path": "13_taste_propagation.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bfaaefd708c8fc3426a908a4c5427b21c0a9971f",
+      "size": 12574,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/bfaaefd708c8fc3426a908a4c5427b21c0a9971f"
+    },
+    {
+      "path": "14_learning_simulation.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce6742ec4a3a7c7f76ef774da8a6c94bf6fb44d1",
+      "size": 19151,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/ce6742ec4a3a7c7f76ef774da8a6c94bf6fb44d1"
+    },
+    {
+      "path": "15_ppl1_priority.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c508ba41f9b51dc646e3f932294bc11915057f02",
+      "size": 19053,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/c508ba41f9b51dc646e3f932294bc11915057f02"
+    },
+    {
+      "path": "16_sensitivity_analysis.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49b1e6129ba7f54630cb011e5b88baee1eb0096f",
+      "size": 14811,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/49b1e6129ba7f54630cb011e5b88baee1eb0096f"
+    },
+    {
+      "path": "17_larva_propagation.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7bf98bb0247ba9e3892590ef92855ad3df459acd",
+      "size": 19592,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/7bf98bb0247ba9e3892590ef92855ad3df459acd"
+    },
+    {
+      "path": "18_lif_ppl1_priority.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "620f7b0915c0c474836043c8edcc1fe862a64379",
+      "size": 12500,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/620f7b0915c0c474836043c8edcc1fe862a64379"
+    },
+    {
+      "path": "19_decision_circuit.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0ed0670c383a1fd57c5d60ac062c7446cf9a59fa",
+      "size": 23215,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/0ed0670c383a1fd57c5d60ac062c7446cf9a59fa"
+    },
+    {
+      "path": "20_threat_first_agent.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9c5a774314ca8153b00dbd7e6814e7699d757d3",
+      "size": 22611,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/a9c5a774314ca8153b00dbd7e6814e7699d757d3"
+    },
+    {
+      "path": "21_embodied_brain.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73af2c7e407a291972fa8efcbe5f05f57f6e90f4",
+      "size": 18778,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/73af2c7e407a291972fa8efcbe5f05f57f6e90f4"
+    },
+    {
+      "path": "21_fly_video.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d833ee2a01102ffeb00c8a0d129df768257f1882",
+      "size": 2857,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/d833ee2a01102ffeb00c8a0d129df768257f1882"
+    },
+    {
+      "path": "22_olfactory_embodied.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3c9268f6b659de322ace5a850cac235b78a9e55",
+      "size": 17717,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/c3c9268f6b659de322ace5a850cac235b78a9e55"
+    },
+    {
+      "path": "23_sugar_navigation.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db0eafc393f8cb7db695eb83c53f828add47b08a",
+      "size": 36235,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/db0eafc393f8cb7db695eb83c53f828add47b08a"
+    },
+    {
+      "path": "24_autonomous_fly.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7ad2e44b633d60b5d0dda3da2d655408ebb9269",
+      "size": 39574,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/e7ad2e44b633d60b5d0dda3da2d655408ebb9269"
+    },
+    {
+      "path": "25_cross_species_decision.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73714a06ee4c3e5e9ae824f636e6e5d1d97cd4be",
+      "size": 31494,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/73714a06ee4c3e5e9ae824f636e6e5d1d97cd4be"
+    },
+    {
+      "path": "BENIOKU.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a580beb16fa938cde6b18e2799c40fe0f652b07",
+      "size": 29524,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/1a580beb16fa938cde6b18e2799c40fe0f652b07"
+    },
+    {
+      "path": "CLOSURE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "598d079fb316831f7fcd3560c549c31c4f0f15b4",
+      "size": 8428,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/598d079fb316831f7fcd3560c549c31c4f0f15b4"
+    },
+    {
+      "path": "ELI5.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ee1b990e25ed0be9cf25939aa3542174dd2a2b6",
+      "size": 5402,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/4ee1b990e25ed0be9cf25939aa3542174dd2a2b6"
+    },
+    {
+      "path": "IMPROVEMENT_POINTS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c93fcc6025e792e773243c5581a882a6431070c5",
+      "size": 6375,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/c93fcc6025e792e773243c5581a882a6431070c5"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87b09031fc54e0a0ef383843ba143f7775a0ed2b",
+      "size": 1083,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/87b09031fc54e0a0ef383843ba143f7775a0ed2b"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5637da57af1297c1515b589b2cf12c17ad91c3c1",
+      "size": 17390,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/5637da57af1297c1515b589b2cf12c17ad91c3c1"
+    },
+    {
+      "path": "Sulbu_2026_PPL1_priority_Drosophila_connectome.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93f227bfd43bf6019f65a74ae9e37a1345953aae",
+      "size": 662473,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/93f227bfd43bf6019f65a74ae9e37a1345953aae"
+    },
+    {
+      "path": "colab_brain.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7fc6f4e453fb3033e08d57c4d6ed8e43dbba1c0",
+      "size": 13755,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/b7fc6f4e453fb3033e08d57c4d6ed8e43dbba1c0"
+    },
+    {
+      "path": "convert_pdf.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "629753a6573c2aaa630045dd1d4668ace5550d78",
+      "size": 1857,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/629753a6573c2aaa630045dd1d4668ace5550d78"
+    },
+    {
+      "path": "data.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1069d875fb431f3463e9e23cc5fb806febbbf67c",
+      "size": 5649,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/1069d875fb431f3463e9e23cc5fb806febbbf67c"
+    },
+    {
+      "path": "embodied",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0d9fe5c9c0f75c868b09b273a70e382bdf1e465f",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/0d9fe5c9c0f75c868b09b273a70e382bdf1e465f"
+    },
+    {
+      "path": "embodied/00_flight_camera_test.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46f077bf772c234c132eaf9ffb3e7a49b6d4da35",
+      "size": 9621,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/46f077bf772c234c132eaf9ffb3e7a49b6d4da35"
+    },
+    {
+      "path": "embodied/01_flight_escape.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ee16a45830c515ce715a2b289d116079508d4217",
+      "size": 26101,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/ee16a45830c515ce715a2b289d116079508d4217"
+    },
+    {
+      "path": "embodied/02_flight_escape_v2.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31aeed8e9134cd8e8402e69fa33b0a3129edbaaa",
+      "size": 22477,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/31aeed8e9134cd8e8402e69fa33b0a3129edbaaa"
+    },
+    {
+      "path": "fly-brain-embodied",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d10b02f1a4f592060bb3104f8714ad59120afa16",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/d10b02f1a4f592060bb3104f8714ad59120afa16"
+    },
+    {
+      "path": "fly-brain-embodied/.gitattributes",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "908b90973aaee5ce132daa891524f06f28f111af",
+      "size": 149,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/908b90973aaee5ce132daa891524f06f28f111af"
+    },
+    {
+      "path": "fly-brain-embodied/.gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3de4bb0e7c918ef6fd86f7636b86e10b49df3e60",
+      "size": 402,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/3de4bb0e7c918ef6fd86f7636b86e10b49df3e60"
+    },
+    {
+      "path": "fly-brain-embodied/LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21930c559cea98aeda0e68f845c9c46e7d0c0190",
+      "size": 1084,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/21930c559cea98aeda0e68f845c9c46e7d0c0190"
+    },
+    {
+      "path": "fly-brain-embodied/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f10d3c544ffbb327e2328aedd13961990c1789c7",
+      "size": 17306,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/f10d3c544ffbb327e2328aedd13961990c1789c7"
+    },
+    {
+      "path": "fly-brain-embodied/analyze_overnight.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f98bf8ab65c7e33d86adcd64f0d3b03512f5fd02",
+      "size": 9015,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/f98bf8ab65c7e33d86adcd64f0d3b03512f5fd02"
+    },
+    {
+      "path": "fly-brain-embodied/analyze_plasticity_divergence.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cabb900518e17a32da6f2dcd822005e6a95d0570",
+      "size": 29767,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/cabb900518e17a32da6f2dcd822005e6a95d0570"
+    },
+    {
+      "path": "fly-brain-embodied/brain_body_bridge.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8070f9b705fd542414dafc65eb288a08e6a4130f",
+      "size": 34396,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/8070f9b705fd542414dafc65eb288a08e6a4130f"
+    },
+    {
+      "path": "fly-brain-embodied/brain_monitor.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "426def168bab26077c9f840d3079e2881b7925c5",
+      "size": 46578,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/426def168bab26077c9f840d3079e2881b7925c5"
+    },
+    {
+      "path": "fly-brain-embodied/code",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c16f7627cb6b1de3a102e37216a0fad97723e418",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/c16f7627cb6b1de3a102e37216a0fad97723e418"
+    },
+    {
+      "path": "fly-brain-embodied/code/benchmark.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c54f51f5163ecfbcc5b1fdc2b955def1c7c972f",
+      "size": 10972,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/9c54f51f5163ecfbcc5b1fdc2b955def1c7c972f"
+    },
+    {
+      "path": "fly-brain-embodied/code/paper-phil-drosophila",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d8f6ddbe1144b0d70559730d9145f7fa4d892a8a",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/d8f6ddbe1144b0d70559730d9145f7fa4d892a8a"
+    },
+    {
+      "path": "fly-brain-embodied/code/paper-phil-drosophila/example.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bd6dff1eb17bf8db59148f108455d75a0023abde",
+      "size": 24105,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/bd6dff1eb17bf8db59148f108455d75a0023abde"
+    },
+    {
+      "path": "fly-brain-embodied/code/paper-phil-drosophila/figures.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d91e242efbda3d14ba923ee47629070f4b539fa5",
+      "size": 38892,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/d91e242efbda3d14ba923ee47629070f4b539fa5"
+    },
+    {
+      "path": "fly-brain-embodied/code/paper-phil-drosophila/model.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84ad6eeb0abb8e14c2f0ab2caf05ca556cc84066",
+      "size": 11667,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/84ad6eeb0abb8e14c2f0ab2caf05ca556cc84066"
+    },
+    {
+      "path": "fly-brain-embodied/code/paper-phil-drosophila/utils.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7785ce7141a2f348b9e0c8beb0d3dd8e992d497",
+      "size": 2176,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/a7785ce7141a2f348b9e0c8beb0d3dd8e992d497"
+    },
+    {
+      "path": "fly-brain-embodied/code/run_brian2_cuda.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c82be9a58fc11dcc3cbaac8af407afce2c1fd65d",
+      "size": 18322,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/c82be9a58fc11dcc3cbaac8af407afce2c1fd65d"
+    },
+    {
+      "path": "fly-brain-embodied/code/run_nestgpu.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "417324a39353ccdf5d01a714ac7abaab66c7f67d",
+      "size": 15399,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/417324a39353ccdf5d01a714ac7abaab66c7f67d"
+    },
+    {
+      "path": "fly-brain-embodied/code/run_pytorch.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3de9a3660ff093dae8de4d1303e5d83523ea19b0",
+      "size": 19180,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/3de9a3660ff093dae8de4d1303e5d83523ea19b0"
+    },
+    {
+      "path": "fly-brain-embodied/compare_plasticity.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84bdfff49751c96a4345490702e7fe2628b884f6",
+      "size": 11660,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/84bdfff49751c96a4345490702e7fe2628b884f6"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56230e68f06a1ffaae3c704a3ead71e6e2e1a095",
+      "size": 36794,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/56230e68f06a1ffaae3c704a3ead71e6e2e1a095"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "80484a0f6697a9bfb78a21e925977d844aea5b34",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/80484a0f6697a9bfb78a21e925977d844aea5b34"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_132935",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "82778378d45cb50b776b00e34dfe6ce0d9c1fa86",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/82778378d45cb50b776b00e34dfe6ce0d9c1fa86"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_132935/consciousness_report.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9bc1fe04ae0d5bf87bfab9f1619f5ff7515e31dc",
+      "size": 306,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/9bc1fe04ae0d5bf87bfab9f1619f5ff7515e31dc"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_132935/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b708e1b771ce3172bd85500674f783c94fe7f19a",
+      "size": 49,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/b708e1b771ce3172bd85500674f783c94fe7f19a"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_132935/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "acce4218756d96932d1e5a1164eef8cfffd8ee4d",
+      "size": 15,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/acce4218756d96932d1e5a1164eef8cfffd8ee4d"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_133411",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f43131c0cac4da34c9732a1858cad29ec9b95dda",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/f43131c0cac4da34c9732a1858cad29ec9b95dda"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_133411/consciousness_report.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bdb08a5ff20b5719e076903fe553a52bdbc9c94d",
+      "size": 2046,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/bdb08a5ff20b5719e076903fe553a52bdbc9c94d"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_133411/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "542bebac1e583ccd7d6df258ae7db8a7811d0a95",
+      "size": 7125,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/542bebac1e583ccd7d6df258ae7db8a7811d0a95"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_133411/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52a66b623db0ea262e9d63d639844d04d52dbcc4",
+      "size": 1425,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/52a66b623db0ea262e9d63d639844d04d52dbcc4"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_134345",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9d10510e80e491ac559b5d0b7acf897c31c47072",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/9d10510e80e491ac559b5d0b7acf897c31c47072"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_134345/consciousness_report.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eabf8ea706ad23b703ea1fa02264d138f39657d1",
+      "size": 2028,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/eabf8ea706ad23b703ea1fa02264d138f39657d1"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_134345/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2ad7b141d39bf0c435f299dd768547f6622cdfb",
+      "size": 9671,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/f2ad7b141d39bf0c435f299dd768547f6622cdfb"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_134345/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4bf81450c1f8b813dd8b5cc75e7ac0547bb40fc",
+      "size": 1953,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/d4bf81450c1f8b813dd8b5cc75e7ac0547bb40fc"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_210436",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "31da716e24959dfcb0ba7719f34bb496e152e74d",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/31da716e24959dfcb0ba7719f34bb496e152e74d"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_210436/consciousness_report.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9aae3bbb6c3af3daf78a76948626bb9493f086df",
+      "size": 2025,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/9aae3bbb6c3af3daf78a76948626bb9493f086df"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_210436/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "200307a185f30c8fc5abd851f6c8ba02b80ebecb",
+      "size": 5088,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/200307a185f30c8fc5abd851f6c8ba02b80ebecb"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_210436/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58a43773a4dc00f5afe63dbd809a23115c643de1",
+      "size": 1018,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/58a43773a4dc00f5afe63dbd809a23115c643de1"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_225504_fly0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "12389915536ee3ffa5914941cdc387a61c23b4c9",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/12389915536ee3ffa5914941cdc387a61c23b4c9"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_225504_fly0/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "70f1f4a1f78b99fabcbd2d78e9cb0137b2ac2647",
+      "size": 7255,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/70f1f4a1f78b99fabcbd2d78e9cb0137b2ac2647"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_225504_fly0/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92f8817b9eb037d70347b47fc36c929219d9c126",
+      "size": 1469,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/92f8817b9eb037d70347b47fc36c929219d9c126"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_225556_fly1",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7cf0847ca2d7942c4ebcd327902fef46557cf8f4",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/7cf0847ca2d7942c4ebcd327902fef46557cf8f4"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_225556_fly1/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "325d7f721723d3cbe3000be7bacee7709690208d",
+      "size": 7286,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/325d7f721723d3cbe3000be7bacee7709690208d"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_225556_fly1/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d0735435104d66a863b7d8dbf800f36d1089850",
+      "size": 1469,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/5d0735435104d66a863b7d8dbf800f36d1089850"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_230255_fly0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7ee0a876f29e85cd0fea09f812c2019531cb8aa7",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/7ee0a876f29e85cd0fea09f812c2019531cb8aa7"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_230255_fly0/consciousness_report.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20a93b9bb0cc2c33a22fcf1f473c35b880bd21c4",
+      "size": 1842,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/20a93b9bb0cc2c33a22fcf1f473c35b880bd21c4"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_230255_fly0/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c641d8c7b5cc80dd3bea4ba1c1f0e2039962e221",
+      "size": 6509,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/c641d8c7b5cc80dd3bea4ba1c1f0e2039962e221"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_230255_fly0/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8baf8ac3a79fe55565e89a710a02c5532aaee4cf",
+      "size": 1315,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/8baf8ac3a79fe55565e89a710a02c5532aaee4cf"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_230347_fly1",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bdedfabf7eef3c07b8ed34644b82f174328a609c",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/bdedfabf7eef3c07b8ed34644b82f174328a609c"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_230347_fly1/consciousness_report.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a03391478b3850b8b1a5eef44f3dc1fea26ca4d",
+      "size": 1842,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/9a03391478b3850b8b1a5eef44f3dc1fea26ca4d"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_230347_fly1/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e75a485fff96931bafb2a14b4b0d5c3c4d51c45a",
+      "size": 6509,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/e75a485fff96931bafb2a14b4b0d5c3c4d51c45a"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_230347_fly1/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ccd9d78498682894ed422e3072b379544e46ca4d",
+      "size": 1315,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/ccd9d78498682894ed422e3072b379544e46ca4d"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_230853_fly0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a301ac54993c40fbfdfefa970cbac524b1f435a7",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/a301ac54993c40fbfdfefa970cbac524b1f435a7"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_230853_fly0/consciousness_report.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f12ad76496fd0a21e6e9e0f387b238b16237759",
+      "size": 1840,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/7f12ad76496fd0a21e6e9e0f387b238b16237759"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_230853_fly0/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f42c2ad7e3a91ff9a29cfc5a7f5d791f3172c5fd",
+      "size": 5051,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/f42c2ad7e3a91ff9a29cfc5a7f5d791f3172c5fd"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_230853_fly0/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9c93f98c9cb39912a4546724e1de199c398d86a9",
+      "size": 1018,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/9c93f98c9cb39912a4546724e1de199c398d86a9"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_230945_fly1",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ec457b062fb1dfa03ed3a0fbf0f7784cf0485203",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/ec457b062fb1dfa03ed3a0fbf0f7784cf0485203"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_230945_fly1/consciousness_report.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1e9d527873007d3384dcf50073563360223e364",
+      "size": 1840,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/e1e9d527873007d3384dcf50073563360223e364"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_230945_fly1/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb1566db4e7da704b01efaa42488ecc68422bfcf",
+      "size": 5051,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/cb1566db4e7da704b01efaa42488ecc68422bfcf"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_230945_fly1/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db7ca9d46c54b33f2421c7ab9a0bee4ae865d357",
+      "size": 1018,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/db7ca9d46c54b33f2421c7ab9a0bee4ae865d357"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_233655_fly0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "42e54ab1eed4627ef27727b3b111bf52cf2ac2f5",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/42e54ab1eed4627ef27727b3b111bf52cf2ac2f5"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_233655_fly0/consciousness_report.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7fdd80b577857027bd70b8f92ddc524f1c4730b",
+      "size": 2039,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/c7fdd80b577857027bd70b8f92ddc524f1c4730b"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_233655_fly0/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "499787fab8b0c11735d4634d4f30dc31873bb072",
+      "size": 115020,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/499787fab8b0c11735d4634d4f30dc31873bb072"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_233655_fly0/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52de0a16cfb23d9ea88899ed73fd87ef32fc054c",
+      "size": 24915,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/52de0a16cfb23d9ea88899ed73fd87ef32fc054c"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_233746_fly1",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d9cd79d22857c68cf99144c093e5cfaf654beea0",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/d9cd79d22857c68cf99144c093e5cfaf654beea0"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_233746_fly1/consciousness_report.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29bfbe3fa3178c560e3f81e39020f1ce0ec06e8c",
+      "size": 2037,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/29bfbe3fa3178c560e3f81e39020f1ce0ec06e8c"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_233746_fly1/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc4120272012e2b121eec67b17c002fd0bbe2e66",
+      "size": 116422,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/cc4120272012e2b121eec67b17c002fd0bbe2e66"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260311_233746_fly1/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b430915282eebfa6704e35edac2f3f8b13637c5",
+      "size": 24915,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/7b430915282eebfa6704e35edac2f3f8b13637c5"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_071403_fly0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3dc997c8e962224bc7d4dadf6bda0282f93ddb45",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/3dc997c8e962224bc7d4dadf6bda0282f93ddb45"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_071403_fly0/consciousness_report.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f8420c4e732da07d72f4f5480d7d1f53e9b2b43",
+      "size": 2035,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/5f8420c4e732da07d72f4f5480d7d1f53e9b2b43"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_071403_fly0/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7033ec78fb9d3fde90d9bc32c1e23dbb822ffeba",
+      "size": 30759,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/7033ec78fb9d3fde90d9bc32c1e23dbb822ffeba"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_071403_fly0/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "716f8a46345793d99e7e606aab94e8226ca648da",
+      "size": 6432,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/716f8a46345793d99e7e606aab94e8226ca648da"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_071508_fly1",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c6617214647b94431a519b217dee04f2712e8542",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/c6617214647b94431a519b217dee04f2712e8542"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_071508_fly1/consciousness_report.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc09c5c93719fd4eba581a1a7b94c4d4cb9d6c51",
+      "size": 2035,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/fc09c5c93719fd4eba581a1a7b94c4d4cb9d6c51"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_071508_fly1/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9edd92f438ba87ec22a94f947ff405992f78c5bc",
+      "size": 30876,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/9edd92f438ba87ec22a94f947ff405992f78c5bc"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_071508_fly1/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80639a2353f76c99f33178976c5e8596b15dba1b",
+      "size": 6420,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/80639a2353f76c99f33178976c5e8596b15dba1b"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_074258_fly0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "158059fb8c810401c679d62c9b2c8872f6d43332",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/158059fb8c810401c679d62c9b2c8872f6d43332"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_074258_fly0/consciousness_report.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0ecf900ce76c7c34a91c17fac969625f79c8532",
+      "size": 2037,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/f0ecf900ce76c7c34a91c17fac969625f79c8532"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_074258_fly0/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c8a97817e4cba358b6d09e33d5f07d3426ab470",
+      "size": 105644,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/4c8a97817e4cba358b6d09e33d5f07d3426ab470"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_074258_fly0/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c855bca6c477db80e7d00baad702b18168deefb4",
+      "size": 22392,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/c855bca6c477db80e7d00baad702b18168deefb4"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_074353_fly1",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a73c479ccb0802e1f8aab8df661c8acfc90c5c69",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/a73c479ccb0802e1f8aab8df661c8acfc90c5c69"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_074353_fly1/consciousness_report.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2816b2e3f443648b23f407e836bf05f5e62f67e",
+      "size": 2038,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/d2816b2e3f443648b23f407e836bf05f5e62f67e"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_074353_fly1/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ab035280413afb02b8a1ca3cb703d60517b06e4",
+      "size": 106321,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/6ab035280413afb02b8a1ca3cb703d60517b06e4"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_074353_fly1/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4c2f472d92e2d82d62155f1173332c6c3fd06c1c",
+      "size": 22380,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/4c2f472d92e2d82d62155f1173332c6c3fd06c1c"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_083414_fly0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4545e9177963e1db5ebf843aa451dca190b1e59c",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/4545e9177963e1db5ebf843aa451dca190b1e59c"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_083414_fly0/consciousness_report.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ccbb08b3ff7ec504bb209d26604f59110b23fc15",
+      "size": 2041,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/ccbb08b3ff7ec504bb209d26604f59110b23fc15"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_083414_fly0/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db5d97071116ee4bacc1817abe8dbfa8f1227e1e",
+      "size": 132228,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/db5d97071116ee4bacc1817abe8dbfa8f1227e1e"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_083414_fly0/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "326dc1f88619b99fc4cc03e63ae4626a528e866f",
+      "size": 28256,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/326dc1f88619b99fc4cc03e63ae4626a528e866f"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_083508_fly1",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cfa146ff56d3b22f7847a83248f4e3d1650f3f4d",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/cfa146ff56d3b22f7847a83248f4e3d1650f3f4d"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_083508_fly1/consciousness_report.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cff287a813614035996c968451c5bc609b1b3bd4",
+      "size": 2038,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/cff287a813614035996c968451c5bc609b1b3bd4"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_083508_fly1/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94656544cf3556cec91169b2af941335e45fcb05",
+      "size": 133295,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/94656544cf3556cec91169b2af941335e45fcb05"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_083508_fly1/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "728d67fdaa5302c24a5d3a311bbdc5713cc51912",
+      "size": 28256,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/728d67fdaa5302c24a5d3a311bbdc5713cc51912"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_094510_fly0",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "af0a127332d2cf90c2c42fd84652e48c0323f57e",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/af0a127332d2cf90c2c42fd84652e48c0323f57e"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_094510_fly0/consciousness_report.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51ab733885602a4997901ee2487d9d4dd237c062",
+      "size": 2035,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/51ab733885602a4997901ee2487d9d4dd237c062"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_094510_fly0/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b437fdcfafa85fdc14e4880482510771970214b",
+      "size": 26577,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/4b437fdcfafa85fdc14e4880482510771970214b"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_094510_fly0/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a830f3ec558a8047d3521931101aa1f483c6c6d6",
+      "size": 5532,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/a830f3ec558a8047d3521931101aa1f483c6c6d6"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_094601_fly1",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "21734cb8bb1d3d7faa6b99ada0f6d009316843af",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/21734cb8bb1d3d7faa6b99ada0f6d009316843af"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_094601_fly1/consciousness_report.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e9e00839b6906c976fcbf7b2f8abeb8702dd9b4",
+      "size": 2035,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/7e9e00839b6906c976fcbf7b2f8abeb8702dd9b4"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_094601_fly1/consciousness_timeline.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92c3db9d06e70c7a134f26c331cccbbcde5d8863",
+      "size": 26633,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/92c3db9d06e70c7a134f26c331cccbbcde5d8863"
+    },
+    {
+      "path": "fly-brain-embodied/consciousness_history/session_20260312_094601_fly1/phi_timeseries.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ddafa4d662ce314dc3dc351ab9f49bac77b4e41",
+      "size": 5532,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/7ddafa4d662ce314dc3dc351ab9f49bac77b4e41"
+    },
+    {
+      "path": "fly-brain-embodied/data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d6a423198b91635148be11a94705dbfe150f1d91",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/d6a423198b91635148be11a94705dbfe150f1d91"
+    },
+    {
+      "path": "fly-brain-embodied/data/2025_Completeness_783.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b5a26b82b69a3c2e7fd99cd6810c36fc8f0e492b",
+      "size": 3327347,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/b5a26b82b69a3c2e7fd99cd6810c36fc8f0e492b"
+    },
+    {
+      "path": "fly-brain-embodied/data/2025_Connectivity_783.parquet",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d386555d1a5f40ebfa1380bcb05b1fab044855fd",
+      "size": 100804642,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/d386555d1a5f40ebfa1380bcb05b1fab044855fd"
+    },
+    {
+      "path": "fly-brain-embodied/demo.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "585c8ad1c9613ad5321faae7732012e6a3289c2c",
+      "size": 133,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/585c8ad1c9613ad5321faae7732012e6a3289c2c"
+    },
+    {
+      "path": "fly-brain-embodied/demo_preview.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae5eb29524e1663d783657cf03b249bf8fe811cb",
+      "size": 2560803,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/ae5eb29524e1663d783657cf03b249bf8fe811cb"
+    },
+    {
+      "path": "fly-brain-embodied/docs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fa207c864b7d24c08360eb66a79170331f33d2e5",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/fa207c864b7d24c08360eb66a79170331f33d2e5"
+    },
+    {
+      "path": "fly-brain-embodied/docs/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cf1b9dad4807f042a05a26d02e00827494675ed",
+      "size": 28313,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/3cf1b9dad4807f042a05a26d02e00827494675ed"
+    },
+    {
+      "path": "fly-brain-embodied/environment.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "676f9b82e37f8c3c194515288a6ccd21236acaf7",
+      "size": 314,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/676f9b82e37f8c3c194515288a6ccd21236acaf7"
+    },
+    {
+      "path": "fly-brain-embodied/flight.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e18a7cbdd3bfcbe078c182c37fa60f34a4bd4143",
+      "size": 7329,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/e18a7cbdd3bfcbe078c182c37fa60f34a4bd4143"
+    },
+    {
+      "path": "fly-brain-embodied/fly_alive.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f7a5dea1c1ba0a46dff9f2c4f30a8571426c893",
+      "size": 9016,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/2f7a5dea1c1ba0a46dff9f2c4f30a8571426c893"
+    },
+    {
+      "path": "fly-brain-embodied/fly_behaviors.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dc7e583a0d2a9d7c21c7f789d34ddbdfdcff384d",
+      "size": 3314,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/dc7e583a0d2a9d7c21c7f789d34ddbdfdcff384d"
+    },
+    {
+      "path": "fly-brain-embodied/fly_embodied.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "138f2ae478d0f9b6f55fc586978b4bb4a14c4bed",
+      "size": 47661,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/138f2ae478d0f9b6f55fc586978b4bb4a14c4bed"
+    },
+    {
+      "path": "fly-brain-embodied/fly_walk.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6655f854cd2f45fc1c44ad037e265abf77a35386",
+      "size": 3234,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/6655f854cd2f45fc1c44ad037e265abf77a35386"
+    },
+    {
+      "path": "fly-brain-embodied/generate_paper.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9883d0f350c9b75888ffa09b7a3bb1ac03cd67a",
+      "size": 65085,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/d9883d0f350c9b75888ffa09b7a3bb1ac03cd67a"
+    },
+    {
+      "path": "fly-brain-embodied/generate_paper_es.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ffd68a6742cfdc2e913a45df80002fcced98fa25",
+      "size": 37715,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/ffd68a6742cfdc2e913a45df80002fcced98fa25"
+    },
+    {
+      "path": "fly-brain-embodied/gustatory.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1372a56ed8aa391568b3eefef9bb6b0e20088729",
+      "size": 7001,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/1372a56ed8aa391568b3eefef9bb6b0e20088729"
+    },
+    {
+      "path": "fly-brain-embodied/looming_arena.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3f1a6154a75b1c6fabf93cc6c407397eb9a4f8de",
+      "size": 9527,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/3f1a6154a75b1c6fabf93cc6c407397eb9a4f8de"
+    },
+    {
+      "path": "fly-brain-embodied/main.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "64edc8e91dad8cce89641c8c296ad61d5eb6baad",
+      "size": 4570,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/64edc8e91dad8cce89641c8c296ad61d5eb6baad"
+    },
+    {
+      "path": "fly-brain-embodied/olfactory.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e9e9163c429f6e1fe09c52f1e15bd701f58b8ca",
+      "size": 12625,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/6e9e9163c429f6e1fe09c52f1e15bd701f58b8ca"
+    },
+    {
+      "path": "fly-brain-embodied/paper_emergent_individuality.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6eae96f4e242c3fbf7d54c2929019a6d70eb42cd",
+      "size": 2310486,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/6eae96f4e242c3fbf7d54c2929019a6d70eb42cd"
+    },
+    {
+      "path": "fly-brain-embodied/paper_figures",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a0e7e8a5d7295c6f961ae77652cb570e9d1e869e",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/a0e7e8a5d7295c6f961ae77652cb570e9d1e869e"
+    },
+    {
+      "path": "fly-brain-embodied/paper_figures/demo_frame_10.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36d8523130540b857ff04bfc03ad99fb1a59eeac",
+      "size": 967729,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/36d8523130540b857ff04bfc03ad99fb1a59eeac"
+    },
+    {
+      "path": "fly-brain-embodied/paper_figures/demo_frame_30.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dc15c3d9c541fb7d5ed32218bd08f5c1a4e5dd03",
+      "size": 981255,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/dc15c3d9c541fb7d5ed32218bd08f5c1a4e5dd03"
+    },
+    {
+      "path": "fly-brain-embodied/paper_figures/demo_frame_50.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff66910a83cd16c7141c6e457386514d19ff2052",
+      "size": 1107907,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/ff66910a83cd16c7141c6e457386514d19ff2052"
+    },
+    {
+      "path": "fly-brain-embodied/paper_figures/demo_frame_70.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1ff69fd88c9000b03aec437e159b5233ca6db40",
+      "size": 1017544,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/b1ff69fd88c9000b03aec437e159b5233ca6db40"
+    },
+    {
+      "path": "fly-brain-embodied/paper_figures/fig10_eyes.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c1f9ff79424b97140cc0510a9e58d47e326f2728",
+      "size": 90656,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/c1f9ff79424b97140cc0510a9e58d47e326f2728"
+    },
+    {
+      "path": "fly-brain-embodied/paper_figures/fig1_architecture.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2666e22549755b6c23ca0608f1a57d3246b7b3b",
+      "size": 185860,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/a2666e22549755b6c23ca0608f1a57d3246b7b3b"
+    },
+    {
+      "path": "fly-brain-embodied/paper_figures/fig2_ci_timelines.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49ac025b9cebd74a312bca6c04cd963d10e2b613",
+      "size": 249238,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/49ac025b9cebd74a312bca6c04cd963d10e2b613"
+    },
+    {
+      "path": "fly-brain-embodied/paper_figures/fig3_ci_by_mode.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ee3bd0edc52062351f62b591fd1cca2b2cb37de",
+      "size": 75581,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/7ee3bd0edc52062351f62b591fd1cca2b2cb37de"
+    },
+    {
+      "path": "fly-brain-embodied/paper_figures/fig4_components.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fec51577c67288c2622c23f1ad00f72e2f1110f9",
+      "size": 355508,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/fec51577c67288c2622c23f1ad00f72e2f1110f9"
+    },
+    {
+      "path": "fly-brain-embodied/paper_figures/fig5_evolution.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5fbea4db1e9838d63268e8bcff8269a6e37d0018",
+      "size": 97460,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/5fbea4db1e9838d63268e8bcff8269a6e37d0018"
+    },
+    {
+      "path": "fly-brain-embodied/paper_figures/fig6_plasticity.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "44f2f863427e3b929eff80515f5720b2919f56c9",
+      "size": 117687,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/44f2f863427e3b929eff80515f5720b2919f56c9"
+    },
+    {
+      "path": "fly-brain-embodied/paper_figures/fig7_crosscorr.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0909ba18d8620d61a713b36f723c6ff10568601d",
+      "size": 224111,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/0909ba18d8620d61a713b36f723c6ff10568601d"
+    },
+    {
+      "path": "fly-brain-embodied/paper_figures/fig8_comparison.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "985e3b3bdc1ceb0c0731b66cd3c2ce0b9fa13ebc",
+      "size": 100163,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/985e3b3bdc1ceb0c0731b66cd3c2ce0b9fa13ebc"
+    },
+    {
+      "path": "fly-brain-embodied/paper_figures/fig9_behavior.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bae72b19a3cbb30e45fa7539a6e65c4c4c9bc99b",
+      "size": 717116,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/bae72b19a3cbb30e45fa7539a6e65c4c4c9bc99b"
+    },
+    {
+      "path": "fly-brain-embodied/paper_figures/fly_tripod_camera_front_frame.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbd96e818e8b3d9a8d9696a07028993fad2efd3b",
+      "size": 116062,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/bbd96e818e8b3d9a8d9696a07028993fad2efd3b"
+    },
+    {
+      "path": "fly-brain-embodied/paper_figures/fly_tripod_camera_right_frame.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab4b9b806ea6c2ca0312b7d313a0a3f98f1e7ae8",
+      "size": 113021,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/ab4b9b806ea6c2ca0312b7d313a0a3f98f1e7ae8"
+    },
+    {
+      "path": "fly-brain-embodied/paper_figures/fly_walking_tripod_frame.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "37db25d53402ede019b1d25f8e911410dd1026d6",
+      "size": 157661,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/37db25d53402ede019b1d25f8e911410dd1026d6"
+    },
+    {
+      "path": "fly-brain-embodied/paper_individualidad_emergente_ES.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f0d2ddc5fcef6cc8983234cbf1edc74cccf7bd8",
+      "size": 2310984,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/1f0d2ddc5fcef6cc8983234cbf1edc74cccf7bd8"
+    },
+    {
+      "path": "fly-brain-embodied/procedural_arena.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a27eb50599f4cd562af6c5728da101b5ccf43fad",
+      "size": 19290,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/a27eb50599f4cd562af6c5728da101b5ccf43fad"
+    },
+    {
+      "path": "fly-brain-embodied/scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7d26687a56a314b471ea3dfbfc102196812c2097",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/7d26687a56a314b471ea3dfbfc102196812c2097"
+    },
+    {
+      "path": "fly-brain-embodied/scripts/setup_WSL_CUDA.sh",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d236edc68c76a7181d28ef7c709a1d387589b136",
+      "size": 2615,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/d236edc68c76a7181d28ef7c709a1d387589b136"
+    },
+    {
+      "path": "fly-brain-embodied/somatosensory.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "33eb37495b863d8c082a205498cdd52766cd733b",
+      "size": 14024,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/33eb37495b863d8c082a205498cdd52766cd733b"
+    },
+    {
+      "path": "fly-brain-embodied/two_flies.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2e491ba79010bdb67fe67ae36897de6cbd6dbb2",
+      "size": 46854,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/f2e491ba79010bdb67fe67ae36897de6cbd6dbb2"
+    },
+    {
+      "path": "fly-brain-embodied/visual_system.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ade58bb1721a09206cf9fdf24da1b6315ae164a7",
+      "size": 18508,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/ade58bb1721a09206cf9fdf24da1b6315ae164a7"
+    },
+    {
+      "path": "fly-brain-embodied/visualizer.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "342d7c56986200db09ede60ad1a37db701bf09c6",
+      "size": 10819,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/342d7c56986200db09ede60ad1a37db701bf09c6"
+    },
+    {
+      "path": "fly-brain-embodied/vocalization.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5cfe5272e59192073be2a8ff5fe3ce0a6bf79b45",
+      "size": 6910,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/5cfe5272e59192073be2a8ff5fe3ce0a6bf79b45"
+    },
+    {
+      "path": "plan.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "448498aa7e9ac5bf1ed0805a720106ecb653c0f7",
+      "size": 5357,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/448498aa7e9ac5bf1ed0805a720106ecb653c0f7"
+    },
+    {
+      "path": "preprint.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ae201f59ff2a32813fc7179b3cbb1e3bb2f1762",
+      "size": 33727,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/7ae201f59ff2a32813fc7179b3cbb1e3bb2f1762"
+    },
+    {
+      "path": "preprint.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9499ae3a70942a90179abfe3f8c5fc8ae4fa665",
+      "size": 34991,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/d9499ae3a70942a90179abfe3f8c5fc8ae4fa665"
+    },
+    {
+      "path": "preprint.pdf",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93f227bfd43bf6019f65a74ae9e37a1345953aae",
+      "size": 662473,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/93f227bfd43bf6019f65a74ae9e37a1345953aae"
+    },
+    {
+      "path": "requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "177974f87d1276e99d8fc9a4bfa266eb1625567f",
+      "size": 380,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/177974f87d1276e99d8fc9a4bfa266eb1625567f"
+    },
+    {
+      "path": "results",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0d2f17cdce0df6b914d56c813cdfd8f1d58b32f3",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/0d2f17cdce0df6b914d56c813cdfd8f1d58b32f3"
+    },
+    {
+      "path": "results/00_flight_camera_test.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1df8b57e46c140353ee1082aebf18d2a42f1d823",
+      "size": 148125,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/1df8b57e46c140353ee1082aebf18d2a42f1d823"
+    },
+    {
+      "path": "results/00_legs_only_test.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "62f5dd3d23d246193415dedf17d5602564d3ad7f",
+      "size": 93712,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/62f5dd3d23d246193415dedf17d5602564d3ad7f"
+    },
+    {
+      "path": "results/00_no_wing_test.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c07e8b7f05aa47477d6aa0acd544fadcda73c7a",
+      "size": 96911,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/0c07e8b7f05aa47477d6aa0acd544fadcda73c7a"
+    },
+    {
+      "path": "results/00_tuck_tuck_v1.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "baaa38a627954cf929ce72b421a8cbf674033819",
+      "size": 22899,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/baaa38a627954cf929ce72b421a8cbf674033819"
+    },
+    {
+      "path": "results/00_tuck_tuck_v2.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19a5e5f11bd694ed89c685627949c5d75c605000",
+      "size": 22472,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/19a5e5f11bd694ed89c685627949c5d75c605000"
+    },
+    {
+      "path": "results/00_tuck_tuck_v3.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb04c486ad98b505502334b42e4bd44235b0a614",
+      "size": 22828,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/fb04c486ad98b505502334b42e4bd44235b0a614"
+    },
+    {
+      "path": "results/01_pie_overall.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e76450d3244bd6455bc2825f86896df3db9e406",
+      "size": 81061,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/6e76450d3244bd6455bc2825f86896df3db9e406"
+    },
+    {
+      "path": "results/02_bar_regions.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0916fd21c9ddc48c03c9705b231b34da0e9d7a27",
+      "size": 68191,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/0916fd21c9ddc48c03c9705b231b34da0e9d7a27"
+    },
+    {
+      "path": "results/02_nt_distribution.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c199e69abdb035700536b650cdea59d0d61514f",
+      "size": 2004,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/5c199e69abdb035700536b650cdea59d0d61514f"
+    },
+    {
+      "path": "results/03_da_vs_ser_targets.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ad6d06f3d319e98cdabf833db51a536c63830d8",
+      "size": 57252,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/3ad6d06f3d319e98cdabf833db51a536c63830d8"
+    },
+    {
+      "path": "results/03_dopamine_serotonin.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "441d0983b0c0fd9762da0a03d411f0bf09be9cdf",
+      "size": 4916,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/441d0983b0c0fd9762da0a03d411f0bf09be9cdf"
+    },
+    {
+      "path": "results/04_da_ser_neuron_types.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ebd4c13ab50de360639d3033efaa25e8153d84f",
+      "size": 122407,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/7ebd4c13ab50de360639d3033efaa25e8153d84f"
+    },
+    {
+      "path": "results/04_visualize.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36eec8861f873f063940ac371f6a193190ae45eb",
+      "size": 3202,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/36eec8861f873f063940ac371f6a193190ae45eb"
+    },
+    {
+      "path": "results/05_da_ser_cell_classes.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "463d037b542818b55ccd057afcc0befd577b063e",
+      "size": 72851,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/463d037b542818b55ccd057afcc0befd577b063e"
+    },
+    {
+      "path": "results/05_da_ser_interaction.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "01be9ab8e82fdc537e0dd20900d3b0cec0e7417e",
+      "size": 4444,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/01be9ab8e82fdc537e0dd20900d3b0cec0e7417e"
+    },
+    {
+      "path": "results/06_da_ser_dominance.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0400961096795f67f9cd1c88cd4aaae5d1c12cc",
+      "size": 128051,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/d0400961096795f67f9cd1c88cd4aaae5d1c12cc"
+    },
+    {
+      "path": "results/06_reward_vs_punishment.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f91a9234017c8ca13bc387f1834facf9d068b221",
+      "size": 1937,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/f91a9234017c8ca13bc387f1834facf9d068b221"
+    },
+    {
+      "path": "results/07_da_ser_interaction.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e4d8c9a9efecccdec0190b8581a8d8704ab2294",
+      "size": 95549,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/9e4d8c9a9efecccdec0190b8581a8d8704ab2294"
+    },
+    {
+      "path": "results/07_serotonin_role.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4914f8f628dd310e8cca386df025072212912d1b",
+      "size": 3972,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/4914f8f628dd310e8cca386df025072212912d1b"
+    },
+    {
+      "path": "results/08_bridge_neurons.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f737a2085d62aac41e3d90617cf841b0df282905",
+      "size": 78883,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/f737a2085d62aac41e3d90617cf841b0df282905"
+    },
+    {
+      "path": "results/08_octopamine.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0898f52aecb76fa9e3e1d64178bb9a895ac5219e",
+      "size": 6292,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/0898f52aecb76fa9e3e1d64178bb9a895ac5219e"
+    },
+    {
+      "path": "results/09_gaba_inhibition.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4241ceb142747292243458a5d93fac14bdcb3ba9",
+      "size": 7481,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/4241ceb142747292243458a5d93fac14bdcb3ba9"
+    },
+    {
+      "path": "results/09_interaction_diagram.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ddeb10780ac2872a3f611697ba179a4491179bbf",
+      "size": 106378,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/ddeb10780ac2872a3f611697ba179a4491179bbf"
+    },
+    {
+      "path": "results/10_acetylcholine.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5092d2a67492bef555d3e36a28451ad6a3fcf8e",
+      "size": 4671,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/c5092d2a67492bef555d3e36a28451ad6a3fcf8e"
+    },
+    {
+      "path": "results/10_reward_vs_punishment.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "513623418bf8cbb6fc25f2b52ec546a53ba911c5",
+      "size": 96932,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/513623418bf8cbb6fc25f2b52ec546a53ba911c5"
+    },
+    {
+      "path": "results/11_glutamate.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2016e3359dffa8c83af6d27ad722b8ba3396513",
+      "size": 5959,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/a2016e3359dffa8c83af6d27ad722b8ba3396513"
+    },
+    {
+      "path": "results/11_reward_punishment_diagram.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "17c7afdc4cb569681059508ee453c7580b64e2d3",
+      "size": 92416,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/17c7afdc4cb569681059508ee453c7580b64e2d3"
+    },
+    {
+      "path": "results/12_signal_propagation.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1593addc28a212e2b66a41c790fe87a191d59cfd",
+      "size": 6471,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/1593addc28a212e2b66a41c790fe87a191d59cfd"
+    },
+    {
+      "path": "results/13_taste_propagation.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "73d0fb1ad882dd8dbfce4ca822f5d79839e9af34",
+      "size": 7134,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/73d0fb1ad882dd8dbfce4ca822f5d79839e9af34"
+    },
+    {
+      "path": "results/14_learning_simulation.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4bfc04c46fd79d116efb1092875c0a1e4a3f4f97",
+      "size": 6356,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/4bfc04c46fd79d116efb1092875c0a1e4a3f4f97"
+    },
+    {
+      "path": "results/15_ppl1_priority.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e18de8dd5b0013199a5713d25d58641974f0105",
+      "size": 8236,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/9e18de8dd5b0013199a5713d25d58641974f0105"
+    },
+    {
+      "path": "results/16_sensitivity_analysis.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69a42ef0b49410758841ae152cea5c40c3721be6",
+      "size": 5216,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/69a42ef0b49410758841ae152cea5c40c3721be6"
+    },
+    {
+      "path": "results/17_larva_propagation.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a841a8c8d77ca72d74b6ba2620ffd7a5a7a14d76",
+      "size": 4418,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/a841a8c8d77ca72d74b6ba2620ffd7a5a7a14d76"
+    },
+    {
+      "path": "results/17_larva_propagation.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f860ac9b81d41d0534081896c36a4f6517fec029",
+      "size": 117264,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/f860ac9b81d41d0534081896c36a4f6517fec029"
+    },
+    {
+      "path": "results/18_lif_ppl1_priority.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f37132589e6ba26ef3d12cb502b9f5f91ab3eddd",
+      "size": 4000,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/f37132589e6ba26ef3d12cb502b9f5f91ab3eddd"
+    },
+    {
+      "path": "results/19_decision_circuit.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac2feee7d0f2d4942b8d8afefff4d6f5ea06aa4a",
+      "size": 6687,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/ac2feee7d0f2d4942b8d8afefff4d6f5ea06aa4a"
+    },
+    {
+      "path": "results/19_decision_circuit.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36567f309b1fa0846e5e968368fc7d32a0c70533",
+      "size": 365721,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/36567f309b1fa0846e5e968368fc7d32a0c70533"
+    },
+    {
+      "path": "results/20_threat_first_agent.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63cd97f846212b9fb5c84bbbdccbce9f84560ebc",
+      "size": 6744,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/63cd97f846212b9fb5c84bbbdccbce9f84560ebc"
+    },
+    {
+      "path": "results/20_threat_first_agent.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "25ac811f5bf63929e46e329763eb9636388c7ce7",
+      "size": 442619,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/25ac811f5bf63929e46e329763eb9636388c7ce7"
+    },
+    {
+      "path": "results/21_embodied_brain.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4155fe8f3d2d175a5d5f6a06bb36cc065085cab8",
+      "size": 283648,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/4155fe8f3d2d175a5d5f6a06bb36cc065085cab8"
+    },
+    {
+      "path": "results/21_embodied_brain.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f8c24bfebec38dc7c6691a0d9a51515f148fbd5",
+      "size": 229152,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/8f8c24bfebec38dc7c6691a0d9a51515f148fbd5"
+    },
+    {
+      "path": "results/22_olfactory_navigation.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2639ce40bc84933f6cb91420ad8f3f80636e2e13",
+      "size": 6339,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/2639ce40bc84933f6cb91420ad8f3f80636e2e13"
+    },
+    {
+      "path": "results/22_olfactory_navigation.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c745c7c76fc4f8a00a718ebcad1ddab8c8050e6e",
+      "size": 532229,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/c745c7c76fc4f8a00a718ebcad1ddab8c8050e6e"
+    },
+    {
+      "path": "results/22_olfactory_navigation.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58372ce5c4236d195845f3ee2c75de5b220aba45",
+      "size": 275501,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/58372ce5c4236d195845f3ee2c75de5b220aba45"
+    },
+    {
+      "path": "results/23_sugar_navigation.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5230d309c7315d548594c47bbd1162ea5239f7f5",
+      "size": 2280678,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/5230d309c7315d548594c47bbd1162ea5239f7f5"
+    },
+    {
+      "path": "results/23_sugar_navigation.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1381c5741e980d580cc37b5f509f71907b7b053",
+      "size": 571366,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/b1381c5741e980d580cc37b5f509f71907b7b053"
+    },
+    {
+      "path": "results/24_autonomous_fly.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51c1eb753fb6d9aeba9996a089454cfa05412feb",
+      "size": 1387041,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/51c1eb753fb6d9aeba9996a089454cfa05412feb"
+    },
+    {
+      "path": "results/24_autonomous_fly.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f1e3d054dc3adcc27cea2941cdea8b8f1817c29",
+      "size": 752387,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/7f1e3d054dc3adcc27cea2941cdea8b8f1817c29"
+    },
+    {
+      "path": "results/24_dopamine_levels.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "263cd636d45c277d2a1bc457e4f7b7b72467cfbe",
+      "size": 2608,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/263cd636d45c277d2a1bc457e4f7b7b72467cfbe"
+    },
+    {
+      "path": "results/25_cross_species_decision.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6fcda0c9ab258de502548b2ad3f52a8137b69662",
+      "size": 12083,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/6fcda0c9ab258de502548b2ad3f52a8137b69662"
+    },
+    {
+      "path": "results/25_cross_species_decision.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "992ea18ba989f9ee0a76ec8cd927a2c20eac5704",
+      "size": 572368,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/992ea18ba989f9ee0a76ec8cd927a2c20eac5704"
+    },
+    {
+      "path": "results/26_human_dopamine_receptors.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0fa785c19b056ca8f26704dc456aa3111b58d575",
+      "size": 478578,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/0fa785c19b056ca8f26704dc456aa3111b58d575"
+    },
+    {
+      "path": "results/27_ldopa_simulation.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a0191d25f52db5ce6aa2521e3837c62c359c3ee",
+      "size": 348375,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/8a0191d25f52db5ce6aa2521e3837c62c359c3ee"
+    },
+    {
+      "path": "results/28_flight_escape.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32c6a56326d9522ddf9458008efd29a8bb48f074",
+      "size": 570054,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/32c6a56326d9522ddf9458008efd29a8bb48f074"
+    },
+    {
+      "path": "results/28_flight_escape.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "05654271478f6df7860c932039f7a86d990748c0",
+      "size": 373329,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/05654271478f6df7860c932039f7a86d990748c0"
+    },
+    {
+      "path": "results/28_flight_escape_log.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d01f2e79795a4d87a392d9d948e28b436fbf105",
+      "size": 11881,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/4d01f2e79795a4d87a392d9d948e28b436fbf105"
+    },
+    {
+      "path": "results/29_flight_escape_v2.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95f04ce6fec3cf07d455eb3032056ed9e9360a91",
+      "size": 327139,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/95f04ce6fec3cf07d455eb3032056ed9e9360a91"
+    },
+    {
+      "path": "results/29_flight_escape_v2.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6fd911e9a03f40b36eed81ba2b1bca040b844df4",
+      "size": 312458,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/6fd911e9a03f40b36eed81ba2b1bca040b844df4"
+    },
+    {
+      "path": "results/29_flight_escape_v2_log.csv",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b311afc977deb685243dc25d364dd67f712c56e2",
+      "size": 13599,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/b311afc977deb685243dc25d364dd67f712c56e2"
+    },
+    {
+      "path": "results/fly_walking_v1.mp4",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "755ec67bf984c377bcf0779ce66026e9172fe404",
+      "size": 1001685,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/755ec67bf984c377bcf0779ce66026e9172fe404"
+    },
+    {
+      "path": "web",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1bb06153479466d9700e374d28dd76111871c91a",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/1bb06153479466d9700e374d28dd76111871c91a"
+    },
+    {
+      "path": "web/backend",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bd4cd8f313309fe5f3fbb1684bdb4222c8fe62db",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/bd4cd8f313309fe5f3fbb1684bdb4222c8fe62db"
+    },
+    {
+      "path": "web/backend/backward_sim.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77e05d3d5daca1e66bef17082cdd4bbb5d991c74",
+      "size": 5909,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/77e05d3d5daca1e66bef17082cdd4bbb5d991c74"
+    },
+    {
+      "path": "web/backend/brain_interactive.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b08067fafbeda6dd7b345ffb1c87a7d14c7adc3",
+      "size": 10003,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/0b08067fafbeda6dd7b345ffb1c87a7d14c7adc3"
+    },
+    {
+      "path": "web/backend/calibration_dataset.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4eddf0ba586b9f3fed17508673bd5817027e7369",
+      "size": 5827,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/4eddf0ba586b9f3fed17508673bd5817027e7369"
+    },
+    {
+      "path": "web/backend/courtship_sim.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fba545b01c9513d5bd6978a1e37b3ef455af41aa",
+      "size": 7719,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/fba545b01c9513d5bd6978a1e37b3ef455af41aa"
+    },
+    {
+      "path": "web/backend/dataset_registry.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "20c984d274903634ae1590205daea7a55d13050d",
+      "size": 845,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/20c984d274903634ae1590205daea7a55d13050d"
+    },
+    {
+      "path": "web/backend/datasets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9be380b4b1f176d905aeceb9ab3eb894ae37d1bb",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/9be380b4b1f176d905aeceb9ab3eb894ae37d1bb"
+    },
+    {
+      "path": "web/backend/datasets/dn_calibration_pilot_v1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fdf85d82c64b945b6e5b48869ac22a7ff2e5dbb0",
+      "size": 2861229,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/fdf85d82c64b945b6e5b48869ac22a7ff2e5dbb0"
+    },
+    {
+      "path": "web/backend/datasets/dn_calibration_v1_plan.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1eea6679a6e25fac38a8f16125498f11be893301",
+      "size": 81237,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/1eea6679a6e25fac38a8f16125498f11be893301"
+    },
+    {
+      "path": "web/backend/datasets/dn_response_seed_v1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ea616101263189eba2912a2060b370bb115697a",
+      "size": 239468,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/6ea616101263189eba2912a2060b370bb115697a"
+    },
+    {
+      "path": "web/backend/digital_life.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58ca96ec0570159e48479025386003548b8b7a0c",
+      "size": 35672,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/58ca96ec0570159e48479025386003548b8b7a0c"
+    },
+    {
+      "path": "web/backend/embodied_episode.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2c9ac5e8eff2e7e343d52ee4563901407cf58a3",
+      "size": 21608,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/e2c9ac5e8eff2e7e343d52ee4563901407cf58a3"
+    },
+    {
+      "path": "web/backend/episodes",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "14e3ff16fafbae4b7914e9fc30623f4ef1de10f8",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/14e3ff16fafbae4b7914e9fc30623f4ef1de10f8"
+    },
+    {
+      "path": "web/backend/episodes/embodied_demo_v1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce0f2bc64685524886f8ce3257892cec43b73719",
+      "size": 1967,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/ce0f2bc64685524886f8ce3257892cec43b73719"
+    },
+    {
+      "path": "web/backend/episodes/embodied_demo_v2.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "59baf2682b903a73150ea404411b346d584128f8",
+      "size": 2132,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/59baf2682b903a73150ea404411b346d584128f8"
+    },
+    {
+      "path": "web/backend/episodes/embodied_demo_v3.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9bb0237cd5a97e237394b41275d63c3c75e5bb2e",
+      "size": 3298,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/9bb0237cd5a97e237394b41275d63c3c75e5bb2e"
+    },
+    {
+      "path": "web/backend/episodes/traces",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6be297905b36f51f8e44f9255926a13b57ad82a7",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/6be297905b36f51f8e44f9255926a13b57ad82a7"
+    },
+    {
+      "path": "web/backend/episodes/traces/lif_trace_v1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c14e9c97ba1c2a3c83bb6cfee0bb907235ac21fe",
+      "size": 166296,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/c14e9c97ba1c2a3c83bb6cfee0bb907235ac21fe"
+    },
+    {
+      "path": "web/backend/escape_sim.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d828f6b01ac8f225a5a80c286337f7d42e8750dd",
+      "size": 6439,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/d828f6b01ac8f225a5a80c286337f7d42e8750dd"
+    },
+    {
+      "path": "web/backend/exploration_flight.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5fc9c29ec61247a291d118ba0083b055523cccc",
+      "size": 19686,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/e5fc9c29ec61247a291d118ba0083b055523cccc"
+    },
+    {
+      "path": "web/backend/exploration_walking.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ce17925a4dd57c6e9f6266d8215d9d82debe0e6",
+      "size": 13338,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/6ce17925a4dd57c6e9f6266d8215d9d82debe0e6"
+    },
+    {
+      "path": "web/backend/feed_sim.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e3f89e75a8f1a1cb53a1bf5379966324d3ace62",
+      "size": 8353,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/4e3f89e75a8f1a1cb53a1bf5379966324d3ace62"
+    },
+    {
+      "path": "web/backend/flight_data_preview.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fa9515d378d49f2b89d1bbbdbcc0dbae51eec89d",
+      "size": 23032,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/fa9515d378d49f2b89d1bbbdbcc0dbae51eec89d"
+    },
+    {
+      "path": "web/backend/flying_sim.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e2adde61d72f704d616fb6784138fe52cec7017",
+      "size": 16043,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/8e2adde61d72f704d616fb6784138fe52cec7017"
+    },
+    {
+      "path": "web/backend/grooming_sim.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "08360ad051c08b6a7b1b1c177488cb606f699ded",
+      "size": 11430,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/08360ad051c08b6a7b1b1c177488cb606f699ded"
+    },
+    {
+      "path": "web/backend/main.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec37f2bd6af5dcafcab7c231c7900db7b1417268",
+      "size": 15039,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/ec37f2bd6af5dcafcab7c231c7900db7b1417268"
+    },
+    {
+      "path": "web/backend/models.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f17ec183d89f45384c8b860e19e92c5ac83a3e4",
+      "size": 1419,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/1f17ec183d89f45384c8b860e19e92c5ac83a3e4"
+    },
+    {
+      "path": "web/backend/motor_state_resolver.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c204a5fcf31041c305d0e120b79fa0a0f9e1c117",
+      "size": 6297,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/c204a5fcf31041c305d0e120b79fa0a0f9e1c117"
+    },
+    {
+      "path": "web/backend/odor_sim.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "383c419b85c1fcaf9f47d986e695d6d95a1ca0f8",
+      "size": 6263,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/383c419b85c1fcaf9f47d986e695d6d95a1ca0f8"
+    },
+    {
+      "path": "web/backend/run_calibration_pilot.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e9ab68ee3812c0126da7cb6aeb7a3258e29fff4",
+      "size": 9134,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/3e9ab68ee3812c0126da7cb6aeb7a3258e29fff4"
+    },
+    {
+      "path": "web/backend/sensory_contracts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "131d61a78b18d7e2dd31c05a6b0ccb3fc1f00ea6",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/131d61a78b18d7e2dd31c05a6b0ccb3fc1f00ea6"
+    },
+    {
+      "path": "web/backend/sensory_contracts/sensory_contract_v1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d50a1afff4701f88f70818a4402273779039948e",
+      "size": 2118,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/d50a1afff4701f88f70818a4402273779039948e"
+    },
+    {
+      "path": "web/backend/simulation_bridge.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dcfa697ab071cb5acc70f6c2eeacf1b5f8620a48",
+      "size": 18233,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/dcfa697ab071cb5acc70f6c2eeacf1b5f8620a48"
+    },
+    {
+      "path": "web/backend/simulation_recorder.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11bb4600adafd1e1b1c16511b14899a6ae855b05",
+      "size": 12381,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/11bb4600adafd1e1b1c16511b14899a6ae855b05"
+    },
+    {
+      "path": "web/backend/walk_cache",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "79f99b814f4247443c96831ada15021efb551151",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/79f99b814f4247443c96831ada15021efb551151"
+    },
+    {
+      "path": "web/backend/walk_cache/backward_4.0s.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f86ddc97ada458729b3c85f2b3f4dd8a738fbd37",
+      "size": 556351,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/f86ddc97ada458729b3c85f2b3f4dd8a738fbd37"
+    },
+    {
+      "path": "web/backend/walk_cache/courtship_5.0s.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eae5680cffb928f9c91c437799c5cd1369eb53eb",
+      "size": 697266,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/eae5680cffb928f9c91c437799c5cd1369eb53eb"
+    },
+    {
+      "path": "web/backend/walk_cache/escape_3.0s.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca8cad8f625944408a9dfee8962ea37df5c1063b",
+      "size": 418333,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/ca8cad8f625944408a9dfee8962ea37df5c1063b"
+    },
+    {
+      "path": "web/backend/walk_cache/feed_flybody_4.0s.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85e15bc81a3925ca53b310b2a96b718322ba6db1",
+      "size": 672323,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/85e15bc81a3925ca53b310b2a96b718322ba6db1"
+    },
+    {
+      "path": "web/backend/walk_cache/flight_3.0s.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f92d2f927ce729e18de6743cfa17398cdc68e60b",
+      "size": 417935,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/f92d2f927ce729e18de6743cfa17398cdc68e60b"
+    },
+    {
+      "path": "web/backend/walk_cache/flight_data_preview_v1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16980a08476588edc3c45cca157ee7c854ac440c",
+      "size": 4226251,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/16980a08476588edc3c45cca157ee7c854ac440c"
+    },
+    {
+      "path": "web/backend/walk_cache/flight_leg_posture_v3_4.2s.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ae8eef98754c93d6eff344254667afbf33f117b",
+      "size": 588816,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/7ae8eef98754c93d6eff344254667afbf33f117b"
+    },
+    {
+      "path": "web/backend/walk_cache/groom_3.0s.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff29325f65b311910e44bb43cd8aad69579741e8",
+      "size": 417994,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/ff29325f65b311910e44bb43cd8aad69579741e8"
+    },
+    {
+      "path": "web/backend/walk_cache/groom_eye_clean_v2_3.0s.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f47022d0bc884daf9d86e32a4660a837d53d4b60",
+      "size": 418185,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/f47022d0bc884daf9d86e32a4660a837d53d4b60"
+    },
+    {
+      "path": "web/backend/walk_cache/odor_5.0s.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f74a1572d596b721b947c93227bb7c69b64b3b01",
+      "size": 696688,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/f74a1572d596b721b947c93227bb7c69b64b3b01"
+    },
+    {
+      "path": "web/backend/walk_cache/walk_5.0s.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0abf4021c5e4d84f49edb4daf4424889df54dd4b",
+      "size": 693512,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/0abf4021c5e4d84f49edb4daf4424889df54dd4b"
+    },
+    {
+      "path": "web/backend/walk_cache/walk_flybody_real.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12bcf59425b75b11566c70e80b7c7359ad825d24",
+      "size": 1127801,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/12bcf59425b75b11566c70e80b7c7359ad825d24"
+    },
+    {
+      "path": "web/backend/walk_cache/walking_data_preview_v1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "83b781c966eec247b23409ee8e7d56c99ca4a375",
+      "size": 1335038,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/83b781c966eec247b23409ee8e7d56c99ca4a375"
+    },
+    {
+      "path": "web/backend/walk_flybody_sim.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8492880be68911bbf79ec27b7dbb7f3717aae768",
+      "size": 7878,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/8492880be68911bbf79ec27b7dbb7f3717aae768"
+    },
+    {
+      "path": "web/backend/walking_data_preview.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "312b0824a8f4c9a9597c67d492733dec7552bfbd",
+      "size": 15332,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/312b0824a8f4c9a9597c67d492733dec7552bfbd"
+    },
+    {
+      "path": "web/backend/walking_sim.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c67f5840b635a79b0229f71275632127361842ee",
+      "size": 6546,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/c67f5840b635a79b0229f71275632127361842ee"
+    },
+    {
+      "path": "web/backend/world_config.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "92815678845e1888684753ab754da1cf6dcc01eb",
+      "size": 2762,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/92815678845e1888684753ab754da1cf6dcc01eb"
+    },
+    {
+      "path": "web/backend/worlds",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "08af7ae00ce75716ad4a46bd2ee1b436184d21fb",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/08af7ae00ce75716ad4a46bd2ee1b436184d21fb"
+    },
+    {
+      "path": "web/backend/worlds/microhabitat_v1.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ea9e239f32e1c8f43c3c07532a2b9d413673188",
+      "size": 2421,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/4ea9e239f32e1c8f43c3c07532a2b9d413673188"
+    },
+    {
+      "path": "web/frontend",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c32fa680b7fc4ca70f4a518a9b22d26c73c23d7d",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/c32fa680b7fc4ca70f4a518a9b22d26c73c23d7d"
+    },
+    {
+      "path": "web/frontend/assets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8e84dfd064ce94a427652b299da1bcba3909b7af",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/8e84dfd064ce94a427652b299da1bcba3909b7af"
+    },
+    {
+      "path": "web/frontend/assets/brain_map.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63527490595627f65200d3d3659ef0c3529f5a0c",
+      "size": 276865,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/63527490595627f65200d3d3659ef0c3529f5a0c"
+    },
+    {
+      "path": "web/frontend/assets/fly_pose.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75e1aee34acba3e7af298562bf1027b337ad001d",
+      "size": 5859,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/75e1aee34acba3e7af298562bf1027b337ad001d"
+    },
+    {
+      "path": "web/frontend/assets/flybody.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3498d472a6f94cb0bf45db787427428ccc91694",
+      "size": 15034624,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/d3498d472a6f94cb0bf45db787427428ccc91694"
+    },
+    {
+      "path": "web/frontend/assets/flybody_pose.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9574f447ee40c0474725676f0173e7a4c035ccf6",
+      "size": 7717,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/9574f447ee40c0474725676f0173e7a4c035ccf6"
+    },
+    {
+      "path": "web/frontend/assets/geom_names.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f521a9855c1ff194e4d96aa95e27b4c102905c4",
+      "size": 789,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/0f521a9855c1ff194e4d96aa95e27b4c102905c4"
+    },
+    {
+      "path": "web/frontend/assets/neuromechfly.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a8a5073cf5211a047e39a5e625b53364d6883592",
+      "size": 9658888,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/a8a5073cf5211a047e39a5e625b53364d6883592"
+    },
+    {
+      "path": "web/frontend/assets/proboscis_flybody.glb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5643d847adda43398d330473a6ad16986b86cf8d",
+      "size": 93700,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/5643d847adda43398d330473a6ad16986b86cf8d"
+    },
+    {
+      "path": "web/frontend/css",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ad5a85a8f81ef75082eba369e2e8e9172203673c",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/ad5a85a8f81ef75082eba369e2e8e9172203673c"
+    },
+    {
+      "path": "web/frontend/css/style.css",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a7f1833681bd8e61acc47f839e20315c58db53e",
+      "size": 13334,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/4a7f1833681bd8e61acc47f839e20315c58db53e"
+    },
+    {
+      "path": "web/frontend/index.html",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1e0b1c173e6ae4dea892a4eb569e321004f0d1d",
+      "size": 17497,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/f1e0b1c173e6ae4dea892a4eb569e321004f0d1d"
+    },
+    {
+      "path": "web/frontend/js",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "283eea90028fbee69b1a7607403be868f39af3e8",
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/trees/283eea90028fbee69b1a7607403be868f39af3e8"
+    },
+    {
+      "path": "web/frontend/js/app.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c9463155b1a93acc65b2dbd74194aa22108c1c1",
+      "size": 23916,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/1c9463155b1a93acc65b2dbd74194aa22108c1c1"
+    },
+    {
+      "path": "web/frontend/js/brain_vis.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a938194ff5aacc18c00d44297597e17542c9eb18",
+      "size": 19164,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/a938194ff5aacc18c00d44297597e17542c9eb18"
+    },
+    {
+      "path": "web/frontend/js/controls.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b749540eefba56a4967f56f67868bc6d130777a7",
+      "size": 2529,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/b749540eefba56a4967f56f67868bc6d130777a7"
+    },
+    {
+      "path": "web/frontend/js/dashboard.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19a8bb9efe2ea9d83387c21537657a1667f44c37",
+      "size": 8310,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/19a8bb9efe2ea9d83387c21537657a1667f44c37"
+    },
+    {
+      "path": "web/frontend/js/room.js",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4624cb228cd8a6d7addcf988bfa494c92f49df3",
+      "size": 37418,
+      "url": "https://api.github.com/repos/pusulamkendim/flywire-neuro/git/blobs/d4624cb228cd8a6d7addcf988bfa494c92f49df3"
+    }
+  ],
+  "truncated": false
+}

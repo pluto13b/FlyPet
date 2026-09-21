@@ -1,0 +1,54 @@
+{
+  "dataset": "Shiu Drosophila_brain_model full paired FAFB v783 release",
+  "source_base": "https://raw.githubusercontent.com/philshiu/Drosophila_brain_model/91bdd1e7dcf193f3e7ca5a8933497fcef63b7960/",
+  "neurons": 138639,
+  "classification_table_neurons": 139255,
+  "unclassified_endpoints": 0,
+  "classification_neurons_absent_from_paired_release": 616,
+  "input_connection_rows": 15091983,
+  "connections": 15091983,
+  "synaptic_contacts": 54492922,
+  "minimum_synapses": 1,
+  "dropped_connection_rows": 0,
+  "zero_signed_connections": 0,
+  "array_bytes": 183500484,
+  "populations": {
+    "photoreceptor": 10616,
+    "LC4": 104,
+    "LPLC2": 210,
+    "GF": 2,
+    "DNa02": 2,
+    "DNp09": 2,
+    "central": 32377,
+    "descending": 1301
+  },
+  "prepare_seconds": 2.3408272999949986,
+  "sign_model": "preserve supplied Excitatory x Connectivity; no local transmitter sign override",
+  "files": [
+    {
+      "name": "classification.csv.gz",
+      "bytes": 934402,
+      "url": "https://storage.googleapis.com/flywire-data/codex/data/fafb/783/classification.csv.gz"
+    },
+    {
+      "name": "Completeness_783.csv",
+      "bytes": 3327347,
+      "url": "https://raw.githubusercontent.com/philshiu/Drosophila_brain_model/91bdd1e7dcf193f3e7ca5a8933497fcef63b7960/Completeness_783.csv"
+    },
+    {
+      "name": "connections.csv.gz",
+      "bytes": 50289304,
+      "url": "https://storage.googleapis.com/flywire-data/codex/data/fafb/783/connections.csv.gz"
+    },
+    {
+      "name": "Connectivity_783.parquet",
+      "bytes": 100804642,
+      "url": "https://raw.githubusercontent.com/philshiu/Drosophila_brain_model/91bdd1e7dcf193f3e7ca5a8933497fcef63b7960/Connectivity_783.parquet"
+    },
+    {
+      "name": "consolidated_cell_types.csv.gz",
+      "bytes": 901707,
+      "url": "https://storage.googleapis.com/flywire-data/codex/data/fafb/783/consolidated_cell_types.csv.gz"
+    }
+  ]
+}

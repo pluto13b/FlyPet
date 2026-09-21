@@ -1,0 +1,112 @@
+[
+  {
+    "repo": "DenisSergeevitch/desktop-fly",
+    "url": "https://github.com/DenisSergeevitch/desktop-fly",
+    "stars": 1007,
+    "license": "NOASSERTION",
+    "archived": false,
+    "pushed_at": "2026-09-05T19:50:05Z",
+    "commit": "32b00011e83c3dc85fa3ea0b3934155b04f1635d",
+    "observed_at": "2026-09-19T17:00:04.7910427+08:00"
+  },
+  {
+    "repo": "dtch1997/fly-api",
+    "url": "https://github.com/dtch1997/fly-api",
+    "stars": 7,
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-09-08T15:04:40Z",
+    "commit": "a6ad07a810b1a43cd0356149c07b32105eb46d2a",
+    "observed_at": "2026-09-19T17:00:04.7951570+08:00"
+  },
+  {
+    "repo": "freaker2k7/desktop-fly",
+    "url": "https://github.com/freaker2k7/desktop-fly",
+    "stars": 3,
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-09-15T15:26:27Z",
+    "commit": "e1ae3fb6ccae986820f7a0468e5b254c1307f983",
+    "observed_at": "2026-09-19T17:00:04.7966581+08:00"
+  },
+  {
+    "repo": "NeLy-EPFL/flygym",
+    "url": "https://github.com/NeLy-EPFL/flygym",
+    "stars": 357,
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-08-24T11:57:38Z",
+    "commit": "38c8ec61034cd59bc5ba0de20688d4a3c0000d60",
+    "observed_at": "2026-09-19T17:00:04.8096460+08:00"
+  },
+  {
+    "repo": "NeLy-EPFL/NeuroMechFly",
+    "url": "https://github.com/NeLy-EPFL/NeuroMechFly",
+    "stars": 62,
+    "license": "Apache-2.0",
+    "archived": true,
+    "pushed_at": "2024-10-11T21:39:41Z",
+    "commit": "6fdc6212bcf5b71fcd47bca119876c92092c2cd6",
+    "observed_at": "2026-09-19T17:00:04.8123185+08:00"
+  },
+  {
+    "repo": "philshiu/Drosophila_brain_model",
+    "url": "https://github.com/philshiu/Drosophila_brain_model",
+    "stars": 323,
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2024-09-14T13:47:44Z",
+    "commit": "91bdd1e7dcf193f3e7ca5a8933497fcef63b7960",
+    "observed_at": "2026-09-19T17:00:04.8134292+08:00"
+  },
+  {
+    "repo": "pusulamkendim/flywire-neuro",
+    "url": "https://github.com/pusulamkendim/flywire-neuro",
+    "stars": 6,
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-07-16T16:19:39Z",
+    "commit": "9bafdeb0a04635a79a2581a017fa506585860d02",
+    "observed_at": "2026-09-19T17:00:04.8166436+08:00"
+  },
+  {
+    "repo": "rembish/fruit-fly",
+    "url": "https://github.com/rembish/fruit-fly",
+    "stars": 1,
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-08-21T13:47:45Z",
+    "commit": "5fd0166c2a6e121222c94a2e3653072b8024b1f3",
+    "observed_at": "2026-09-19T17:00:04.8182931+08:00"
+  },
+  {
+    "repo": "SpikeCalls/FlyDrones",
+    "url": "https://github.com/SpikeCalls/FlyDrones",
+    "stars": 188,
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-09-16T06:18:25Z",
+    "commit": "3e269346b3882c291d2a977bc2c2c6a9c9213c21",
+    "observed_at": "2026-09-19T17:00:04.8200963+08:00"
+  },
+  {
+    "repo": "TuragaLab/flybody",
+    "url": "https://github.com/TuragaLab/flybody",
+    "stars": 920,
+    "license": "Apache-2.0",
+    "archived": false,
+    "pushed_at": "2026-02-07T03:55:45Z",
+    "commit": "d015e9bfe441bd90ae431bac24c55cb74bdbce26",
+    "observed_at": "2026-09-19T17:00:04.8228041+08:00"
+  },
+  {
+    "repo": "TuragaLab/flyvis",
+    "url": "https://github.com/TuragaLab/flyvis",
+    "stars": 179,
+    "license": "MIT",
+    "archived": false,
+    "pushed_at": "2026-08-18T21:25:52Z",
+    "commit": "92b3845cc426dd309a1a0e1b3890156c42e14021",
+    "observed_at": "2026-09-19T17:00:04.8273259+08:00"
+  }
+]
